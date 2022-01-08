@@ -25,3 +25,12 @@ We will be using the brand new spacy version 3.0 for tokenization, parsing and n
 
 ## Document mining Part 7
 Let us try T5 summarization capabilities ( example for summarization function from denis Rothman book Transformers for Natural Language Processing
+
+## Document mining Part 8
+Topic modeling is a very interesting aspect of document classification and search. In this notebook we are explorin topic modeling using AWS Comprehend topic modeling feature.
+
+## Document mining Part 9
+Topic modeling is a very interesting aspect of document classification and search. In this notebook we are explorin topic modeling using the built-in LDA topic modeling algorithm from SageMaker
+
+## Document mining Part 10
+Topic modeling is a very interesting aspect of document classification and search. In this notebook we are explorin topic modeling using the built-in NTM topic modeling algorithm from SageMaker
