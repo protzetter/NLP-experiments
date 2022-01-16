@@ -1,0 +1,1726 @@
+Technology and
+innovation in the
+insurance sector
+
+TECHNOLOGY AND INNOVATION
+IN THE INSURANCE SECTOR
+
+Please cite this publication as:
+OECD (2017), Technology and innovation in the insurance sector
+
+This work is published under the responsibility of the Secretary-General of the OECD. The opinions
+expressed and arguments employed herein do not necessarily reflect the official views of the OECD or
+of the governments of its member countries or those of the European Union.
+This document and any map included herein are without prejudice to the status or sovereignty over
+any territory, to the delimitation of international frontiers and boundaries and to the name of any
+territory, city, or area.
+
+© OECD 2017
+
+FOREWORD
+
+Foreword
+“Insurtech” is the term being used to describe the new technologies with the potential to
+bring innovation to the insurance sector and impact the regulatory practices of insurance
+markets. This report catalogues these technologies and examines how InsurTech is being
+funded and how insurers are engaging with the start-ups entering the market.
+
+This report was prepared as part of the programme of work of the OECD Insurance and
+Private Pensions Committee, the international forum for addressing policy and regulatory
+issues in insurance and private pensions for governments, international organisations and
+industry. It has benefited from input from the insurance market and industry, including
+from a number of insurance start-ups. This report contributes to the OECD’s Going
+Digital project which is examining from a wide range of perspectives how technology and
+innovation is affecting the economy.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│3
+
+TABLE OF CONTENTS
+
+│5
+
+Table of contents
+Executive summary ............................................................................................................................... 7
+1. Introduction ....................................................................................................................................... 8
+2. Funding of InsurTech ..................................................................................................................... 11
+3. Insurance intermediation and distribution models ...................................................................... 16
+4. The sharing economy and insurance ............................................................................................. 21
+5. Robo-advice and AI ......................................................................................................................... 23
+6. Data aggregation and analytics ...................................................................................................... 26
+7. The role of policy and regulation in InsurTech ............................................................................ 29
+Insurance regulation and innovation hubs ......................................................................................... 29
+AI and the regulation of technology-based advice............................................................................. 34
+Privacy and data protection issues ..................................................................................................... 34
+RegTech ............................................................................................................................................. 36
+Wider policy considerations .............................................................................................................. 38
+8. Conclusions ...................................................................................................................................... 40
+References ............................................................................................................................................ 42
+
+Figures
+1. InsurTech financing trend (2011-2016)............................................................................................. 13
+2. InsurTech deal activity by focus area (US only, health vs non-health) ............................................. 13
+3. Tech start-up investment by (re)insurers (2012-2016) ...................................................................... 14
+
+Boxes
+Box 1. OECD Work on FinTech ........................................................................................................... 10
+Box 2. Technology relevant to InsurTech ............................................................................................. 11
+Box 3. Funding of InsurTech by (re)insurers ........................................................................................ 14
+Box 4. BIMA ......................................................................................................................................... 16
+Box 5. Friendsurance, InsPeer and Guevara ......................................................................................... 17
+Box 6. Lemonade .................................................................................................................................. 18
+Box 7. The use of blockchains in insurance .......................................................................................... 19
+Box 8. Robo-advice for insurance ......................................................................................................... 24
+Box 9. PolicyGenius .............................................................................................................................. 24
+Box 10. Estonian Insurance Association’s motor insurance database ................................................... 28
+Box 11. Monetary Authority of Singapore's approach .......................................................................... 30
+Box 12. The UK Financial Conduct Authority’s Project Innovate ....................................................... 31
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+6│
+
+TABLE OF CONTENTS
+
+Box 13. Autonomous cars and insurance .............................................................................................. 33
+Box 14. EU General Data Protection Regulation (GDPR) .................................................................... 36
+Box 15. RegTech and algorithms .......................................................................................................... 37
+Box 16. Estonia’s electronic ID card and digital signature services ..................................................... 39
+
+EXECUTIVE SUMMARY
+
+Executive summary
+Innovation through new technologies is a key driver of change in the financial sector and this
+has led to immeasurable efficiency gains, even though these changes can initially be
+accompanied by uncertainty and doubt. The insurance sector is no exception to such
+developments, with possibilities of new methods of service provision as well as greater
+opportunities for data collection and fraud detection that can lead to better risk identification
+and mitigation measures, which are being referred to as “InsurTech”.
+This report catalogues the relevant technologies that are being viewed as having the potential
+to bring innovation to the insurance sector. How InsurTech is being funded is examined, as
+this indicates which markets are actively investing in start-ups and how insurers are engaging
+with start-ups. Case studies are made of insurance start-ups, and how blockchain technology,
+sharing economy, robo-advice and data aggregation are influencing the insurance sector is
+discussed. The manner in which insurers engage technology to ensure better compliance with
+regulation is also examined.
+Innovation and new technologies have the potential to affect the franchise value of insurance
+companies, with accompanying competition policy considerations. Policies which have
+tailored coverage and simplified claims processes can improve coverage to segments of
+society that hitherto were not able to access financial protection. Regulatory approaches, such
+as the regulatory sandbox being developed by a number of jurisdictions, may bridge greater
+competition and prudential requirements, although ensuring a level playing field as solutions
+graduate into the full market require some consideration.
+There are a number of areas in which greater regulatory discussion should take place, as the
+transparency of the technology and the impact on policyholder’s choice and rights may not be
+clear. Data protection is an area that will require closer examination by regulators, as the
+volume of personal data handled by insurers increases, whether consensus was gained for the
+intended use becomes blurred. Data aggregation brings forth the possibility of certain segment
+of the population becoming uninsurable, so how data is harnessed should be closely
+considered. The treatment of algorithms is also an area for further discussion to ensure that
+the assumptions built in are appropriate and unintended consequences are avoided in so far as
+possible, and regulators have a means of engaging in this assessment. These could have
+implications on the ongoing monitoring of operational risk and internal control of insurers.
+Ensuring that policyholders are fairly treated and appropriately protected when the
+implications of certain innovations and technologies are uncertain will be important going
+forward.
+As emerging markets have less of an established distribution network of insurance, innovation
+and technology may have the greatest impact in such markets. Nevertheless, whether
+developed or emerging, appropriate regulatory monitoring should be carried out to ensure that
+the welfare of policyholders is safeguarded.
+There are number of ways in which regulatory approaches could be considered for InsurTech,
+but as well in the wider FinTech realm. The OECD is engaging with FinTech issues in a
+number of ways, and further areas of discussion are proposed. This report is part of a wider
+project by the OECD on FinTech developments, as well as the OECD horizontal project on
+Seizing the Benefits of Digitalisation for Growth and Well-Being.
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│7
+
+8│
+
+1. INTRODUCTION
+
+1. Introduction
+
+Innovation through new technologies is a key driver of change in the financial sector and this
+has led to immeasurable efficiency gains, even though these changes can initially be
+accompanied by uncertainty and doubt. In recent years, such innovation has happened on
+the back of new technological developments, with the phenomenon often being described
+as “FinTech”. As financial services deal in intangible products, it is well suited for
+technological innovation to lower transaction costs and expedite the delivery of services.
+Although this has, in fact, been happening over the history of finance, the recent
+proliferation of internet connections, home computing and mobile devices, and the
+development of applications has led to the possibility of lowering the barrier for market
+entry, paving the way for greater competition in or “disruption” of the financial industry.
+However, slating technological and innovation as “disruptive” technology can be
+misleading, and it is likely to be more a hindsight observation than the everyday trial and
+error that accompanies innovation and technological advances.
+
+The insurance sector is not an exception to this, with developments in technology leading
+to possibilities of new methods of service provision as well as greater opportunities for
+data collection that can lead to better risk identification and mitigation measures, which
+are being referred to as “InsurTech”. InsurTech, as compared to FinTech, is more often
+related to service improvements for individuals, as opposed to businesses.
+Innovation is generally regarded as a positive development, delivering convenience and
+efficiency. For example, the advent of cash points (ATMs) assisted people to gain access
+to cash even out of business hours and lowered the costs for banks. Improvements in
+communication networks and processing capacity have led to faster payment processes.
+Insurance claims can be processed via online platforms, with less time for processing.
+Comparative sites permit product comparison of various insurance products.
+How the insurance sector responds to economical and society-wide technological
+innovations, and provides insurance processes and policies that integrate such changes
+would be an important development to consider. For example, the sharing economy has
+made start-ups, such as Uber, making available ridesharing more conveniently and
+widely. While commercial motor liability insurance would be a requirement for taxi
+drivers, Uber drivers may not have the appropriate coverage as it is often their side
+business or a part-time job. Insurance companies are already responding to this specific
+case, but it presents a wider question of how insurance responds to new risks that do not
+fit the traditional lifestyle and/or economic activity of individuals or businesses.
+Given that underwriting is largely based on the analysis of historical data to carry out the
+risk assessment of a policyholder, insurance, on first glance, appears particularly well
+suited for “big data” analysis. Big data and blockchain have been major topics in many
+insurance discourses of technology.
+InsurTech has attracted large venture capital investments, and the trend of financing
+indicates that many start-ups are considered by investors to be commercially viable on a
+
+1. INTRODUCTION
+
+mass-scaled basis. Insurers themselves are making strategic investments in insurance
+start-ups, allowing them to have a stake in these developments while providing the capital
+for such enterprises to develop their business.
+A number of insurance start-ups such as Friendsurance, Lemonade and Policygenius have
+attracted large investments. To comprehend how disruption may be happening in the
+insurance sector, case studies of start-ups are presented throughout this report, to provide
+context, and better understand how such businesses are being developed and how they are
+different from traditional business models.
+There are new forms of processes that may be improving the efficiency of intermediation
+and claims management. Most insurance start-ups involved in distribution have sites with
+well-developed contents, often accompanied by the application of artificial intelligence or
+robo-advice. These are intended to give an improved customer experience and lower
+commission/fees for when products are sold, although the initial fixed cost will likely be
+higher. Some outlooks predict the number of insurance employees will drop as a result of
+some of these evolutions (McKinsey, 2015).
+This report examines the various innovations taking place in the insurance sector, and
+what policy and regulatory impact they may have, as well as the benefits that could be
+reaped from innovation in the insurance sector, especially for policyholders. There are
+regulatory and competition considerations that need to be made as “disruption” to the
+industry is often about new market entries as well as new modes of service provision
+which may not fit the mode in which regulations was conceived upon. There are also
+wider privacy and data protection issues which require close attention given that
+InsurTech by nature usually involves a digital component to the technology.
+This report is part of a wider project of the OECD to examine FinTech developments, as
+well as the OECD horizontal project on Seizing the Benefits of Digitalisation for Growth
+and Well-Being (see Box 1).
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│9
+
+10 │
+
+1. INTRODUCTION
+
+Box 1. OECD Work on FinTech
+As part of an OECD-wide project presented at the June 2016 Ministerial meeting on
+Digitalisation of the Economy and Society, various OECD bodies have been, and will be,
+covering this area from a wide range of perspectives, ranging from the impact on traditional
+financial firms and payment systems to issues related to competition, and financial
+consumer protection and literacy. The OECD’s Going Digital project (www.oecd.org/goingdigital/) was officially launched on 12 January 2017 at a conference organised jointly by the
+OECD and the German Federal Ministry of Economic Affairs and Energy in Berlin. The
+conference brought together a wide range of stakeholders to discuss some of the most
+pressing policy challenges related to the digital transformation. This conference served to
+inform the Going Digital project and to kick-off the German G20 Presidency’s digital
+agenda.
+In October 2015, OECD Competition Committee held a Hearing on Disruptive Innovation in
+the Financial Sector. The hearing focused on the example of peer-to-peer lending, equity
+crowd-funding, digital currencies, and payment mechanisms, and was based on the
+premise that innovators are needed to contest markets, stimulate competition and enhance
+productivity, especially in financial services where network effects can create natural
+monopolies, concentrate rents and render financial services expensive and exclusive. The
+hearing explored such issues, assessed the impact of selected financial innovations on
+consumers, and discussed how existing regulatory frameworks can be changed to
+encourage the introduction of new business models and technologies – and not stifle them
+at too early a stage.
+The OECD/International Network on Financial Education also undertook work on the
+implications of digitalisation for financial literacy and relevant aspects of financial consumer
+protection. The G20/OECD/INFE report “Ensuring Financial Education and Consumer
+Protection for All in the Digital Age” was submitted to the G20 presidency in April 2017.
+The OECD contributed to the development of the G20 High-level Principles on Digital
+Financial Inclusion, endorsed by G20 Leaders in September 2016.
+The OECD Insurance and Private Pensions Committee (IPPC) held a Roundtable on
+Technology and Innovation in the Insurance Sector in June 2016. Participants approved a
+project outlining the implications of technology and innovation for the insurance sector. As part
+of its work on robo-advice, the IPPC organised a Roundtable on Robo-Advice in retirement
+saving in June 2017 to discuss better understanding how these types of platforms operate from
+a regulatory/supervisory perspective.
+
+2. FUNDING OF INSURTECH
+
+2. Funding of InsurTech1
+
+Funding for new technology and innovation in the insurance sector are impacted by the
+wider venture capital (VC) possibilities in the market. In the United States, InsurTechs
+have benefited from a rich and competitive market place for VC funding, and many
+insurance start-ups have successfully completed a number of funding rounds. On the
+other hand, some markets do not have a strong VC culture, so the approach to raising
+capital would be different, with public sources becoming more important. For example,
+the French start-up, InsPeer, has funding from a number of public sources.
+
+Box 2. Technology relevant to InsurTech
+A number of wider technological developments and innovations underpin many of
+InsurTech developments. Some of the technologies are inter-related and a brief review of
+them is useful in establishing a common understanding of their nature.
+Mobile technology and applications (apps)
+The network effect of mobile phones and development of applications for these devices
+(“apps”) has allowed many companies to reach a bigger audience than was previously
+possible. Mobile technology may be working in different ways for InsurTech, depending
+on the generation of mobile networks available, and the types of handsets that are most
+widely used.
+Smartphones and internet access enable innovations which are based on the use of
+apps. For this, mobile networks that allow short messages and pre-paid mobile phones,
+as well as large data transfers would be necessary. This is particularly relevant to
+emerging markets which have low insurance penetration and do not have a wellestablished distribution network. As in the example of BIMA (Box 7), mobile phones have
+the ability to notify individuals via SMS on anything from the insurance coverage to
+reminding them of imminent withdrawal of airtime for premium payments.
+Artificial intelligence (AI), algorithms and robo-advice
+AI is intelligence exhibited by machines. A machine would be considered “intelligent”
+when it takes into consideration its environment and takes action to maximise the
+possibility of achieving its given goal. It is widely used when computer programmes are
+developed to have cognitive functions such as learning and problem solving. AI research
+is taking place in fields including reasoning, knowledge, planning, learning, natural
+language processing, perception and moving/manipulating objects.
+
+1
+
+This section draws heavily on data from CB Insights which is the leading data and information
+provider on private company investment.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 11
+
+12 │
+
+2. FUNDING OF INSURTECH
+
+Box 2. Technology relevant to InsurTech (cont.)
+Algorithms are part of AI, where there is a set of steps for a computer programme to
+achieve a task under certain conditions. Well known algorithms include route navigation
+systems or computer chess games. In the financial sector, algorithmic trading, such as
+high frequency trading, is wide spread, with pre-programmed trading instructions to
+execute large trading orders. The algorithm would follow a set of conditional instructions
+for placing a trade order at a speed and frequency that is not possible for a human trader.
+Robo-advice, or automated advice, is becoming prominent particularly for online
+investment and savings platforms. It can cover a broad spectrum of services, but is
+essentially an “on-line automated advice model that ha[s] the ability to deliver advice in a
+more cost-efficient way” (HM Treasury and FCA, 2016). For the insurance sector, roboadvice is being developed for investment management and is now being increasingly
+used for quotes with automated advice and offerings calculated through algorithms.
+Instead of or combined with face-to-face advice, robo-advice can provide automated
+guidance and execution on various financial decisions. Automated advice could assist
+pockets of population that do not have access to financial advice to gain input in a more
+cost efficient way than a human advisor. However, depending on how the algorithm to
+provide advice is structured, it could also lead to inappropriate advice being made
+inadvertently.
+Smart contracts
+“Smart contract” refers to any contract which is capable of executing or enforcing itself.
+They are written as programming code which can be run on a computer or a network of
+computers rather than in legal language on a printed document. This code can define
+strict rules and consequences that emulate a traditional legal document, stating the
+obligations, benefits and penalties due to either party being in various circumstances.
+Smart contracts enable people to trade and do business with strangers, usually using the
+internet, without the need for a large centralised authority site to act as an intermediary.
+The limitation of a smart contract is that a programme may not know what is happening in
+the physical world or react to unforeseen events, thus being unable to execute an action
+that was the basis of the contract.
+Smart contracts often run on blockchains or distributed ledger technology (DLT). Example
+of a smart contract using DLT is a cryptocurrency, such as Bitcoin. Ethereum is one of the
+largest platforms for smart contracts and blockchains.
+Blockchain/distributed ledgers technology (DLT)
+Blockchain or distributed ledger technology (DLT) is a protocol for the exchange of values
+or data over the internet which does not require an intermediary. The protocol of
+blockchain technology is to create a shared, encrypted database of transactions and
+other information. Examples of ants and flocks of geese have been given to demonstrate
+what a perfect blockchain society would be like; decentralised yet coordinated.
+The technology is to establish an ever-lengthening chain of blocks of data. Each block
+has compact record of validated transaction by participants in the blockchain, and the
+premise of blockchain is that the information in the blocks is true. Once the transaction is
+validated and recorded, the stored record is irreversible. Blockchain originally referred to
+the database where all Bitcoin transactions are recorded and stored.
+
+2. FUNDING OF INSURTECH
+
+Figure 1. InsurTech financing trend (2011-2016)
+
+Source: CB Insights (2017a) Insurance Tech Start-ups Raise $1.7B Across 173 Deals in 2016
+www.cbinsights.com/blog/2016-insurance-tech-funding/ .
+
+2015 saw record funding levels for InsurTech, with funding estimated to be
+USD 2 669 billion in total. The 2016 Q3 saw funding levels of USD 1 401 billion, and the
+number of deals in 2016 Q3 were 126, already exceeding the number of deals in 2015
+(see Figure 1). It should be noted that in 2015, nearly 1/3 of funding went to Zhong An, a
+Chinese internet-only insurer that was established in 2013 with backing from Alibaba
+Group Holding, which raised USD 931 million in 2015, and is said to be planning a IPO.
+Figure 2. InsurTech deal activity by focus area in the United States (health vs non-health)
+
+Source: CB Insights (2017b), InsurTech Connect 2016 (October) https://www.cbinsights.com/reports/ITCinsurance-tech-deck.pdf.
+
+In 2016, 59% of InsurTech deals went to US-based start-ups, followed by Germany (6%),
+UK (5%), China (5%) and India (3%) (CB Insights, 2017a). This may not perfectly match
+the population of InsurTechs, but is indicative of the VC possibilities in the market, in
+particular for the US, although Asian InsurTech is much weaker compared to the wider
+VC funding in the region. The number of VCs that are investing in InsurTech start-ups
+has increased from 55 funds in 2012, to 141 in 2016 YTD (CB Insights, 2017b).
+While the breakdown of the investment in the insurance sector is not available,
+investment in health insurance is considered to be strong and growing, taking up 70% of
+InsurTech investments in the United States (CB Insights, 2017b). At the same time,
+investment in start-ups providing commercial distribution avenues has increased many
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 13
+
+14 │
+
+2. FUNDING OF INSURTECH
+
+folds, indicating the strong interest and the number of start-ups hoping to improve the
+customer experience.
+Life and annuity start-ups are attracting large investments, as are health and dental
+insurance start-ups (CB Insights). Auto insurance distribution/comparison start-ups also
+constitute a large cohort of the insurance start-ups.
+In addition, insurers are providing funding structures that would allow them to have first
+pick of successful new technology and innovation that could support their existing
+operations and improve the customer experience. This has been via both general VC
+funding opportunities and targeted InsurTech investments, as well as establishing
+incubators that host InsurTech entrepreneurs and employees (see Box 3). A number of
+insurers have provided investment to InsurTech start-ups, as well as Internet of Things
+(IoT) start-ups.
+
+Box 3. Funding of InsurTech by (re)insurers
+The wider funding landscape for InsurTech is described above, but a more interesting development
+has been how (re)insurers are funding InsurTech. Some of the larger insurers have set up specific
+funds and VCs to invest in start-ups, including for InsurTech, indicating the likelihood of greater
+investment into InsurTech, and the strategic investments existing insurers will make to ensure they
+have a stake in a start-up that may be able to scale their business.
+The number of deals made by (re)insurers in 2016 was 100 deals, compared to 67 in 2015 and 28
+in 2014) (CB Insights, 2017c).
+Figure 3. Tech start-up investment by (re)insurers (2012-2016)
+
+Source: CB Insights (2017c), Where Insurers and Reinsurers Invested in Tech Start-ups in
+2016 www.cbinsights.com/blog/2016-insurance-cvc-total/
+
+Reflecting the wider InsurTech landscape but with certain specific differences, US (re)insurers are
+making the majority of investments in InsurTech with 64% of deals being made (as opposed to the
+actual funding level, for which data is not available)(CB Insight, 2017c). Most likely reflecting
+investments that Ping An Insurance has made in Zhong An, and Taipang Insurance has made in
+Alibaba Health, Chinese (re)insurance investments is 10% of deals made by (re)insurers. It may be
+that given the lower penetration of insurance in China, it is being anticipated that the market may
+develop based on the new intermediation models that are being introduced in China. France and
+UK (re)insurers make respectively 11% and 6% of deals by (re)insurers (CB Insight, 2017c).
+Many of the deals are made by (re)insurers’ strategic VC arm. Ping An Venture has been making some
+of the largest investments in InsurTech with over 20 deals. Axa Strategic Ventures has also completed
+20 deals and together with Ping An have been the most active in deal making of strategic investments.
+
+2. FUNDING OF INSURTECH
+
+│ 15
+
+Box 3. Funding of InsurTech by (re)insurers (cont.)
+US-based insurers MassMutual Venture, USAA, American Family Ventures, Transamerica and
+New York Life follow with between five and ten deals each. After which, the European insurers
+Allianz Ventures, MunichRE/HSB Ventures and Aviva Ventures continue.
+More historically, Axa Strategic Ventures, Transamerica Ventures and American Family Ventures
+have been the most active investors in private tech investing since the start of 2012. Axa provided
+seed funding for five European start-ups under a fund set up in France in 2013, before launching
+Axa Strategic Ventures in 2015. The €200 million (USD223.47 million) venture capital fund has a
+mandate to invest in innovations in insurance, asset management, financial technology and
+healthcare services. Axa created Kamet in 2015, which is a €100 million InsurTech incubator
+working with both internal and external entrepreneurs. Axa recently invested €75m to take an 8%
+stake in e-commerce company Africa Internet Group and has become the exclusive insurance
+provider through Jumia and other platforms.
+Allianz established Allianz Ventures as its centre for investments in and partnerships with start-ups
+to target five key areas: InsurTech and wealth management; mobility and connected cars;
+connected homes and properties; digital health; and cyber security and data intelligence. Recent
+investments include a minority stake in digital wealth manager MoneyFarm. Allianz X is the group’s
+“company builder” that identifies, builds and scales new business models in InsurTech and related
+areas like blockchain and artificial intelligence.
+Aviva launched a venture capital arm to invest in new digital businesses late 2015, based in Hoxton
+Square, the hub of London’s digital entrepreneurs, with an annual fund of approximately £20 million
+(USD24.8 million) to be invested over the next five years. Its first investment was in Cocoon, a
+smart home security device that alerts householders to movement and sound within their property.
+In May 2016, Aviva announced a partnership with Founders Factory, a digital accelerator and
+incubator, becoming its exclusive financial services partner over the next five years, providing
+capital and resources to support the growth of more than 200 technology businesses.
+Munich Re has made investments through its HSB Ventures division in Slice Labs, a US provider
+of on-demand insurance, which launched a product for hosts of homesharing using platforms like
+Airbnb, HomeAway, OneFineStay and FlipKey. The insurance lasts specifically for the time the
+owner is acting as a business so they insured can buy cover only when they need it. Munich Re
+has secured the right to provide underwriting capital and insurance licensing for on-demand insurer
+Trov in the US market. Trov’s app allows customers to insure individual items like electronics or
+sports equipment from their smartphone and gives them the facility to switch cover on and off when
+required.
+In April 2016, smart sensor start-up Helium‘s USD20 million Series B was led by corporate venture
+arm GV, but Munich Re/HSB Ventures also participated. Helium’s sensor technology lies in its
+ability to use off-the-shelf sensor and connect it to the Helium Cloud which allow the OS to control
+storage temperature. So thus the use of such technology can protect from liability arising, for
+example, from leaving the refrigerator open in a restaurant or a hospital not managing its vaccine
+stock.
+Ping An Ventures has been actively investing in the healthcare sector.
+Most of the (re)insurers on the have only been publicly investing in start-ups for the last two years
+and areas in which (re)insurers consider there to be mass demand and practical application to their
+businesses.
+Axa Strategic Ventures, AIG, and American Family Ventures have investing in IoT start-ups in auto,
+home, industrial, and other segments, and Axa, AmFam, USAA, and MunichRe/HSB have made
+separate IoT investments as well.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+16 │
+
+3. INSURANCE INTERMEDIATION AND DISTRIBUTION MODELS
+
+3. Insurance intermediation and distribution models
+Insurance intermediation has traditionally used either the agent/broker or bancassurance
+model. While this remains the main intermediation channel for most developed insurance
+markets, many InsurTech start-ups are taking on this model and proposing new
+distribution models for insurance. These new modes of distribution are in particular
+interesting for less developed insurance markets, where insurance penetration is low and
+the conventional intermediation model of agent/brokers may not be efficient or effective.
+Asia and Africa have witnessed large investments being made into start-ups and
+technology based in their region.
+BIMA, Friendsurance, InsPeer and Guevara are all distribution-based insurance start-ups,
+providing new insurance services. While they do not intermediate policies in the more
+traditional sense, they all have brokering licenses to triage the appropriate policy using
+different business models. BIMA operates in less developed markets, and has had wide
+success in intermediating health insurance products through their model of combining
+agents with mobile platforms. BIMA has acquired a microinsurance license in some of
+the markets it operates. Friendsurance, InsPeer and Guevara are all peer-to-peer (p2p)
+insurance companies that rely on peer pressure for risk mitigation.
+
+Box 4. BIMA
+BIMA uses mobile technology to provide insurance services in developing and emerging
+markets, which the technology permits with the lower entry costs. In many developing
+countries, in Africa in particular, mobile phones are widely used for not only
+telecommunications, but also for accessing banking and payment services. The proliferation of
+mobile phones (penetration of 70% of population) and the acceptance of the technology for
+financial services have enabled BIMA to expand its health services in 16 markets. The success
+of this model has enabled BIMA to reach profitability in several markets already.
+The main innovation of BIMA is the creation of a proprietary back-end tech platform which
+creates a mechanism for both registration and payment. Policyholders register using their
+handset to fill in some basic identification details which process takes approximately 2 minutes.
+Premium payment is collected via automatic deduction of prepaid airtime credit; unlocking a
+new payment channel that makes insurance affordable and accessible.
+Distribution is carried out by a trained agent force. BIMA agents make the initial contact with
+potential policyholders, providing product education about all aspects of the policy including
+basics like the cost (just a few cents a day) and the coverage level. Post-sale, the customer will
+receive a confirmation SMS plus a monthly reminder of their coverage status and amount to be
+deducted.
+
+BIMA sells a range of personal insurance products, including accident, life and hospitalisation
+cover (this policy pays a fixed amount per night spent in hospital). To claim, policyholders call
+customer support that will help them to file their claim which is paid in cash within 72 hours of
+the claim being completed.
+
+3. INSURANCE INTERMEDIATION AND DISTRIBUTION MODELS
+
+│ 17
+
+Box 4. BIMA (cont.)
+BIMA is primarily licensed as an insurance intermediary and/or a licensed microinsurance
+provider, where applicable, and not an underwriter. Data is stored in Sweden which data
+protection regulation would apply.
+In total, BIMA has raised USD75 million in capital so far. In 2015, BIMA closed its series C
+funding round with USD38 million raised from existing investors, including Investment AB
+Kinnevik, LeapFrog Investments and Millicom. This builds on a successful B series funding of
+USD22 million and USD15 million of capital invested before these rounds.
+
+Box 5. Friendsurance, InsPeer and Guevara
+Friendsurance, InsPeer and Guevara are based on similar business models, although
+operating in different markets (namely, France, Germany and the United Kingdom).
+Friendsurance
+Friendsurance was launched in 2010 and has funding from a number of internet venture
+capitalists (Horizons Ventures, VantageFund, e.ventures, the German Start-ups Group as well
+as the European Regional Development Fund). They are licensed as insurance brokers in
+Germany. Friendsurance is considered a pioneer of “social” or “person-to-person” “peer-topeer” (p2p) insurance, offering household, personal liability and legal expenses and car
+insurance. Policyholders with the same type of insurance form small groups, which could either
+be with friends or find a group on their site. A part of the group’s premiums are paid into a
+cashback pool. If no claims are submitted, the members of the group can get up to 40% of their
+premiums paid from the cashback pool at the end of the year. Claims are settled using the
+cashback pool, and thus the claims decrease the cash back amount at the end of the year.
+Large claims are covered by normal insurers, with whom the firm has partnerships.
+The benefit of p2p insurance is that the network effect discourages the group from making
+claims for very small amounts and policyholders seek participation from friends to increase the
+size of the pool.
+InsPeer
+InsPeer was launched in 2015 in France, and is a p2p insurance scheme that enables a group
+of people to share their deductible when a claim is paid. InsPeer is backed by angel investors,
+Bpifrance, the City of Paris, and Region Ile de France.
+As the higher the deductible, the lower premiums become, a policyholder can raise their
+deductibles and share the risk with the designated group of people. InsPeer provides services
+for auto, motorcycle, and homeowners insurance policies. Other than increasing the deductible,
+InsPeer does not require changes to insurance contracts.
+Users form small groups which share the risk that one or all will file a claim. Users can
+participate in as many insurance groups as they like but their exposure is limited to €100
+pledged to any one participant and €1 500 across the platform. The service is completely free if
+there are no claims. In the case of a claim, InsPeer keeps a 10% of the claim paid by the
+insurer.
+To assist policyholder assess who to share their risks, a risk indicator has been developed that
+indicates the expected claims rate of one person. This risk indicator for consumers is
+expressed in years, for example 8.5 years means that there is a chance of paying a claim once
+every 8.5 years.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+18 │
+
+3. INSURANCE INTERMEDIATION AND DISTRIBUTION MODELS
+
+Box 5. Friendsurance, InsPeer and Guevara (cont.)
+Guevara
+Guevara is a UK based insurer, and offers a choice of groups to join for auto insurance
+policyholders, to which their premium is split into one portion that is paid into the individual group
+(protection pool) and the rest into the single collective pot (insurance fees) that supports all of the
+individual groups. The split of premium is determined by the number of members in a group.
+Claims are first paid from the protection pool until it is exhausted, after which claims are paid
+from the insurance fees. When the insurance fee is also exhausted and the combined ratio
+exceeds 100%, reinsurance is taken out. Any funds left in the protection pool remain in the pool
+the following year, and requires being topped up only, in addition to the annual insurance fees.
+By using peer pressure, the objective is to keep claims low. Guevara is authorised as a peer-topeer insurance provider by the FCA, and can operate as a broker.
+
+The best known carrier model is Lemonade, which has acquired an insurance carrier
+license, and attracted one of the largest seed funds for an InsurTech start-up in 2016.
+
+Box 6. Lemonade
+Lemonade is one of the InsurTechs to have raised the largest amounts of seed funds, with a
+USD13 million seed round from venture capital Seqouia Capital and Aleph, as well as
+investments from XL Innovate, XL Catlin’s venture capital arm. Lemonade Insurance
+Company is a property and casualty insurance company based in New York and with a New
+York state license as a full-stack insurance carrier.
+Premiums are paid into a claims pool, and from that a fixed fee (20% of premiums) is taken
+out monthly for reinsurance coverage and expenses, with the remaining being used to pay
+claims. If the total of premiums paid is more than the fees and paid claims, moneys are
+returned to policyholders in the form of an annual 'Giveback'. Giveback is donated to charities
+of the policyholder’s choice, and for this purpose virtual groups of 'peers' are formed around
+the charities of choice. Reinsurance is used to pay for claims that exceed the size of the pool.
+Premiums are calculated individually for each policyholder and are based on a number of
+different factors including credit history, recent claims and information about the property
+including its age, size, and construction quality.
+Lemonade has developed an AI app, Maya or Jim, to make the offer of an insurance policy.
+Risk mitigation factors such as sensitivity of homes to windstorms, severe weather damage,
+and fires are taken into account, and discounts made for protection equipment that may
+have been installed, such as fire and burglar alarms.
+It has hired a renown behavioural scientist, Dan Ariely, as its Chief Behavioural Officer.
+Lemonade is a benefit corporation and a certified B-Corp, the only in the insurance industry,
+which is certified by the non-profit B Lab and must meet high standards of social and
+environmental performance, accountability and transparency. A benefit corporation is a forprofit corporation with a mission to achieve positive impact on society, workers, the
+community and the environment in addition to profit as its legally defined goals.
+Lemonade’s reinsurance partners are Everest Re, Hiscox-Lloyd’s of London, XL CatlinLloyd’s of London and Berkshire Hathaway’s National Indemnity.
+
+3. INSURANCE INTERMEDIATION AND DISTRIBUTION MODELS
+
+Finally, there is the self-governing model that often uses blockchains to auto execute the
+contract. There are potential benefits that could be reaped for risk transfer tools, such as
+cat bonds, which will be another area that blockchains are likely to further explore.
+Blockchain is based on distributed computing, which results in a decentralised network. It
+is by design meant to avoid centralised control and is characterised by free participation.
+One of the advantages of blockchains in terms of financial transactions would be the
+improved cyber security due to it decentralised nature. Another is the transparency of
+transactions, which are all recorded in the node of the blockchain. Linked with this is that
+when a smart contract is part of the blockchain, there will be no need to authenticate the
+transaction, as it is effectively announced through its transparency and it is irreversible,
+which is another feature of the blockchain.
+Blockchain technology could be applied to insurance services in a number of ways.
+InsurETH presents a case study (see Box 7), but if a blockchain can use external, thirdparty data sources, claims management could be automated potentially reducing the
+transaction cost. Para-metric insurance could benefit from such a process, especially for
+agriculture or disaster-related insurance for retail policyholders. Fraud detection could
+also be improved if blockchains were able to access data on purchase records, police
+reports, ownership etc.
+The blockchain by nature does not permit amendments to transactions after the fact. This
+means that while for standard policies the technology could be a useful tool, for complex
+policies it may have limitations in its application. The legality of a blockchain-based
+contract is unclear, and thus its enforceability could be compromised as a result. As the
+policy would be written in the code of the blockchain, for regulatory and legal purposes
+an administrative step could become necessary for it to be transformed into a legal
+document, until the law recognises a blockchain as a legal document.
+
+Box 7. The use of blockchains in insurance
+Blockchains have the potential to change how transactions are processed, and this wave is
+coming to the insurance sector as well. Allianz Risk Transfer and ILS fund manager
+Nephilia Capital are piloting the use of blockchain smart contract technology for processing
+a natural catastrophe swap. The technology would process the transaction and settlement
+between insurers and investors.
+The pilot demonstrates the technology has the possibility to simplify and accelerate contract
+management. Each validated contract on the open shared infrastructure contains data and
+self-executable codes inherent to that contract. When a triggering event occurs, meeting
+the agreed conditions, the blockchain smart contract picks up the predefined data sources
+of all participants, and then automatically activates and determines payout to or from
+contract parties.
+Another similar initiative taking place between insurers and reinsurers is to explore the
+potential of distributed ledger to streamline paper work and reconciliations for (re-)
+insurance contracts and accelerate information and money flows, while greatly improving
+auditability. The B3i initiative is a cooperation between Aegon, Allianz, Munich Re, Swiss
+Re and Zurich, which will pilot the feasibility of using anonymised transaction information
+and anonymised quantitative data, in order to achieve a proof-of-concept for inter-group
+retrocessions by the use of the blockchain technology.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 19
+
+20 │
+
+3. INSURANCE INTERMEDIATION AND DISTRIBUTION MODELS
+
+Box 7. The use of blockchains in insurance (cont.)
+"Cat bond" payments between insurers and investors can take weeks or even months after
+the triggering event due to manual processing and authentication through intermediaries is
+not required. As blockchains cannot be altered, their characteristic assists in ensuring that
+ownership cannot be duplicated or forged.
+A study forecasts that for the reinsurance industry, more efficient data processing and
+reductions in claims leakage and fraud through blockchain solutions could remove 15% to
+25% of reinsurance expense ratios which are typically 5%-10% of premiums (PwC, 2016).
+One of the promising example of insurance using blockchain is the start-up InsurETH.
+InsureETH uses one of the blockchain platforms, Ethereum. Ethereum is one of the most
+popular blockchain platforms which is public and has a smart contract functionality.
+InsurETH offers automated flight insurance which relies on Ethereum smart contracts, and
+recording premium payment in the Ethereum blockchain. Travel insurance policies often
+cover delay of flights or lost baggage, but policyholders are not often aware of this coverage
+and often only make claims for higher expense claims such as delays due to a medical
+emergency or to access medical benefits. This is in contrast to the flight delays and lost
+baggage being a much more frequent incident and one which can be tracked using third
+party data sources. InsurETH uses this advantage by selling flight insurance, and
+automatically sources proof for claims using a public data feed Oraclise. This automates the
+process, in that if a flight delay occurs claims are paid automatically based on the data feed
+information.
+The simplification of the contracting, which is done by inputting the flight number and
+coverage amount, enables travellers to easily access the coverage. The payment is done
+through the deposit of Ether, although denominated primarily in pound sterling, which is the
+cryptocurrency of Ethereum. So the traveller would be required to create a Ether wallet
+which is also a simplify process using applications.
+
+4. THE SHARING ECONOMY AND INSURANCE
+
+4. The sharing economy and insurance
+
+The sharing or gig economy is becoming a larger part of the economy, as services such as
+ridesharing (Uber, Lyft, BlaBla Car) and homesharing like AirBnB become common and
+popular service platforms. As a commercial service, these services will be required to
+have insurance coverage for certain aspects of their business.
+As part of this, there is strong recognition that millennials2, which are one of the largest
+age cohorts in the United States and are entering their highest consumption period, have a
+preference for having digital solutions available for transactions (Goldman Sachs Global
+Investment Research, 2016), and this is also prompting insurers to review how to
+approach distribution and claim management. Millennials have a 10% less positive
+customer experience of insurance transaction than other age cohorts, which is indicative
+of the dissatisfaction felt by this generation to conventional insurance solutions
+(Capgemini Consulting, 2015).
+One of the key features of millennials and the sharing economy is that complete strangers
+share their personal experience/review, car, house, quite freely, while confidence in
+established business processes, such as insurance, is considered less positive. From the
+distribution sites, robo-advice and data analytics discussion below, it could be that
+insurers can expect greater willingness by policyholders to provide more personal data
+and prefer computer generated advice. Insurer may have to adjust their business processes
+in accordance with such consumer behaviour and take greater care of privacy.
+While the provision of insurance coverage for ridesharing services is improving, the
+nature of the service creates unique challenges to underwriting. Public transport and taxis
+require insurance coverage as commercial service providers which are excluded from
+standard auto insurance. Commercial coverage is based on the driver having certain
+qualification and experience transporting the public, and the vehicle being maintained to a
+certain standard on a periodic basis. Ridesharing typically uses drivers not authorised to
+drive taxis and their personal vehicles, although in some cases they are licensed drivers
+providing services in their spare time.3
+Some insurers are addressing the unique nature of ridesharing. For example, Uber has
+coverage by separating the coverage to the core policy of when a driver has picked up a
+customer and dropped them off, lower coverage for when the driver is logged on to the
+system and waiting for a pick up and a separate coverage for physical damage to the
+driver’s vehicle while it is being used for the rideshare services. There is still a potential
+gap of when a commercial coverage is in effect, and when the driver’s personal auto
+insurance will be expected to cover any unplanned incidents.
+2
+
+Millennials are generally referred to as those born between 1980 and 2000.
+
+3
+
+This has resulted in the service being banned in a number cities as a result of opposition from
+taxi unions.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 21
+
+22 │
+
+4. THE SHARING ECONOMY AND INSURANCE
+
+Peer-to-peer homesharing, such as AirBnB, would likely require additional coverage as a
+homeowner policy would not cover liabilities caused by a renter. When renting out a
+home on a single occasion, it is likely that homeowner or renter’s insurance will cover
+such an occasion, although it may require notification to the insurer in advance. However,
+for repeated homesharing/renting, an add-on to the policy or commercial insurance may
+be required, in particular to cover liability from guest damage. Monthly coverage is
+becoming available for such additional coverage by a number of insurers.
+Beginning in January 2015, Airbnb began including no-extra-cost USD1 million “Host
+Protection Insurance” for hosts – and in some cases their landlords – designed to cover
+the liability associated with a peer-to-peer rental. Intentional acts that aren’t the result of
+an accident are not covered by the insurance, as well as what the website terms “property
+issues,” such as mold, bedbugs and asbestos.
+
+5. ROBO-ADVICE AND AI
+
+5. Robo-advice and AI
+
+While price comparison and distribution sites are becoming wide spread, much effort is
+being made to develop sites that provide financial guidance which is tailored to the
+policyholder’s income and needs with greater automation through algorithms for products
+with investment and/or saving components. This could assist in narrowing the protection
+gap of the lower income population as the cost of such services is lowered.
+Robo-advice capabilities can be largely categorised into (Accenture, 2015):
+
+
+Understanding client needs: gathering client information, understanding needs
+and preference, assessing risk tolerance, considering outside accounts;
+
+
+
+Proposing a policy: developing a financial plan, selecting asset allocation;
+
+
+
+Implementing the policy: opening accounts, transferring assets; and
+
+
+
+Monitoring and adjusting the policy: quarterly or annual performance reviews,
+dashboards and status alerts, market updates and research.
+
+In comparison to robo-advice, human interaction has benefits in that long-term relations
+can nurture trust and understanding between a policyholder and financial
+advisor/broker/agent, in particular in times of financial difficulty. Financial advisors may
+be better at persuading policyholders to take certain actions. In addition, robo-advice has
+not been challenged in poor market conditions where assets lose value. How robo-advice
+might cope in such situations is unclear.
+On the other hand, robo-advice has the ability of developing a financial plan addressing
+multiple goals, including retirement, protection needs, estate planning and health/longterm care coverage. Robo-advice has the privacy which some may feel more comfortable
+with given the sensitivity in discussing money matters.
+What would be important for many policyholders is that the fee would be lower than
+financial advisors. In the investment advisory sector in the US, for example, financial
+advisers generally charge 1% of the assets under management as fees, this is opposed to
+the between 15 to 35 b.p. of assets under management charged by investment roboadvisors (Investor Junkie, 2016).4 In comparison, in the United Kingdom for example,
+Santander’s branch-based investment advice fees are 2.5% of assets invested, with a
+minimum investment of £500 and a maximum of £150 000.
+
+4
+
+For example, Charles Schwab’s robo-advisor does not charge a fee.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 23
+
+24 │
+
+5. ROBO-ADVICE AND AI
+
+Box 8. Robo-advice for insurance
+Robo-advice is primarily being applied for investment advisory, and thus far its use in the
+insurance sector is yet to be wide spread. However, some insurers are starting to provide
+robo-advice on insurance in conjunction with other financial services they provide.
+LV=, the UK-based mutual financial services company that provides insurance as well as
+saving and investment products acquired a stake in Wealth Wizards in August 2015, to
+provide advice on retirement saving products. The platform is now being offered as
+Retirement Wizard in the LV= site, and is available to provide advice to those within three
+months of wanting to access their pension and have a pot size between £13 500 and
+£150 000. The advice would include annuities or income drawdown.
+The Royal Bank of Scotland announced it was introducing robo advisory services for its
+clients, with face-to-face financial advice becoming available only for customers with
+£250 000 or more, but enabling clients with as little as £500 to access advice in March
+2016. This has resulted in the cut of a large number of insurance product financial
+advisers, as the RBS would be providing financial planning including insurance.
+In both cases, robo-advice takes advantage of the service provider having alternative
+investment products available not only in insurance. It is to be seen how the insurance
+market will further incorporate robo-advice into its business process.
+
+Box 9. PolicyGenius
+PolicyGenius was founded 2014 to provide users with price comparison information on
+life insurance, long-term disability insurance, renters insurance and pet insurance. As
+opposed to most insurance comparison sites, it is not based on a lead generator model,
+which interprets an inquiry as a request for a quote and sells the client inquiry to
+insurance brokers/agents who would then try and sell the policy. Also the user experience
+is considered a key factor of the business and contents is developed for an improved user
+experience and provides advice on the offers being made. They are not affiliated with any
+particular insurance company and their algorithms work to match the user with the best
+policy to fit their needs. It is licensed as an independent broker in New York state.
+Life insurance is the company’s most popular product, followed by disability insurance.
+Through its “insurance checkup tool” it analyses and generates the advice that is suited
+for the user.
+It raised USD750 thousand in seed funding, and has raised USD5 million in a series A
+and $15 million in a series B round of funding. Revolution Ventures led the Series B
+round, with previous investors including Karlin Ventures, Susa Ventures, Axa Strategic
+Ventures, Transamerica Ventures and MassMutual Ventures. PolicyGenius reached
+800,000 users by the end of 2015 although whether the user inquiries led to actual
+policies is undisclosed.
+
+AI is being used in a number of sites such as through the algorithm used by Lemonade for
+its policy offering and PolicyGenius (see Box 9). AI has the potential to simplify and
+tailor policy offerings to match the needs and financial situation of the policyholder. This
+
+5. ROBO-ADVICE AND AI
+
+is different from robo-advice, where AI is specifically designed for personal advice,
+primarily on investments.
+On the other hand, the algorithms are a blackbox, which in some instances could be
+leading to poor advice. A study indicates that for the majority of age groups, a
+combination of robo-advice and personal advice was deemed to be optimal (E*Trade
+Financial, 2016), which has generally been the way in which most insurer AI would be
+developing their robo-advice (Acord & Surely, 2016).
+The underlying algorithm of robo-advice and AI are not transparent in most cases, and
+biases could be built in, both unintentionally and intentionally, leading to inappropriate
+advice. The understanding of how this impacts policyholder behaviour and how
+regulation should address this is unclear but an area that requires greater discussion (see
+Box 14).
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 25
+
+26 │
+
+6. DATA AGGREGATION AND ANALYTICS
+
+6. Data aggregation and analytics
+
+Internet, the Internet of Things (IoT), hand held devices, and applications are all
+contributing to the possibilities that technology can have in collecting more data from
+businesses and individuals. Social media as well as devices such as Fitbit and Apple
+watch permit device operators to collect individual activity data as well as health related
+data. While insurance has traditionally relied on quantitative data to make risk
+management decisions, data analytics goes beyond this remit and can be contentious in
+some occasions. Underwriting and claim management are particularly data rich, and
+insurers use data collected for fraud prevention, marketing, claims management and
+pricing risk.
+For example, personal auto insurance in the past relied on internal data sources such as
+loss history. However, auto insurers have started to incorporate behaviour-based credit
+scores from credit bureaus into their analysis, based on empirical evidence that people
+who pay their bills on time are also safer drivers. There is an issue of risk awareness, as a
+US Government Accountability Office report in 2005 reported that 53% of respondents to
+a survey in the United States did not know this when they could request credit scores to
+be excluded for premium considerations in times of hardship (GAO, 2005).
+Some insurers could/are engaging such data by having an arrangement with the data
+collector or purchasing the data from a data aggregator. As insurance depends on making
+an actuarial assessment of the risk, having more relevant data would assist the analysis.
+The release of previously unavailable or inaccessible public-sector data has greatly
+expanded potential sources of third-party data. The US and UK governments and the
+European Union have recently launched “open data” websites to make available massive
+amounts of government statistics, including health, education, worker-safety, and energy
+data, among others.
+One example of such endeavour is the marriage of longevity data, face recognition
+technology with underwriting for the provision of life insurance. Face recognition
+technology is used to predict factors such as chronological age, gender, smoking habits
+and body mass index (BMI). Based on this data, and accompanied by an activity sensor,
+such a FitBit or physical activity tracker on a mobile phone, your expected life
+expectancy is provided. A term life offer is made based on this, and the term period can
+be selected by the policyholder.
+Telematics and insurance is another avenue in which data analytics is being used to
+monitor the behaviour of policyholders and mitigate risks in advance as well as
+discounting premiums where applicable. Motor insurance related data has been
+abundantly accumulated in insurance companies as it is one of the largest lines in most
+countries. Telematics insurance is when a device is fitted into motor vehicles and used to
+track driving. For example, the Italian Insurance Association estimates that blackboxes
+have been installed in over 2 million cars in Italy, to support the provision of blackbox
+insurance, “telematics car insurance” or Usage Based Insurance (UBI), and is one of the
+large markets for telematics car insurance. Blackboxes devices track speed, braking,
+
+6. DATA AGGREGATION AND ANALYTICS
+
+acceleration, cornering and the time of the day a journey is made via satellite technology.
+The data is transmitted to the insurer by GPS which enables the insurer to estimate the
+likelihood of a claim being made. Such programmes benefit young drivers that do not
+have a track record to influence their premiums, for example. While there is no research
+that clearly indicates the link between telematics and accident rates (UK Transport
+Research Laboratory, 2015), anecdotal evidence suggests telematics solutions can reduce
+collisions by up to 20%, operating costs by up to 10%, and fuel consumption of between
+8% and 11% (Zurich Fleet Intelligence, 2016). It is estimated that the number of
+consumer subscribers to telematics insurance is expected to grow to 142 million globally
+by 2023 (IHS Markit, 2016).
+On a risk management level, there are a number of data analytic solutions that could
+assist insurers. These include integrated geospatial analytic tools, geo-spatial analysis,
+and data quality management tools and claims/exposure matching. In particular, claims
+processes could benefit from the use of pictures taken and filed vie smartphones and
+concierge services to smooth the process.
+If data aggregation is being used for actuarial purposes, it could lead to potentially too
+high premiums or uninsurability of certain segments of the society or individuals, or
+ethically questionable outcomes. If premium are risk-based, granularity of the data could
+have both a positive or negative impact. The negative impact would be when potential
+policyholders are not able to purchase insurance at a reasonable premium level when it is
+a risk-based premium (Keller & Hotte, 2015).
+The Internet of Things (IoT) is when sensors and actuators embedded in physical
+objects—from roadways to pacemakers—are linked through wired and wireless
+networks, often using the same Internet Protocol (IP) that connects the Internet. The
+connection permits large volumes of data to flow to computers for analysis (McKinsey,
+2010). Telematics insurance is the best known example of insurance using the IoT. Other
+examples of IoT devices being used for insurance are sensors in private homes, farms or
+businesses to alert policyholders about risks such as bad weather conditions and security
+surveillance, or to provide feedback about individual risks. Biometric data such as
+electrocardiogram (EKG) and arrhythmia detection, pulse and variability, blood pressure,
+respiration information, blood sugar level, muscle activity, sleep patterns, body
+temperature, blood oxygen levels, skin conductance levels, brain activity, hydration
+levels, posture, eye tracking data, ingestion and fertility information can also be generated
+and applied in data analysis for insurance purposes.
+Having extremely granular data may have a number of unintended consequences. The
+most immediate would be the privacy of those who provide the data. While the data
+protection of data relevant to the contracting of an insurance policy is clear, the treatment
+of data collected additional or outside of this may not be. Tracking of data, whether by a
+blackbox device or an activity sensor, provides much data beyond what the insurer may
+require to determine the behaviour of the policyholder or the premium reductions.
+Insurers would not only have data on the driver’s behaviour, but where they travel to and
+visit, and the frequency of this. While activity sensors permit a better understanding of a
+policyholder’s lifestyle, genetics also account for a large part of a policyholder’s health
+and life expectancy. It would become important that a distinction is drawn by insurers for
+when a poor lifestyle caused ill health, for example, and when a person is born with poor
+health which have no way of being addressed by lifestyle choices.
+The ownership of data generated through the IoT, as with many digital devices, is still
+being discussed, and currently general privacy and data protection regulations would
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 27
+
+28 │
+
+6. DATA AGGREGATION AND ANALYTICS
+
+apply. The US Federal Trade Commission issued a report in 2013 (FTC, 2015),
+examining some of the issues on the IoT and privacy. The manner in which IoT collects
+data makes it difficult to gain consent every time data is collected, and is not necessary
+either. However, it is important that a choice can be made by the individual before data is
+collected, although not in instances when the context of collecting data is consistent with
+the transaction the individual is entering with the company (FTC, 2012). Where the use of
+data would be inconsistent with the context of the interaction, a clear and conspicuous
+choice should be offered.
+Box 10. Estonian Insurance Association’s motor insurance database
+Estonia’s insurers developed a centralised online IT system for motor third-party
+liability (MTPL) insurance in 1998, which eventually transitioned in 2001 to all policies
+having to be concluded online and physical policies being prohibited. The database
+has information on all issued MTPL policies and all MTPL claims handled. This
+development was supported by the Law on MTPL which requires information to be
+provided to the MTPL database prior to the start of the contract, as well the claims
+information without delay (a 64 euro fine is applied for every erroneous entry). It thus
+has a statutory status, and the database is legally recognized with third parties.
+The MTPL database is cross-referenced with other state registrars which ensures
+quality control of the database. As the database is open, the public can refer to it and
+monitor the information that has been entered.
+The MTPL database also has a claim mapping function, which enables the
+aggregation of where incidents which has resulted in a claim have occurred. This
+information has been used by road planners to fix cross-sections that have resulted in
+many incidents.
+
+Another issue is how cross-border data transfers should be treated. Data can be ubiquitous if
+structured, and can be used to analyse behaviour in other countries. This is discussed in detail in
+section 7.
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+7. The role of policy and regulation in InsurTech
+
+Insurance regulation and innovation hubs
+While innovations are generally a positive development, there are a number of potential
+policy and regulatory ramifications which can create some uncertainty and certain
+limitations in business developments. In terms of competition policy, the potential to have
+new entrants to the market through the application of innovations and new technologies
+could bring greater consumer utility. The rationale for competition law or policy is to
+improve the consumers’ welfare and the efficiency in production and supply, which
+would lead to lower prices and wider choice. The possibility of new entrants in the form
+of start-ups and greater choice as a result of innovation and technology could bring a
+number of positive developments to competition in the insurance market.
+When start-ups want to become an insurer or an insurance agent/broker, there are
+potentially prohibitive capital and/or fit and proper requirements that must be met to gain
+authorisation to operate. Perhaps for this reason, there are very few InsurTech start-ups
+that have gained insurance underwriting licenses, and most have broker licenses. While
+for prudential purposes these requirements are an important cornerstone to ensure
+policyholder protection, these could potentially be a barrier to new market entry, where
+applicable. There is constant tension in the financial sector on the appropriate balance
+between financial regulation and competition, and this is very much relevant in the
+context of innovative technology.
+To address this, some financial regulators have established platforms to enable FinTech
+start-ups experiment with their technology and relaxing some of the regulatory
+requirements within the platform. The UK Financial Conduct Authority (FCA)’s
+Innovation Hub is one of the first applying the “regulatory sandbox” approach.
+Singapore’s Monetary Authority of Singapore (MAS) has also adopted the regulatory
+sandbox approach. Australia’s Securities and Investment Commission (ASIC) has
+established an Innovation Hub to mitigate risks by engaging early with FinTech
+innovators and helping new entrants understand the regulatory requirements. The Hong
+Kong Monetary Authority and Canada’s Ontario Securities Commission have also
+launched similar platforms in recent months. These platforms are all designed to assist
+new market entries that would encourage greater competition and innovation in the
+market, ultimately benefiting consumers.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 29
+
+30 │
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+Box 11. Monetary Authority of Singapore's approach
+The Monetary Authority of Singapore (MAS) has adopted the regulatory “sandbox”
+approach to FinTech, which is applicable to the Singapore financial sector. The
+approach that MAS has taken is to acknowledge that new technologies can increase
+efficiency, manage risks better, create new opportunities and improve people’s lives.
+A regulatory sandbox approach is being proposed to carve out a safe and conducive
+space for Financial Institutions and FinTech players to experiment with FinTech
+solutions, while containing any consequences of failure. However, Financial Institutions
+are free to launch new solutions without MAS’ guidance if they are satisfied with their
+own due diligence and there is no breach of legal and regulatory requirements.
+MAS carried out a public consultation in June/July 2016 and issued the finalised FinTech
+Regulatory Sandbox Guidelines in November 2016. The paragraphs below summarise
+some of the key points of their approach.
+The regulatory sandbox approach would involve MAS’ support by relaxing specific legal
+and regulatory requirements prescribed by MAS for the duration of the sandbox. It would
+generally not be available to FinTech solutions that are:
+
+
+Similar to those already being offered in Singapore unless the applicant can
+show that either a different technology is being applied or the same technology
+is being applied differently, and
+
+
+
+When the applicant has not demonstrated that it has done its due diligence,
+including testing the proposed financial service in a laboratory environment and
+knowing the legal and regulatory requirements for deploying the proposed
+financial service.
+
+There should also be an intention that the FinTech solution would eventually be
+deployed in Singapore after exiting from the sandbox.
+MAS has identified requirements that should continue to be applied even to sandbox
+applicants, and those that could be relaxed. Requirements that will not be relaxed are
+related to customer information confidentiality, fit and proper criteria particularly on
+honesty and integrity, handling of customer’s moneys and assets by intermediaries, and
+prevention of money laundering and countering terrorism financing.
+Source: MAS, FinTech Regulatory Sandbox Guidelines (November 2016).
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+Box 12. The UK Financial Conduct Authority’s Project Innovate
+The UK Financial Conduct Authority (FCA) launched Project Innovate in October 2014 to
+encourage innovation that would benefit customers, and promote competition through
+disruptive innovation. Project Innovate is led by the Innovation Hub which assists
+innovative business gain access to fast, frank feedback on the regulatory implications of
+their solutions, and identifies areas where the regulatory framework needs to adapt to
+enable further innovation in the interests of consumers.
+Support through the Innovation Hub is based on an eligibility criteria that includes
+whether it is a genuine innovation, what would be the consumer benefit, has the
+business invested appropriately to understand the relevant regulations, and does the
+business have a genuine need for support from the Innovation Hub. The Innovation Hub
+has had over 600 requests for support and offered direct support to over 300 firms.
+The FCA has also developed a Regulatory Sandbox. The objective of the regulatory
+sandbox is to create safe spaces in which businesses, both authorised and
+unauthorised, small and large, can experiment with innovative products, services,
+business models and delivery mechanisms without immediately incurring the normal
+regulatory consequences of engaging in the activity in question. Unauthorised firms are
+subject to a tailored authorisation process and must meet threshold requirements, but it
+grants them restricted authorisation to test their ideas. The restricted authorisation
+option is not available for a banking license. For authorised firms, the sandbox could
+provide clarity to applicable rules that do not easily fit into existing guidelines. Consumer
+benefits would be a prerequisite for applications to the sandbox.
+The FCA has stated that it has accepted four applications from the insurance sector to
+develop towards testing.
+
+The regulatory sandbox approach intentionally creates a space for insurance technology
+to be experimented in a different regulatory regime from the regular. Although it is early
+stages of the approaches, it would be worthwhile to understand when technologies are
+deemed successful and scalable, how they will be graduated into the regular regulatory
+framework. Going forward, this will be important in ensuring that a level playing field is
+applied at the appropriate stage.
+A relevant development that is taking place between MAS, FCA and the Australian
+Securities and Investment Commission are bilateral cooperation agreements between the
+authorities that allow them to make referrals on innovative businesses seeking to enter
+each other’s market. This would assist in enabling start-ups transfer their business models
+on a cross-border basis, assisting with the businesses to scale when the opportunity arises.
+Another relevant consideration, for developing countries in particular, is whether there is
+merit in having a specific regulatory framework to allow new insurance products that
+target specific limited risks, that are low in value and may benefit from greater
+penetration of insurance policies while having a limited policyholder impact.5 To date, a
+5
+
+India’s Insurance Regulatory and Development Authority adopted a regulation on
+microinsurance regulation in 2015.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 31
+
+32 │
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+number of countries (Brazil, India, Mexico, Pakistan, Peru, the Philippines, South Africa,
+and Taiwan and other African countries) have specific microinsurance regulation (Biener,
+Eling & Schmit, 2013). Microinsurance can also be beneficial in OECD countries, as the
+example of the start-up Trov demonstrates. Trov is on-demand insurance for your
+possessions, which can be switched on and off through a mobile device. The mobile app
+enables the value of the inventory of possessions to be tracked in real time and insurance
+premiums as well. With the lower transaction costs that mobile technology can bring,
+microinsurance may find a way to be more readily provided in developed insurance
+markets as well.
+In the age of new technology, insurance regulations which will likely be affected are
+governance and market conduct related rules. The OECD Guidelines on Insurer
+Governance recommends that board members and key executives should establish
+internal controls that ensure compliance with applicable laws, regulation and standards, as
+well as an incentive structure that promotes the fair conduct towards consumers and
+policyholders. Controls functions are expected to assess the appropriateness of policies,
+processes and procedures, and identify and follow up on any deficiencies.
+The IAIS’ Insurance Core Principles (ICP) 19 states that requirements for conduct of
+business be made to ensure the fair treatment of customers, whether before, during or
+after the contract has been entered into. This should be based on insurers’ ethical
+behaviour, acting in good faith and the prohibition of abusive practices. While new
+technologies and innovations may enable insurers to provide products that are appropriate
+to the needs of a customer, as stated in ICP 19.6, how to ensure the process is fair is
+uncertain.
+If an insurer does adopt new technologies or innovates processes/products, it should
+consider whether the appropriate internal control considerations have been made, as well
+as being appropriate in terms of market conduct.
+A number of countries are engaged in a wider discourse on, for example, autonomous
+cars, which will have on impact on auto insurance coverage. The recent fatality resulting
+from a self-driving car in the United States (see Box 13) has brought to the attention the
+reality of autonomous cars and how to ensure their safety. Together with this, how the
+liability of such a car in an accident has yet to be fully resolved. The United Kingdom and
+the United States have carried out consultations that touch upon this issue, and how this
+proceeds will likely impact how other markets respond as well.
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+Box 13. Autonomous cars and insurance
+The advent of mass autonomous or driverless cars is expected to be not in the far
+future, and a number of countries (France, Singapore, Switzerland, United Kingdom
+and United States) have started to permit the use of certain roads for driverless cars. In
+1
+the US, several states have enacted laws on the use of autonomous cars. Driverless
+cars do have the potential to improve road safety by preventing human error, and
+efficient traffic flows and fuel usage. As trials take place, the appropriate framework for
+insurance coverage for such for vehicles will also become an important aspect for
+governments to consider.
+The United Kingdom carried out a consultation on product liability insurance that would
+1
+be required for autonomous driving or driverless cars in July 2016. The expectation is
+for driverless cars that can be parked by remote control within the line of sight of the
+driver, and/or cars that can be auto-piloted with human oversight at high speed will be
+available for sale in the coming few years.
+The US Department of Transportation and National Highway Traffic Safety
+Administration have issued a paper that proposes updates to its Federal Automated
+2
+Vehicles Policy in September 2016. In the US, states have responsibility for mote
+vehicle insurance and liability regimes. As part of this, states are asked to consider how
+liability should be allocated among highly automated vehicle (HAV) owners, operators,
+passengers, manufacturers, and others when a crash occurs.
+Insurance coverage of a motor vehicle is for damages and third-party liability (TPL). The
+difficulty for driverless cars is with who the liability is placed with: the driver or car
+manufacturer. The manufacturer would be involved through product failure (liability) that
+resulted in a collision while the driver would be liable when s/he did not take control of
+the vehicle in certain circumstances resulting in a collision. There is much uncertainty
+as to how the liability of a collision would be addressed when there is a mixture of
+human input and autonomy involved in driving.
+In May 2016, a Tesla self-driving car was involved in a collision when driving on
+autopilot mode on the motor way which was fatal to the driver. TPL insurance would not
+cover the driver unless supplemental insurance was acquired. Some motor
+manufacturers are offering self-insurance to their automated vehicles.
+The UK government inquires on whether there is a need for supplemental insurance
+coverage such as product liability, and drivers and passengers. The industry has
+responded that insurers could provide cover for all liabilities, and then take over
+possible liability claims to the manufacturer for any potential product liability.
+The Bank of England recently published projections that with the development and uptake
+3
+of autonomous cars, the UK motor insurance market may contract by 21% by 2040.
+1.
+
+UK Department for Transport and the Centre for Connected and Autonomous
+Vehicles, Pathway to Driverless Cars: Proposals to support advanced driverless
+assistance systems and automated vehicle technologies (July 2016).
+
+2.
+
+US Department of Transportation and National Highway Traffic Safety
+Administration, Federal Automated Vehicles Policy: Accelerating the Next
+Revolution in Roadway Safety (Sept. 2016).
+
+3.
+
+Bank of England, Quarterly Bulletin 2017 Q1.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 33
+
+34 │
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+AI and the regulation of technology-based advice
+As AI and robo-advice become more widely used, there could be uncertainty as to how
+current regulation applies. For example, in New Zealand, current regulation requires that
+advice be provided by a ‘natural person’. Planned changes in New Zealand seek to
+broaden the definition of advice in order to accommodate technological innovations, and
+require that entities providing robo-advice be licensed and held to the same requirements
+as other types of advisors (New Zealand Ministry of Business, Innovation and
+Employment, 2016). Fully automated services are not allowed to provide advice in
+Canada, and any robo-advice service must provide some access to personalised advice
+from an advisor (Lortie, 2016).
+Regulators in several jurisdictions have been assessing how technology-based advice
+should be regulated going forward. The Australian Securities & Investment Commission
+(ASIC) issued a regulatory guide on robo-advice to retail clients in August 2016 (ASIC,
+2016). The guide maintains that the qualification requirements for providers of roboadvice be the same as those for normal advisors, and lays out the requirements for testing
+the algorithms used and the governance controls and processes in place.
+In April 2016, the US Securities Exchange Commission (SEC) approved a rule proposed
+by the Financial Industry Regulatory Authority (FINRA) that requires developers of
+algorithmic trading to be registered as a securities trader, and be subject to the same
+qualification requirements as securities traders to reduce market manipulation (SEC,
+2016). The European Supervisory Authorities (European Banking Authority, European
+Securities and Markets Authority and European Insurance and Occupational Pensions
+Authority) have issued a joint discussion paper on the automation of financial advice
+looking at the potential benefits and risks of such innovations in order to determine any
+additional regulatory action needed to address automated financial advice (Joint
+Committee of the European Supervisory Authorities, 2015).
+The regulations and consultations taking place indicate the need for consistency with the
+regulation of human financial advice and proper risk and governance controls of the roboadvice being provided. The type of advice being provided by the platform should clearly
+indicate whether the advice being generated is general or has been personalised. If the
+advice is determined to be personalised advice, clear processes would need to be in place
+with respect to how suitability for the client is determined. The algorithms used for
+automation should be extensively tested, and controls in place to ensure that procedures
+are in place to ensure their proper functioning.
+There is also the issue of whether algorithms may have biases that, whether intentional or
+unintentional, may be leading to inappropriate advice. This could impact policyholders on
+a wider base than advisors, as the bias would be built in and anyone who uses the
+algorithm will be subject to it. Another issue that has been highlighted is that robo-advice
+and risk management algorithms could lead to herding, increasing pro-cyclicality
+(Carney, 2017).
+
+Privacy and data protection issues
+Technology that engages big data is complex, opaque and often uninterpretable. For this
+reason, even those who develop the technology for usage of big data may not fully
+comprehend the impact or appropriate usage of data. Firms should be able to demonstrate
+that their use of data is appropriate and free of biases in so far as possible (see Box 14).
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+For big data and data analytics by insurers, privacy and data protection regulations should
+be rigorously addressed, and ethically uncertain use of data should be fully assessed. In
+this respect, the wider data protection regime will have a large impact on how this is
+addressed. In addition, when notification requirements for data breaches are introduced,
+insurers will need to ensure that databases have the capacity to support this requirement.
+On the other hand, notification requirements are also likely to assist the development of
+standalone cyber insurance markets.
+Under the current EU regime, for example, cross-border data transfers are not permitted
+unless made to an Adequate Jurisdiction or the data exporter has implemented a lawful
+data transfer mechanism (according to EU Data Protection Directive (95/46/EC) and the
+EU General Data Protection Regulation (GDPR) (see Box 15 below)). To be deemed an
+Adequate Jurisdiction, the GDPR will be extending the requirements from the Directive
+for the jurisdiction to have inter alia fundamental rule of law and legal protection of
+human rights, access to transferred data by public authorities, and effective and
+functioning data protection agencies (DPAs), international commitments and other
+obligations in relation to the protection of personal data. For transfer of data within the
+corporate group, GDPR requires corporate to have Binding Corporate Rules (BCRs) that
+are legally binding and apply to and be enforced by every member of the group of
+undertakings envisaged in joint economic activity, and have DPA approval of the BCR.
+In the EU, outsourcing arrangements and distribution agreements must be agreed with
+caution, in terms of who is controlling and processing data. Under the current EU
+directive data protection regime, the processing of personal data cannot take place unless
+there are legitimate grounds to do so, which under GDPR will require insurers (data
+controllers) to carry out a “data protection impact assessment” before processing personal
+data. Insurers are expected to implement sufficient consents and effective protocols for
+collecting, handling and processing all data an insurer controls.
+Further, under the GDPR, data controllers will be required to notify personal data
+breaches to the competent supervisory authority, where feasible, no later than 72 hours
+after becoming aware of the breach, unless the data controller is able to demonstrate that
+the breach is unlikely to result in a risk to the rights and freedoms of the data subjects
+concerned. Notifications must also be made to data subjects “without undue delay” if the
+breach is likely to result in a high risk to their rights and freedoms. Businesses could be
+fined up to €20 million or 4% of annual global turnover in the most recent financial year,
+whichever is greater, for failure to comply with GDPR.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 35
+
+36 │
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+Box 14. EU General Data Protection Regulation (GDPR)
+The EU Parliament and the European Council agreed on the General Data Protection
+Regulation (GDPR) in December 2015. It would be applicable to firms that process
+personal data from those residing in the EU irrespective of whether their services are free
+or fee-based, whether the firm is based in the EU or not. It is an update to the Data
+Protection Directive which came into force in 1995. Under the GDPR, fines can be up to
+€20 million or 4% of global annual turnover, whichever is the higher, if the action of the
+firm leads to a loss of information or a data breach. It will take effect in member states
+from 25 May 2018.
+GDPR requires private information to be erased without undue delay when the data is no
+longer required in relation to the purpose for which it was collected. The data used must
+also restrict use of data when the data quality has been contested by the data subject.
+The firm must maintain an accurate record of the data subject’s agreement for their data
+to be used for primary and any secondary purposes, without which the firm may not have
+the right or ability to use the data.
+Depending on how and where insurers process their data, this could have implications on
+how new technologies could be introduced. In addition, the market of cyber risk insurance
+could expand depending on how GDPR is implemented. It could also impact data
+analytics which may have relied on data collected for different purposes.
+
+RegTech
+RegTech is an emerging area in FinTech, that uses technologies to solve regulatory and
+compliance requirements more effectively and efficiently (IIF, 2016). Given the various
+regulatory reforms introduced after the financial crisis, RegTech has the potential to
+ensure more effective compliance of complex regulations. Technologies that are deemed
+to be applicable for RegTech include machine learning and artificial intelligence,
+biometrics, the interpretation of unstructured data such as e-mails and Facebook posts,
+and the use of application programming interfaces (APIs). Those tools can be brought to
+bear on such areas as aggregating big data, modelling risk for stress-testing, monitoring of
+capital-requirement compliance, updating compliance manuals, improving anti-money
+laundering and know-your-customer (KYC) programs and preventing fraud and in-house
+violations.
+RegTech is an area where countries which have developed regulatory approaches to
+FinTech have benefited more from start-ups, with 31% of RegTech start-ups
+incorporating in the UK, as opposed to 20% in the United States (Mulder, 2016).
+For insurance, for example, there are data analytics platforms that allow internal data of
+financial institutions to be converted into regulatory reporting formats, and this could be
+applied to the insurance sector. There are a number of know-your-customer (KYC)
+platforms which may use external, open data to verify customer identity. As solvency
+modernisation initiatives require asset managers of insurers to be able to report
+investments on a look-through basis, RegTech solutions could provide a platform for
+insurers to grasp their asset-under-management in a simple interface.
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+Box 15. RegTech and algorithms
+While a number of solutions are being proposed for insurance in the area of RegTech, in
+particular for fraud prevention and solvency compliance, an emerging area is how
+insurance companies can ensure that their algorithms are compliant with market conduct
+regulations. Some start-ups are working to address unintended consequences of
+algorithms, to ensure that financial institutions, including insurance companies, can
+integrate algorithms in their customer interface as well as enterprise risk management in
+a manner that corresponds to the objective of efficiency and effective of business
+processes while minimising potential risks of algorithms.
+ORCAA is a NY-based technology start-up founded by a data scientist to carry out audits
+of algorithms. The model being used is examined from four phases: data collection and
+integrity, objective of algorithm, the basis in which the algorithm has been built, and
+monitoring and updating of the algorithm. Algorithms have been known to use certain
+proxies, such as post code, which could result in certain segments of the population being
+unfairly treated depending on how the algorithm is modelled.
+An area that financial regulation has been relatively exposed to algorithms is in highfrequency trading, where trading algorithms are used to execute high volume, high speed
+automated trading in financial markets. Financial regulators such as the Federal Reserve
+Board (2009) and the French Autorité des Marché Financiers (2009) had issued reports
+on this issue; nevertheless, a mutual fund trade resulted in a mass withdrawal by high
+frequency trading and the subsequent crash of the Dow Jones (“Flash Crash”) in May
+2010. Germany adopted the High-Frequency Trading Act in 2013, which requires high
+frequency trading firms, not previously supervised by BaFin, to be supervised by BaFin.
+Firms are required to ensure that markets are not distorted or interrupted. The algorithmtagging rule mandates that exchanges have to implement rules requiring all exchange
+members to flag all algorithmically generated orders with a unique key when sent to a
+German exchange so as to allow the market surveillance system to allocate all orders to
+the generating algorithm (Coombs, 2016). The EU Commission has issued a technical
+standard to the Markets in Financial Instruments Directive (MiFID) II, which will be
+implemented in 2018, on how to implement articles relevant to high frequency trading in
+April 2016.
+Monitoring of algorithms is complex, requiring special skills and expertise, and regulators
+and supervisors are often not equipped to understand or assess algorithms and/or
+whether big data is being appropriately used. In the insurance sector, the known uses of
+algorithms are primarily related to the customer interface, although solvency initiatives are
+likely pushing insurers to use algorithms for the measurement of solvency as well.
+Regulators should consider how to approach the use of algorithms and big data by
+insurers that would ensure that they are being appropriately developed and are avoiding,
+in so far as possible, biases and unintended consequences. In particular, stress testing
+might be carried out to determine how robo-advice would cope in certain extreme market
+conditions.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 37
+
+38 │
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+Wider policy considerations
+Certain wider digital policies can assist insurance markets develop technological
+solutions. For example, Estonia’s ID card and digital signature services have led to a
+seamless incorporation of digital insurance solutions, as ID authentication can be easily
+facilitated (Box 16).
+Efforts to improve cyber security, and in particular standards, would assist in raising
+awareness of risks associated with internet-based transactions as well as ensuring
+sufficient development of security measures. For example, the UK developed the Cyber
+Essential Scheme in 2014 to ensure that essential cyber controls were implemented by the
+private sector. Such schemes would assist in individuals being aware of actions to take to
+improve their cyber security when using internet-based insurance solutions and providers
+of InsurTech to ensure that their network is implementing certain standards of security.
+Financial institutions which directly access the payment system are routinely subject to
+supervision/audit of their IT system, as part of operational risk management. 6 This can
+include aspects of mobile banking and algorithmic trading as well.7 It may be worthwhile
+to consider how insurance supervision and regulation can be carried out to appropriately
+monitor what risks such innovations and technological advances can pose to insurers.
+The IAIS’s Financial Crime Task Force has issued an Issues Paper on Cyber Risk to the
+Insurance Sector (IAIS, 2016) which notes that the Insurance Core Principles do not
+specifically address cyber risk and cyber resilience, although supervisors would have a
+basis to address them. The regulatory sandbox approach may permit the introduction and
+experimenting of the technology in a controlled environment, but ongoing monitoring
+may be the next step that requires greater discussion.
+How funding is available for start-up also appears to influence the number of FinTech
+and InsurTech start-ups. Many countries have public sector funding schemes for equity
+financing of enterprises, many established towards the development of venture capital.
+Some target science and technology ventures (OECD, 2011).8
+
+6
+
+For example, the Federal Reserve Board has information technology examination guidance
+(FFIEC Information Technology Examination Handbook – Information Security Booklet (SR-11614) and FFIEC Cybersecurity Assessment Tool for Chief Executive Officers and Boards of
+Directors (SR 15-9).
+The Basel Committee on Banking Supervision’s Core Principles of Effective Banking Supervision
+principle 25 on operational risk has part of the essential criteria that supervisor determines that
+banks have established appropriate information technology policies and processes to identify,
+assess, monitor and manage technology risks.
+7
+
+BaFin has a supervisory process that clearly identifies the algorithmic trading as part of this.
+BaFin (2013), IT Security: Expectations of banking supervision, www.bafin.de/SharedDocs/
+Veroeffentlichungen/EN/Fachartikel/2013/fa_bj_2013_11_it_sicherheit_en.html.
+8
+
+As described in OECD (2012), governments have participated in funds of funds investing in local
+high-technology companies (Mexico, Germany). In Germany, some Länder have set up equity
+guarantee facilities for private investment in local SMEs. France, Finland, Germany and
+Netherlands have been active in joining science and technology research with public funding.
+
+7. POLICY AND REGULATION: ITS ROLE IN INSURTECH
+
+Box 16. Estonia’s electronic ID card and digital signature services
+As part of ‘’e-Estonia,” which is the term used to describe Estonia as one of the leading
+countries in e-government solutions, the government developed the ID card services for
+most of its residences which serves as an identity document and proof of ID for online
+services. The ID card has a chip that not only holds information about the card's owner,
+but also two certificates, one to authenticate identity and the second to render a digital
+signature. In addition to the ID card, a mobile phone can be used to identify oneself for
+online services, Mobiil-ID. A mobile phone can act as a card and a card reader at the
+same time. For this purpose, Estonia adopted a legislation on digital signatures in 2000 to
+enable a written signature be replaced by an electronic one.
+Adapting the ID-card and digital signature services, an Estonian insurer and broker have
+developed online services. Intermediation is carried out through a matching and quoting
+system, and enables policies to become effective immediately as authentication of
+identity and by linking this to car registration system assists to expedite the process.
+
+“Gazelles”, young high-growth innovative firms, have been a focus of entrepreneurship policy and
+have drawn policy makers' attention because of the number of jobs they are estimated to create.
+Mexico, United States, Spain and the Netherlands have specific policies to support them.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 39
+
+40 │
+
+8. CONCLUSIONS
+
+8. Conclusions
+
+It appears that InsurTech businesses are developing business models that may, in fact,
+better address the insurability of policyholders by using technology to simplify the
+contracting process, and tailoring policies to better suit their needs. There is also scope
+for insurance to adapt to wider changes in economic activity, such as the sharing
+economy and the large millennial cohort. The other striking characteristic of many
+InsurTechs are the social and environmental considerations that their business models
+incorporate. Many of the InsurTechs try to improve the transparency of the contracting as
+well as the claims management process, including fraud detection, providing greater
+clarity to where the premiums paid go, which could have an impact on the wider
+insurance industry.
+There also seems to be a wider recognition that the fine print of an insurance quotation is
+tedious to read, without giving much insight into the actual coverage of the policy for
+retail clients. Sites are being developed that simplify the information on coverage of a
+policy and try to clarify the level of premiums, while introducing peer pressure for risk
+mitigation. There is often an algorithm to carry out the risk assessment using a few
+questions which may also use external data sources to assist the assessment.
+The scale of InsurTech investment is growing, and by (re)insurers in particular. As
+InsurTechs start to attract a large number of users/policyholders, and provide an improved
+customer experience, (re)insurers will likely hope to capitalise on the success of such
+start-ups by having a stake in them. A number of (re)insurers have created strategic
+venture capital arms for this purpose, and have been making strategic investments in a
+number of start-ups.
+Some countries are establishing regulatory platforms, such as the regulatory sandbox
+approach, that allow innovative technologies to enter the market, and this will assist in
+encouraging start-ups to develop their business model while becoming acclimatised with
+regulatory requirements. Start-ups may opt to initiate their business in markets which
+have such a ready platform.
+More broadly, these technologies have the potential to bring better and more customised
+insurance coverage to more people, including those in the lower income bracket, and
+bring greater financial protection. In addition, the new distribution models can simplify
+the insurance process, and bring insurance to less developed markets.
+However, InsurTech will have to meet insurance regulations as well as wider data
+protection and cyber security requirements as they try to scale their business. Ensuring
+that not only is the customer experience positive when it is scaled up, but that consumer
+protection and safety standards are met will remain a challenge for start-ups and
+regulators alike.
+The development of innovation hubs and regulatory sandbox approaches provides an
+environment for new technologies and innovations to be nurtured, and has the potential to
+
+8. CONCLUSIONS
+
+enable a greater understanding of their impact on the markets. However, greater clarity on
+the appropriate level of regulation in such platforms and how they graduate into full
+regulation requires further discussion in order to balance the need for innovation as well
+as the need for adequate protection of policyholders.
+Market conduct and internal controls are the main area in which regulatory consideration
+would apply for InsurTech, and while such rules are neutral to technologies, the practical
+impact requires closer examination. In particular, internal controls that ensure compliance
+with laws and regulation and fair conduct towards consumers and policyholders will be
+important.
+The impact of the use of big data and algorithms and how regulators could approach their
+evaluation is unclear. The complexity involved has implications for how regulators
+organise themselves as well as for how the spirit of regulation is applied. Firms should be
+expected to demonstrate that their use of data is appropriate and free of bias in so far as
+possible. RegTech may have a role to play in assisting that this is carried out going
+forward.
+Based on the analysis, the OECD can contribute to the efforts of governments to ensure
+technology and innovation in the insurance sector, as well in the wider financial system,
+could be address through additional research on some of the key areas raised above.
+For example, the OECD could:
+
+
+Analyse the trends of InsurTech in terms of technologies and innovations being
+introduced and how it might impact the insurance sector in terms of business
+models and processes, as well as regulation.
+
+
+
+Consider the regulations relevant to technological and innovation in the insurance
+sector, and discuss regulatory approaches which can be taken to facilitate this.
+
+
+
+Discuss the development of best practices of regulatory sandbox approaches, in
+particular for the insurance sector, but also including the wider financial sector in
+cooperation with the OECD Committee on Financial Markets.
+
+
+
+Carry out a stock-taking of how insurance solutions are being addressed by
+regulation, for both start-ups as well as existing insurers. This could also be done
+for the wider financial sector in cooperation with other OECD bodies and in
+particular the OECD Committee on Financial Markets.
+
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 41
+
+42 │
+
+REFERENCES
+
+References
+
+Accenture (2015), The Rise of Robo-Advice.
+Acord & Surely (2016), AI—The Potential for Automated Advisory in the Insurance
+Industry (February).
+ASIC (2016), Regulatory guidance on providing digital financial product advice to retail
+clients (August, Regulatory guide 255).
+Autorité des Marchés Financiers (2009, “Key Issues Arising from the Emergence of Dark
+Pools and Crossing Networks: Press Backgrounders”, 20 October.
+BaFin (2013), IT Security: Expectations of banking supervision
+www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Fachartikel/2013/fa_bj_2013_
+11_it_sicherheit_en.html.
+Biener, C., Eling, M., & Schmit, J. (2013), Regulation in microinsurance markets:
+principles, practice and directions for future development (Working papers on risk
+management and insurance No. 127).
+Capgemini Consulting (2015), Fixing the Insurance Industry.
+Carney, M (2017) “The Promise of FinTech—Something New Under the Sun?” 25
+January (Speech given to the Deutsche Bundesbank G20 conference on “Digitising
+finance, financial inclusion and financial literacy”):
+www.bankofengland.co.uk/publications/Documents/speeches/2017/speech956.pdf.
+CB Insights (2017a), Insurance Tech Start-ups Raise $1.7B Across 173 Deals in 2016
+(January) www.cbinsights.com/blog/2016-insurance-tech-funding/.
+CB Insights (2017b), Where Insurers and Reinsurers Invested in Tech Start-ups in 2016
+(January) www.cbinsights.com/blog/2016-insurance-cvc-total/.
+CB Insights (2016a), Analyzing the Insurance tech Investment Landscape (July).
+CB Insights (2016b), 6 Charts Breaking Down How Insurers Are Investing in Tech
+(September) Start-upshttps://www.cbinsights.com/blog/insurance-corporateventuring-2016/.
+CB Insights (2016c), InsurTech Connect 2016 (October)
+https://www.cbinsights.com/reports/ITC-insurance-tech-deck.pdf.
+CFTC & SEC. (2010), “Findings regarding the market events of May 6, 2010”
+www.cftc.gov/ucm/groups/public/@otherif/documents/ifdocs/stafffindings050610.pdf.
+Chaboud, A., B. Chiquoine, E. Hjalmarsson and C. Vega (2009) “Rise of the Machines:
+Algorithmic Trading in the Foreign Exchange Market” (International Finance
+Discussion Papers, No. 980, Board of Governors of the Federal Reserve System).
+
+REFERENCES
+
+Coombs, Nathan (2016) What is an algorithm? Financial regulation in the era of highfrequency trading, 45, Economy and Society.
+E*Trade Financial (2016), E*TRADE Study Reveals Many Investors Prefer a Hybrid
+Model When Considering RoboAdvisors (25 February)
+https://about.etrade.com/releasedetail.cfm?ReleaseID=957103.
+FTC (2015), Internet of Things: Privacy & Security in a Connected World (January, FTC
+Staff Report).
+FTC (2012), Protecting Consumer Privacy in an Era of Rapid Change: Recommendation
+for Business and Policymakers (March).
+GAO (2005), Credit Reporting Literacy (GA0-05-223).
+Gartner (2016), Measuring the Strategic Value of the Internet of Things for Industries
+(April 28).
+Goldman Sachs Global Investment Research (2016), Millennials coming of age
+www.goldmansachs.com/our-thinking/pages/millennials/index.html#intro.
+HM Treasury and FCA (2016), Financial Advice Market Review: Final Report (March).
+IHS Markit (2016), Usage-Based Insurance Expected to Grow to 142 Million Subscribers
+Globally by 2023 (6 May) http://press.ihs.com/press-release/automotive/usagebased-insurance-expected-grow-142-million-subscribers-globally-2023-i.
+IAIS (2016), Issues Paper on Cyber Risk to the Insurance Sector (August)
+IIF (2016), Regtech in financial services: technology solutions for compliance and
+reporting (March).
+Investor Junkie (2016), The True Costs of Robo-Advisors – What Are the Annual Fees?
+(9 October) https://investorjunkie.com/42668/true-costs-robo-advisors/.
+Joint Committee of the European Supervisory Authorities (2015), Joint Committee
+Discussion Paper on automation in financial advice.
+Keller, B & Hott, C (2015), Big data, Insurance and the Expulsion from the Garden of
+Eden (Geneva Association Insurance Economics Newsletter No.72).
+KPMG & CB Insights (2016), Venture Pulse Q4 2015 (January).
+Lortie, P. (2016), A Major Setback for Retirement Savings: Changing how financial
+advisers are compensated could hurt less-than-wealthy investors most.
+McKinsey (2015), Insurance on the threshold of digitization: Implications for the Life and
+P&C workforce (December).
+McKinsey (2010), The Internet of Things (March) www.mckinsey.com/industries/hightech/our-insights/the-internet-of-things.
+Mulder, JM (2016), 100 RegTech start-ups to follow (17 June)
+www.linkedin.com/pulse/100-regtech-start-ups-follow-jan-maarten-mulder.
+New Zealand Ministry of Business, Innovation and Employment (2016), Final Report:
+Review of the Financial Advisers Act 2008 and the Financial Service Providers
+(Registration and Dispute Resolution) Act 2008.
+OECD (2012), OECD Science, Technology and Industry Outlook 2012, OECD
+Publishing, Paris. http://dx.doi.org/10.1787/sti_outlook-2012-en.
+TECHNOLOGY AND INNOVATION IN THE INSURANCE SECTOR
+
+│ 43
+
+44 │
+
+REFERENCES
+
+OECD (2011), Science, Technology and Industry Outlook Policy Database.
+http://qdd.oecd.org/DATA/STIOb_COUNTRY_ITEM_TOPIC_POLICY_SOURC
+E/C6-1...STIO_2012?Page=1.
+PwC (2016), Blockchain: the 5 billion dollar opportunity for reinsurers.
+SEC (2016), Approving a Proposed Rule Change to Require Registration as Securities
+Traders of Associated Persons Primarily Responsible for the Design, Development,
+Significant Modification of Algorithmic Trading Strategies or Responsible for the
+Day-to-Day Supervision of Such Activities (7 April, Release No. 34-77551; File
+No. SR-FINRA-2016-007).
+UK Transport Research Laboratory (2015), Provision of telematics research (2015).
+Zurich Fleet Intelligence (2016), Reduced fleet operating costs
+www.zurichfleetintelligence.com/us-en/benefits.php.
+
+Technology and innovation in the
+insurance sector
+“Insurtech” is the term being used to describe the new
+technologies with the potential to bring innovation to
+the insurance sector and impact the regulatory
+practices of insurance markets. This report
+catalogues these technologies and examines how
+InsurTech is being funded and how insurers are
+engaging with the start-ups entering the market.
+
+This report contributes to the OECD Going Digital project which
+provides policy makers with tools to help economies and societies
+prosper in an increasingly digital and data-driven world. For more
+information, visit www.oecd.org/going-digital.
+
+www.oecd.org/daf/fin/insurance
+
+

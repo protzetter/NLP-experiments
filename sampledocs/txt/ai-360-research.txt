@@ -1,0 +1,1027 @@
+AI 360: insights from the
+next frontier of business
+From the corner office to the corner store,
+mapping the progress and challenges
+of AI adoption
+
+TABLE OF
+
+CONTENTS
+
+2
+
+AI adoption accelerates but is everyone on board?
+
+03
+
+Senior executives say performance eclipses cost
+savings as the biggest payoff
+
+05
+
+Consumers more open to AI but have doubts that
+businesses can’t afford to miss
+
+08
+
+Workers’ comfort and concerns
+
+13
+
+Embedding AI as your neural wiring: the view from
+the visionaries
+
+15
+
+Cross-industry insights
+
+16
+
+About the research
+
+19
+
+AI adoption accelerates, but is
+everyone on board?
+While the media continues to debate artificial
+intelligence (AI), businesses are clear. AI is here to
+stay. Companies around the world are adopting it to
+boost performance and insights, and are reaching the
+point where it is no longer just on the fringes of an
+organization but at its core – the neural wiring. The
+second edition of Genpact’s research series of
+C-suite and senior executives, consumers, and
+workers shows remarkable progress in AI adoption
+and awareness since the inaugural 2017 study.
+Within large companies, a quarter of senior executives
+say they plan to fundamentally reimagine their
+businesses with AI by the end of 2021 (compared
+to 14% in 2017), and 54% will use AI to transform
+processes (up from 41%). But many people –
+consumers and workers – still have doubts.
+Consumers worry about bias and discrimination
+from AI-based decisions, data protection, and the
+
+job market for future generations. And even though
+workers say they are willing to be retrained and more
+businesses now offer reskilling opportunities, few
+employees say that they have seen them, and even
+fewer have taken advantage.
+With media attention often focused on the negative
+impact of AI on workers and consumers, organizations
+must continue to change this narrative. To move
+beyond the hype, advanced businesses are taking
+practical steps to respond to lingering concerns,
+aligning AI to the business strategy, and dedicating
+time to deciding where and how to roll it out.
+As businesses’ attitudes toward AI evolve, they are
+more likely to see it as a means to a much larger end,
+says Sanjay Srivastava, Genpact’s chief digital
+officer. “After all, it isn’t just about AI. It’s about
+transforming the business strategy, value proposition,
+and operations. AI facilitates that,” he says.
+
+It isn’t just about AI. It’s about
+transforming the business strategy,
+value proposition, and operations. AI
+facilitates that.
+Sanjay Srivastava, chief digital officer, Genpact
+
+3
+
+The future is instinctive
+For companies that seek to stay relevant and thrive
+in markets that face constant disruption, AI plays a
+significant role. We believe the next generation of
+advanced businesses will have AI embedded as their
+neural wiring, allowing them to adapt instinctively
+and make accurate, real-time decisions for the
+benefit of their customers.
+This organization of the future is an instinctive
+enterprise and has three hallmarks. With a connected
+ecosystem, interwoven with AI, it eliminates silos and
+strengthens external partnerships. It uses AI to spot
+
+patterns and generate predictive insights, while also
+enhancing how its people work, enabling an adaptive
+workforce with purpose-driven careers.
+The 25% of respondents who say their companies
+plan to reimagine their businesses with AI are
+the visionaries who are taking bolder steps toward
+becoming instinctive enterprises. For example, twothirds of these visionaries already apply AI in at least
+four business functions, and 26% have it in seven or
+more (figure 1). We will draw on the experiences from
+these visionaries throughout the report.
+
+Where organizations are adopting AI
+In which of the following areas is your company using AI?
+Visionaries
+
+Others
+
+% of senior executives
+
+Finance/accounting
+Information technology services
+
+56%
+
+28%
+
+Operations/production
+
+55%
+
+23%
+
+Strategy/general management
+
+50%
+
+25%
+
+Customer service
+
+31%
+
+46%
+43%
+
+Research and development
+
+20%
+
+Compliance/risk
+
+36%
+
+20%
+
+30%
+
+Marketing
+
+19%
+
+Procurement
+
+25%
+
+17%
+
+24%
+25%
+
+Supply chain
+
+20%
+20%
+
+Human resources
+
+17%
+18%
+
+Sales
+Figure 1
+
+4
+
+72%
+
+46%
+
+Senior executives say performance
+eclipses cost savings as the biggest payoff
+With the growth of AI adoption, companies
+are generating greater impact and have higher
+expectations (figure 2). For example, when they were
+asked about the biggest benefit from AI, improved
+ability to leverage data and analytics rose to the top
+(37%), compared to fifth place in a similar ranking of
+AI benefits in 2017. This reflects how companies are
+getting a better handle on their analytics strategies
+and developing more sophisticated algorithms
+that light up dark data.
+
+The value of better data visibility also supports the
+second biggest areas of impact: collaboration and
+improved processes at 35% each. In 2017, senior
+executives cited cost reduction as the top benefit,
+followed closely by improved customer experience
+and more efficient processes. But in the current study,
+two purely financial indicators – reduced costs and
+increased revenues – stand at the bottom of a list of
+nine potential benefits.
+
+Feeling the impact from AI
+Where is AI generating benefits for your business?
+Now
+
+In three years
+
+% of senior executives
+
+33%
+37%
+
+33%
+35%
+
+Improved our ability
+to leverage our
+data and analytics
+
+34%
+35%
+
+Improved processes
+and greater
+efficiency at our
+company
+
+29%
+29%
+
+30%
+34%
+
+Improved our ability
+to collaborate
+across departments
+and functions
+
+27%
+28%
+
+Improved our
+ability to target
+new markets
+
+33%
+28%
+
+Reduced
+costs
+
+35%
+34%
+
+Improved our
+ability to make
+predictions or
+forecasts
+
+Improved
+customer
+experience
+and service
+
+30%
+27%
+
+Freed up more time
+for employees
+to focus on more
+important tasks
+
+Increased
+revenues
+
+Figure 2
+
+5
+
+A game changer: from process improvement to prediction
+
+Robert Pompey, senior vice president,
+commercial credit management at TD Bank, a
+US financial institution with operations on the East
+Coast, says these findings on impact coincide with his
+own experience. He says AI is making a difference in
+process functions, such as early-warning mechanisms
+in the credit cycle.
+“Process functions have become a primary focus for
+us,” Pompey says. “In the past, we were touching every
+[loan application] and doing a deep analysis of each
+one to understand credit histories. Now we’re largely
+just doing exception processing manually. Using AI,
+we can be more predictive about client behaviors
+that could lead to a potential default or credit risk. TD
+Bank is also leveraging AI tools and machine-learning
+capabilities with documents to deal with financial
+statement spreading to make credit decisions faster.”
+Pompey adds that while the firm recognizes these
+functional improvements, the impact is also being
+felt in the institution’s commercial credit workforce
+and in the customer experience. “Anti-moneylaundering activities are another great example of
+
+Using AI, we can be more predictive
+about client behaviors that could lead to
+a potential default or credit risk.
+Robert Pompey, SVP, commercial credit management,
+TD Bank
+
+6
+
+the transformational properties of AI. Investigative
+transactional reviews that used to take days can
+now be completed in hours and/or minutes using
+forms of AI – a game changer. We’re also increasing
+our ability to mitigate fraud – and that translates
+into an improved customer experience, even if
+customers aren’t aware that we’ve created a better
+and safer environment for them.
+“Then there’s speed to market. Customers are
+expecting faster credit decisions and banks are driving
+this change. And, finally, we can now enhance our
+employees’ jobs by elevating their roles to higher
+levels of activity beyond data entry or other skills
+and requirements. Those are all developments made
+possible by technology and AI.”
+Executives expect the trend for enhancing functional
+performance with AI to continue into 2021. They
+also anticipate that better customer experience will
+remain a top benefit. And they believe freeing up time
+for employees to focus on more valuable tasks will
+continue to increase in importance.
+
+Pushback falls away and shifts from the corner office to
+entry-level workers
+Another key development is that resistance to AI
+implementation has sharply diminished since the
+2017 study. About 58% of senior executives now say
+there is no individual or group resisting the adoption
+of AI, compared with 21% previously.
+
+pushback (41%) from these employees. As companies,
+especially those most advanced with AI, extend
+the technology across the organization, entry-level
+workers – a group that typically knows less about AI or
+how to implement it – are getting exposed to it more.
+
+Notably, the proportion of executives who say that
+they perceive the strongest resistance from the top
+(C-suite, board, or upper-management) plummeted
+to only 15% from 51% in 2017. Srivastava says this isn’t
+surprising because executives are now more likely
+to see and understand the benefits of AI, so they
+are more likely to embrace it.
+
+In addition, senior executives often have unrealistic
+expectations from AI, expecting an Alexa-style
+experience within weeks or months that employees
+can’t deliver. For this reason, the next vital phase of
+change management will occur among the entry and
+mid-level ranks, where much of a company’s crucial
+work gets done.
+
+At the same time, though, respondents are reporting
+greater resistance from entry-level workers, a number
+that has jumped significantly to 19% from 5% in 2017.
+Indeed, the AI visionaries are more likely to report
+
+On the whole, however, consumers and workers
+have become more accepting of AI, in part because
+they are now more familiar with it. Yet pockets of
+concern remain that AI proponents need to address.
+
+The next vital phase of change
+management will occur among the
+entry and mid-level ranks.
+
+7
+
+Consumers more open to AI but
+have doubts that businesses can’t
+afford to miss
+Consumers are generally more at ease with AI than they were in 2017. The proportion who say that AI has made
+their lives at least a little better rose to more than half (53%), compared to about a third (34%) in the previous
+study. Only 29% of people say AI makes no difference in their lives, falling from 41% in 2017.
+But acceptance is still far from widespread. Only 15% of consumers say AI has made their lives much better. And
+37% say either that AI does not personally benefit them or that they don’t know if it does. Broader acceptance is
+held back by several specific concerns that businesses do not always fully understand.
+
+Greater willingness to share data, but reservations remain
+Consumer-facing AI applications rely on users’
+data to personalize services and improve the
+customer experience. But despite many wellknown businesses suffering high-profile data
+breaches recently, consumers have become more
+open to sharing their data. When asked if they are
+comfortable with companies using AI to access
+personal data to improve their customer experience,
+54% say they are (figure 3), an increase from 30% in
+
+When consumers were asked if they
+are comfortable with companies using
+AI to access personal data to improve
+their customer experience, 54% say
+they are.
+
+8
+
+2017. That said, 46% still have concerns, and more
+than half (52%) think that the government should be
+doing more to protect their data, although this has
+dropped from 59%.
+“There are two things companies have to provide
+consumers with when they use their data,” says
+Kristian Hammond of Northwestern University.
+Hammond directs the school’s CS+X initiative, where
+
+students combine a computer science curriculum with another subject that they are passionate
+about. A computer sciences professor himself, he also heads Northwestern’s Master of Science in Artificial
+Intelligence programs.
+“One, companies have to be incredibly transparent about how they’re using the data and who gets to have access
+to it,” he says. “And, two, they have to be more vigilant about protecting it. There are always going to be people
+ahead of the curve who can hack into systems, but the reality is that more can be done to protect data so that if it
+does slip out, it doesn’t slip out completely.”
+
+AI and your personal data
+How comfortable are you with companies using AI to access your personal data to
+improve your customer experience?
+Very comfortable
+
+Fairly comfortable
+
+Not very comfortable
+
+Not at all comfortable
+
+% of consumers
+
+9%
+
+12%
+
+21%
+
+7%
+
+13%
+22%
+
+24%
+35%
+33%
+42%
+36%
+
+47%
+
+Millennials and younger
+(18-37)
+
+Generation X
+(38-53)
+
+Baby boomers and older
+(54+)
+
+Percentages may not add to 100% due to number rounding
+
+Figure 3
+
+9
+
+Confronting AI bias is a major challenge for all
+While there is greater openness among consumers
+about AI accessing personal data, a large majority
+(78%) expect companies to actively address bias and
+discrimination from AI, fearing it can cause them harm.
+For example, some systems that identify candidates
+for recruitment or promotion have been shown to
+be biased against women because the algorithms
+are based on data from when men were prevalent in
+senior roles.
+“We can take the approach based on historical data
+or we could diversify by using other AI techniques,”
+says Srivastava. For example, when finding the right
+team for a candidate, instead of using algorithms that
+inadvertently favor a candidate’s face, race, religion,
+or résumé, recruiters can expose them to a series of
+photographs and, according to the choices they make,
+use algorithms to indicate the best kind of team for
+each person. “That’s a very different way to use AI for
+recruitment,” says Srivastava.
+Financial services firms, for example, have already
+taken steps to prevent bias from entering their systems
+and affecting their customers.
+
+If we can’t explain how the technology
+works, we’re not touching it.
+
+Robert Pompey, senior vice president, commercial
+credit management, TD Bank
+
+10
+
+“From the commercial credit management standpoint,
+if we can’t explain how the technology works,
+we’re not touching it,” says TD Bank’s Pompey. “It’s
+critical that we understand the algorithms before we
+implement them. We need a clear picture of how they
+operate. Then we have to be able to communicate that
+information to our employees to ensure they’re being
+transparent with our customers, too.”
+More than two-thirds (67%) of all consumers say
+they are at least somewhat concerned about AI
+discriminating against them in the way it makes
+decisions. And there are only minor differences among
+age groups, ranging from 68% for Gen-Z to 69% and
+higher for baby boomers and older generations.
+In other words, AI bias is a serious issue for nearly
+everyone, which calls for urgent attention from
+companies that deploy AI.
+The good news is that nearly all companies say
+they are addressing AI bias, but, for the most part,
+their efforts have not been aggressive. Nearly all
+executives say that they have taken at least one action
+to combat AI bias, and about half have taken more
+
+than one. But most firms have only begun to address
+the bias issue. Just 34% of all companies say they
+have established a comprehensive governance and
+internal control framework to manage AI bias. Most
+of the others have taken smaller steps, such as using
+diverse teams to eliminate particular biases, discussing
+the potential of AI bias with employees who use the
+data, and modifying algorithms to eliminate particular
+biases. Once again, the visionaries – the senior
+executives from companies with deeper plans for AI –
+have made the most progress here (figure 4).
+Rob Laubacher, executive director at the MIT
+Center for Collective Intelligence, shares an
+example of bias that could have had disastrous effects.
+
+“There was a research group using machine learning
+to identify pneumonia patients needing special
+attention,” he explains. Yet asthmatics, who are in
+particular danger from pneumonia, were not identified
+as needing extra attention within this group. “It turned
+out that doctors addressed these cases right away,
+as they knew asthmatics were at higher risk, so they
+were already getting additional help. But because
+the algorithm didn’t know that, it would have told
+hospitals to ignore that class of patient. In this case, the
+researcher told the hospital not to use the algorithm
+because he did not understand the reasoning behind
+it. Companies would do well to use similar caution.”
+
+Addressing AI bias
+Which of the following steps has your company taken to combat AI bias?
+Visionaries
+
+Others
+
+% of senior executives
+50%
+31%
+
+46%
+33%
+
+Discussed the potential of AI
+bias with employees
+who are using the data
+
+Used diverse teams to select
+the samples
+and train the algorithms
+
+46%
+32%
+
+38%
+33%
+
+Established a
+comprehensive
+governance and internal
+control framework to
+manage AI bias
+
+Modified algorithms to eliminate
+particular biases, for
+example in hiring, sales, or
+customer service
+
+Figure 4
+
+11
+
+To bot or not to bot?
+Another major disconnect: Senior executives may
+be making decisions about the use of customerfacing bots without fully understanding consumer
+preferences.
+More than 86% of senior executives believe
+customers will prefer to be served by a bot than a
+call center agent by 2021, a significant increase from
+38% in 2017. Moreover, 45% strongly believe this to
+be the case. But the consumer perspective is much
+different and has hardly changed from the previous
+study: in 2017, only 12% said they would prefer
+to be served by a chatbot in the next three years,
+compared to 15% in this latest study.
+Laubacher argues that this disconnect may be
+because executives are responding to the cost-saving
+properties of bots, while consumers are responding to
+their perceptions or experiences with them.
+
+12
+
+“I wonder whether chatbots on their own are a flawed
+customer-service model and that’s why only 15%
+of consumers feel that they’re being well served by
+them,” says Laubacher. “Chatbots were overhyped
+for a while – not just for tech support but also for
+marketing. But if companies can combine elements
+of self-service with a good web experience, using
+chatbots as intermediaries could work.”
+Many businesses have been quick to implement
+chatbots and AI, but not all have taken an end-toend view of the customer experience that requires
+connecting often-siloed internal functions. To close
+the perception gap, companies can use techniques
+like service design and design thinking to identify
+where a chatbot will be most effective and make the
+customer interaction seamless.
+
+Workers’ comfort and concerns
+Workers are also becoming more at ease with AI. For
+one thing, the expectation concerning job security
+is becoming more positive, with those who say that
+AI presents new career opportunities (36%) slightly
+outnumbering those who say it threatens their jobs
+(28%). But while they may not be worried about
+their roles, 43% of workers are concerned about
+jobs for their children and future generations, which
+could indicate they are still unclear on the long-term
+benefits of the technology.
+And even though workers are not
+overwhelmingly worried about losing their
+current jobs, their enthusiasm for AI falls short of
+senior executive expectations. The vast majority
+(86%) of senior executives expect workers to be
+
+comfortable working alongside AI by the end of 2021,
+and 26% believe so strongly. But while more workers
+say they expect to be at least fairly comfortable
+working alongside robots than in 2017 (62% today vs.
+40% in 2017), workers are less emphatic than senior
+executives expect them to be. Indeed, only 17% say
+they would be very comfortable.
+The survey findings suggest that companies can
+address this gap in expectations and continue
+changing the narrative by communicating with
+workers about the value AI will bring. A majority
+(59%) of workers say they would be more comfortable
+with AI if they understood it better, while only 11%
+disagree, pointing to a practical way to get workers on
+side with better communications and education.
+
+A rise in reskilling but room to improve
+Workers are very interested in receiving AI-related
+training. Fully 80% say they are willing to learn
+new skills to take advantage of AI in their current
+job, and 31% say they are very willing. Notably, this
+interest is strong across age groups. While Gen-Z and
+millennial workers are most interested at 87%, 67%
+of the boomer generation also say they are willing to
+learn new skills. Also, workers who have invested in
+training on their own time are more likely to say that
+AI is having a positive impact on their lives.
+This willingness to accept training should be good
+news to companies, especially in an era of skills
+shortages. While businesses are moving in the right
+direction, there’s still room to improve: in 2017,
+only 38% of senior executives said their companies
+offered reskilling options like training, seminars, and
+workshops, compared to 53% today. But few workers
+have been exposed to those options, as only 35%
+say their organizations offer AI-related training, and
+
+fewer than one-quarter of workers say they have
+received training. Even among the tech-friendly
+Gen-Z and millennial groups, only 27% say they
+have taken advantage of training at their companies.
+Businesses risk missing a key opportunity to get
+employees ready for AI.
+TD Bank’s Robert Pompey says his team
+equates training with engagement, which he
+counts as a critical imperative. That’s why he says
+the commercial credit division involves and trains
+workers at every stage of an AI initiative.
+“We welcome employees to participate in the design,
+development, and testing of our AI deployments,” he
+says. “We’re transparent, so they understand when
+something is coming, know exactly what it is, and
+are clear about how it’s going to fix their pain points.
+Our technologies focus on helping them feel more
+connected and being part of the transformation.
+That’s how we get engagement.”
+
+13
+
+The rising demand for ‘bilingual’ workers
+When it comes to the skills and experience that
+businesses need to succeed with AI, Srivastava says
+both technical and industry or process expertise are
+crucial. If organizations have what he calls ‘bilingual’
+talent – workers who are confident moving
+between the fields of business and technology –
+they are ready for the future workforce.
+“The world will be at the intersection of those
+technical and business skills,” he says. “And that’s great
+
+14
+
+because today’s workforce already has deep skills in
+one or the other of those languages, so we are not
+starting from scratch. You’re just broadening people
+into the other language. When I evaluate AI maturity
+at companies, I don’t look at how many data scientists
+they have. I don’t look at how many process engineers
+they have. I try to find how many bilinguals they have.
+Because true success comes at that intersection.”
+
+Embedding AI as your neural wiring:
+the view from the visionaries
+Having AI embedded throughout the organization is
+a core trait of an instinctive enterprise. And the senior
+executives who say their companies are planning to
+fundamentally reimagine their businesses with AI are
+ahead of the pack.
+These companies – the visionaries – are on the road
+to becoming instinctive enterprises and are starting
+to exhibit the core hallmarks. They demonstrate
+how they are developing a connected ecosystem,
+as they strongly agree that they can easily share
+data across all departments (63% vs. 41% of other
+respondents) and find that AI helps them collaborate
+across departments and functions (36% vs. 33%).
+They also strongly agree that AI is improving their
+company’s ability to make more effective business
+decisions (70% vs. 46%) and that it is freeing up time
+for employees to focus on more important tasks (34%
+vs. 25%).
+Furthermore, they are more likely to say that their
+employees are willing to learn new skills to take
+advantage of AI (59% vs. 46% strongly agree).
+As such, these senior executives’ organizations
+
+are much more likely to provide employees with
+reskilling options, such as training, seminars, and
+workshops (81% vs. 44%).
+These organizations are reshaping their businesses
+to thrive in the future. With AI as their neural wiring,
+they will be better set to evolve into instinctive
+enterprises, able to move markets, reinvent business
+models, and amplify human potential.
+But to get there, they must first be very clear on
+which processes to apply AI to and ensure it will
+impact their business’ strategy. They must also
+address consumers’ doubts about privacy, bias, and
+AI-enabled services such as chatbots. Enterprises that
+undertake their own disruption must fully engage
+their employees in the journey by offering training
+and education on roles for future generations and be
+transparent about how new technologies will affect
+their customers. In a highly interconnected world,
+consumers’ and workers’ trust must be earned and
+renewed constantly, with each new platform, device,
+or algorithm companies introduce.
+
+Making decisions
+AI is improving my company’s ability to
+make more effective business decisions
+% of senior executives
+
+70%
+46%
+
+Visionaries
+
+Others
+
+Figure 5
+
+15
+
+Cross-industry insights
+AI is becoming ubiquitous across processes and functions, but each industry has its own priorities, areas of
+impact, and adoption challenges. See how your industry compares.
+
+High tech
+Reimagining their businesses
+
+The technology sector ranks far ahead of other
+industries in its AI adoption. With pressure from
+companies such as Microsoft, Amazon, Alibaba, and
+Google, it’s not surprising that more than 60% of
+high-tech senior executives say they are extensively
+implementing AI to reimagine their businesses,
+compared with the all-industry average of 25%.
+Technology companies are also more likely to have
+adopted a greater number of AI technologies than
+other sectors.
+This industry has applied AI more extensively in nine
+out of twelve functions listed in the survey when
+compared to the cross-industry average (figure 1). The
+three exceptions are supply chain, human resources,
+
+16
+
+and marketing. And at 61%, the industry’s use of AI
+in finance and accounting is second only to banking/
+financial services.
+This extensive use of AI is paying off: 48% of hightech executives say they are achieving very
+positive outcomes, compared with an average of
+25%. They are more likely to expect AI to generate
+revenue increases. And 48% also strongly agree that
+employees will be comfortable working with robots
+by the end of 2021 vs. a 26% average (figure 6). Yet at
+the same time, technology executives point to greater
+pushback against AI adoption, especially from entrylevel workers (39% vs. a 19% average).
+
+Comfort with robots
+Will workers be comfortable working with robots by the end of 2021
+
+Industrial manufacturing
+
+18%
+21%
+
+High tech
+
+48%
+26%
+
+Insurance
+
+19%
+18%
+
+Healthcare and life sciences
+
+25%
+13%
+
+Consumer goods/retail
+
+31%
+15%
+
+Banking/financial services
+
+25%
+38%
+
+77%
+50%
+
+53%
+
+45%
+71%
+
+44%
+61%
+44%
+54%
+50%
+53%
+40%
+
+% senior executives who agree employees will be comfortable
+working alongside robots in 2021
+Strongly agree
+
+Somewhat agree
+
+% workers who say they will be comfortable working alongside
+robots in 2021
+Very comfortable
+
+Fairly comfortable
+
+Figure 6
+
+Insurance
+High expectations that customers will prefer bots
+
+In the insurance sector, executives are much more
+likely than their counterparts in other sectors to
+strongly agree that AI is improving their ability to
+make more effective strategic business decisions
+(75% vs. 52%). Moreover, 54% strongly agree that they
+can easily share data across all departments, second
+only to the high-tech sector.
+Freeing up time for employees to focus on more
+important tasks is another key benefit where
+insurance stands out. Nearly half (46%) of executives
+
+cite this as one of the three top benefits of AI,
+compared with an average of 28%.
+Insurance also stands out for high expectations that
+customers will prefer bots over agents in 2021, with
+71% of executives agreeing strongly, compared with an
+average of 45%. Improved customer experiences are
+a strategic lever that many insurers have invested in
+heavily. AI offers enhanced opportunities if they apply
+it correctly.
+
+17
+
+Industrial manufacturing
+Ahead on technology but behind on impact
+Already well recognized for their use of technology
+for production, industrial manufacturing companies
+are also relatively intensive users of computer vision
+(44% vs. an average of 35%), although less so than
+the high-tech sector (48%). They are also second only
+to the tech industry in their use of machine learning
+(41% vs. 38% across industries) and natural language
+processing (43% vs. 33%).
+The sector has not, however, achieved strong
+outcomes from AI adoption relative to most others.
+Only 28% of senior executives strongly agree that
+
+AI enables more effective business decisions,
+compared with an average of 52%. The industry also
+lags behind other sectors by a wide margin in
+providing reskilling options, with only 37% saying
+their company does so, compared to high tech (77%)
+and the cross-industry average (53%).
+When it’s well applied, manufacturing firms can reap
+significant rewards from AI, including improved
+product design, timely maintenance, supply chain
+operations, and worker safety.
+
+Consumer goods and retail
+AI for sales and predictive insights
+Not surprisingly, the consumer goods/retail sector has
+applied AI to the sales function more than any other
+sector (32% vs. 17% for all industries), and customer
+service is second only to high tech (40% vs. 34%
+
+overall). It is tied with the technology sector as the
+biggest user of predictive analytics (45% vs. 38%
+across industries), which reflects the sector’s need to
+accurately predict supply and demand.
+
+Banking and financial services
+Big spend on AI but lower impact
+The banking/financial services industry stands out
+as the top spender on AI technology. Forty-two
+percent of senior executives in banking say their
+businesses invest $10 million or more annually
+on AI, compared to an average of 26% in all other
+industries. Even then, executives aren’t sure they’re
+spending enough: only 38% strongly agree that their
+organization allocates sufficient resources toward AIrelated technologies, and only consumer goods/retail
+is lower.
+
+18
+
+But despite the big expenditure, banking/financial
+services is only average in achieving very positive
+outcomes from AI (26%) and ranks second-last behind
+industrial manufacturing in strong agreement that AI
+is improving the organization’s ability to make more
+effective strategic business decisions.
+
+About the research
+Genpact worked with Wakefield Research to conduct a study between November 20 and December 3,
+2018. The survey of C-suite and senior executives included 500 executives in the United States, United
+Kingdom, Australia, and Japan, and was conducted via an email invitation and an online questionnaire.
+Respondents were from the financial services, healthcare, life sciences, high tech, consumer packaged
+goods, retail, and industrial manufacturing industries, and worked at companies with at least $1 billion in
+annual revenue or at least $50 billion in annual revenue for financial institutions.
+Wakefield Research also used an email invitation and online survey to poll 4,000 adults in the United
+States, United Kingdom, Australia, and Japan, of which 2,103 were working at least eight hours a week.
+In 2017, Genpact conducted similar research, working with research firm YouGov, to survey 5,179 people
+in the United States, United Kingdom, and Australia. Of the total survey population, 2,795 were employed
+at least eight hours per week. YouGov conducted the fieldwork online between August 15-30, 2017.
+In a separate study conducted in June 2017, Genpact and Fortune Knowledge Group surveyed 300 global
+senior executives. Respondents were from the financial services, healthcare, life sciences, high tech,
+consumer packaged goods, retail, and industrial manufacturing industries, and worked at companies
+with at least $1 billion in annual revenue or at least $50 billion in annual revenue for financial institutions.
+
+19
+
+About Genpact
+We drive digital-led innovation and digitally-enabled intelligent operations for our clients. Guided by the experience that comes from running
+thousands of processes for Fortune 500 companies.
+We think with design. Dream in digital. Solve problems with data. Obsess over operations and sweat the small stuff. All 87,000 of us. From New York
+to New Delhi (and 20 countries in between), we have the end-to-end expertise to connect every dot. Reimagine every process. And renew your ways
+of working. Because we know that rethinking each step from start to finish will change your business for the better.
+Wherever you want your business to go, we’ll focus on getting you there. So you can focus on your big picture, big returns or next big thing. Whatever
+it is, we’ll be there with you – putting data and digital to work to create bold, lasting results.
+Because transformation happens here.
+Get to know us. Genpact.com.
+
+Follow Genpact on LinkedIn, Twitter, Youtube, and Facebook.
+
+Copyright © Genpact 2019. All Rights Reserved.
+
+

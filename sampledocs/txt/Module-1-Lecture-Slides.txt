@@ -1,0 +1,1596 @@
+Application of AI, Insurtech and Real Estate
+Technology
+Introduction to Insurtech
+Professor Christopher Geczy, PhD
+
+Introduction to Insurtech
+• The insurance industry is global and diversified across applications and
+subsegments
+• Gross Written Premium (GWP) was $4.8 trillion in 2017*
+• The amount of insurance written, not including commissions and costs
+• Net income worldwide grew 23% last year, vs. actual growth of 14% in
+2017*
+
+* Ernst & Young, “Global Insurance Trends Analysis 2018,” June 2018.
+5
+
+Introduction to Insurtech
+• The insurance industry needs to respond to technological change & disruption
+• Wearables
+• Driverless vehicles
+• Internet of Things
+• “Big Data”
+• Natural language processing
+• Blockchain
+• Distributed ledger technologies
+• Climate change
+• Etc.
+• New technologies offer opportunities to increase efficiency in the industry and
+serve new markets
+* Ernst & Young, “Global Insurance Trends Analysis 2018,” June 2018.
+16
+
+Introduction to Insurtech
+• There is no standardized definition of insurtech
+• It is said to be revolutionizing the insurance industry and changing the way
+insurers do business
+
+* Milken Institute, “InsurTech Rising: A Profile of the InsurTech Landscape,” December 2018.
+18
+
+“ InsurTech can be described as “an insurance company,
+
+intermediary, or insurance value chain segment specialist that
+utilizes technology to either compete or provide valued-added
+benefits to the insurance industry.”
+- SIA PARTNERS, 2016
+
+Key Emerging Technologies Leveraged by Insurtech Companies
+
+Source: Capgemini World InsurTech Report 2018
+20
+
+Application of AI, Insurtech and Real Estate
+Technology
+Emerging Technologies: AI & Machine Learning
+Professor Christopher Geczy, PhD
+
+Key Emerging Technologies Leveraged by Insurtech Companies
+• Artificial Intelligence
+• A descriptor for software which can perform functions ordinarily
+associated with human reasoning
+• Iterative learning
+• Self-awareness & emotions
+• Insurers hope to exploit AI for chatbots
+• Allstate’s Allstate Business Insurance
+Expert (ABIE)
+• Provides answers in real time to
+customer owners' questions
+• Other insurers have followed
+Source: “What Is Insurtech and How Are Insurers Using It?”
+https://www.thebalancesmb.com/what-is-insurtech-4584490.
+Graphic: Accenture presentation: “Accenture’s 2017 Technology Vision for Insurance.”
+
+37
+
+Key Emerging Technologies Leveraged by Insurtech Companies
+Machine Learning
+• Enables computers to "learn" over time
+• Using algorithms & mathematical models to simulate neural networks in the
+human brain
+• Allows computers to extract patterns from raw data rather than following
+specific instructions
+• Gives the appearance of being closer to the activities of the human brain
+• Some insurance companies amass large amounts of data
+• Yet, according to the National Association of Insurance Commissioners,
+most insurers use only 10 to 15% of the data they collect
+Source: “What Is Insurtech and How Are Insurers Using It?”
+https://www.thebalancesmb.com/what-is-insurtech-4584490.
+44
+
+Key Emerging Technologies Leveraged by Insurtech Companies
+• Machine learning could allow insurers to mine their data more effectively
+and extract valuable information
+• Risk modeling: Analyze claims data to predict the risk of future losses
+• Demand modeling: Predict demand for their products in the future and
+to estimate premiums
+• Detecting fraud: Identify patterns of behavior that aren't obvious to
+human adjusters
+• Processing claims: Automate claim reporting and processing
+• Underwriting: Help underwriters analyze data collected from applicants.
+• Computers can aid in the decision making process, flag risks or
+inconsistencies in data that underwriters might not be able to see
+• Can also check external sources such as social media to verify the
+Source: “What Is Insurtech and How Are Insurers Using It?”
+accuracy of the data
+https://www.thebalancesmb.com/what-is-insurtech-4584490.
+52
+
+Application of AI, Insurtech and Real Estate
+Technology
+Redefining the Insurance Industry
+Professor Christopher Geczy, PhD
+
+Redefining the Insurance Industry
+1. Product Design
+2. Selling & Marketing / Front Office
+3. Underwriting
+4. Policy Administration
+5. Claims Management
+
+58
+
+Insurtech Are Redefining the Insurance Industry
+Product Design
+
+Front Office
+
+Underwriting
+
+Policy
+Administration
+
+Claims
+Management
+
+Actuarial Models and
+Product Design
+
+Marketing,
+Distribution and
+Channel Management
+
+Underwriting
+New Policies
+
+Policy Acquisition
+and Servicing
+
+Claims Servicing
+and Payout
+
+• Real-time
+information
+capturing
+• Advanced risk
+analytics enabling
+risk-based pricing
+• Automated workflow
+management & rules
+engines
+• Customer value-led
+promotions &
+discounts
+• Digitized systems
+with less reliance on
+data that a customer
+needs to provide
+
+• Segment the market
+based on servicing
+desires
+• Automated systems
+with Straight
+Through Processing
+(STP) capabilities
+• Automated ,
+premium reminders
+and renewal notice
+• Anytime access to
+policy details/view
+
+• Streamlined claims
+process with low
+waiting time
+• Instant notification of
+the claim &
+proactive status
+updates
+• Real-time claims
+status monitoring
+• Advanced analyticsbased fraud
+detection
+
+• 360° view of
+customer’ needs
+• More personalized
+product designs
+• Design new
+products
+• Adjust products in
+real time
+• Disaggregate
+product mix
+seamlessly
+• Design and deliver
+products to the end
+customer they want
+
+• Extended multidevice & mobility
+offering
+• Integrated
+omnichannel
+offerings & touch
+points
+• Real-time updates &
+interactions with
+clients
+• Quick identification
+of cross-selling &
+up-selling
+opportunities
+• Detecting client
+satisfaction
+• Information
+availability & price
+transparency
+
+Source: Capgemini World InsurTech Report 2018
+63
+
+Application of AI, Insurtech and Real Estate
+Technology
+Classification of Insurtech Companies
+Professor Christopher Geczy, PhD
+
+Segmentation of Insurtech Firms
+• There are different classification methods for InsurTech firms and
+initiatives, but they rotate to similar concepts:
+• A “traditional” view: Full-stack / Agents / Brokers
+• A nuanced view of sub-segments: Carriers / Enablers / Distributors
+
+67
+
+Segmentation of Insurtech Firms
+• Milken Institute has three main classifications:
+• Full-stack Insurers: Platforms that underwrite policies, assume the risk,
+and, in most cases, manage the process from beginning to end
+• Agents: Platforms that act on behalf of a carrier, essentially acting as an
+extension of an incumbent carrier
+• Brokers: Platforms that provide customers with a variety of policies
+offered by both incumbent carriers and insurgent InsurTech platforms
+• May or may not be paid commission based on the policies sold
+through their platform
+• May require customers to scroll through policies offered or
+automatically connect customers to a preferred policy through
+algorithms employed & based on a user’s response to a set of
+questions
+Milken Institute, “InsurTech Rising: A Profile of the InsurTech Landscape,” December 2018.
+68
+
+Segmentation of Insurtech Firms
+• To make the classification:
+
+Yes: It is an insurer
+Is it a full insurance
+company?
+
+One: It is an agent
+No: Is it partnered with
+one or multiple
+insurance companies?
+Multiple: It is a broker
+
+Milken Institute, “InsurTech Rising: A Profile of the InsurTech Landscape,” December 2018.
+69
+
+Classification of Insurtech Firms: Capgemnini
+• Second classification system, used by Capgemini
+• It categorizes InsurTech providers by their role in the distribution chain:
+• Enablers
+• Distributors
+• Full Carriers
+
+Source: Capgemini World InsurTech Report 2018
+70
+
+Classification of Insurtech Firms: Capgemnini
+
+Source: Capgemini World InsurTech Report 2018
+71
+
+Segmentation of Insurtech Firms by Model
+InsurTech Platform Models
+Number of InsurTechs
+
+35
+30
+
+31
+
+25
+20
+
+18
+
+15
+10
+
+12
+
+5
+0
+FUL L STACK
+
+AGENT
+
+BROKER
+
+InsurTech Platform Models
+Milken Institute, “InsurTech Rising: A Profile of the InsurTech Landscape,” December 2018.
+72
+
+73
+
+Product offering categories
+E
+
+S
+
+pe
+
+ci
+
+al
+
+ty
+
+(i
+
+(I
+
+l.
+
+nc
+
+nc
+
+et
+
+nc
+
+R
+
+(I
+
+l.
+
+cy
+
+p
+
+cl
+
+m
+
+e;
+
+ile
+
+nc
+
+ob
+
+ra
+
+rn
+
+…
+
+…
+
+…
+
+y…
+
+on
+
+tu
+
+lit
+
+si
+
+re
+
+en
+
+su
+
+e,
+
+in
+
+P
+
+ng
+
+bi
+
+e)
+
+…
+
+;…
+
+)
+
+ed
+
+nc
+
+nk
+
+ra
+
+Li
+
+lL
+ia
+
+t,
+
+pi
+
+en
+
+ip
+
+ri
+
+bi
+
+-t
+
+em
+
+in
+
+ir
+
+sh
+
+t
+
+th
+
+ke
+
+al
+
+bi
+
+he
+
+su
+
+ni
+
+in
+
+U
+
+ily
+
+na
+
+le
+
+,
+
+am
+
+so
+
+tit
+
+rm
+
+/f
+
+er
+
+l.
+
+/P
+
+l.
+
+te
+
+nc
+
+,
+
+ty
+
+(I
+
+al
+
+ili
+
+t,
+
+s
+
+en
+
+es
+
+el
+
+m
+
+in
+
+av
+
+ow
+
+Tr
+
+nd
+
+us
+
+ab
+
+t
+
+rs
+
+iv
+
+l.
+
+1
+
+2
+
+2
+2
+
+2
+
+2
+
+2
+
+3
+4
+
+4
+
+4
+
+4
+
+4
+
+5
+
+5
+
+6
+6
+
+6
+
+8
+
+8
+
+9
+
+10
+8
+
+B
+
+is
+
+en
+
+ve
+
+nd
+
+nc
+
+13
+
+16
+
+18
+16
+
+D
+
+R
+
+ni
+
+(I
+
+(I
+4
+2
+
+e/
+
+(u
+
+lth
+
+o
+
+No. of product offerings
+6
+
+om
+
+fe
+
+ea
+
+ut
+14
+
+H
+
+Li
+
+H
+
+A
+
+Segmentation of Insurtech Firms by Model and Product
+Type of Insurtech Platform, by Product Offering
+Full Stack
+
+Agent
+
+12
+
+Broker
+
+0
+
+Milken Institute, “InsurTech Rising: A Profile of the
+InsurTech Landscape,” December 2018.
+
+Segmentation of Insurtech Firms
+• A significant portion (approximately 40%) of Insurtech companies could
+better be described as technology solution providers
+• Human Resources and Earned Benefits Solution Providers
+• Data Solution Providers
+• Infrastructure Solution Providers
+
+Milken Institute, “InsurTech Rising: A Profile of the
+InsurTech Landscape,” December 2018.
+81
+
+Segmentation of Insurtech Firms
+• Human Resources and Earned Benefits Solution Providers
+• Platforms using or deploying technology to help firms manage their
+human capital more efficiently and cost effectively
+• Data Solution Providers
+• Platforms that specialize in collecting, aggregating, and/or analyzing
+vast quantities of data to support (re)insurance carriers, startups, and
+other stakeholders
+• Infrastructure Solution Providers
+• Platforms that focus on making back-end processes more efficient
+through the use of application programming interfaces (APIs) or that
+provide the means by which platforms can integrate and/or build
+Milken Institute, “InsurTech Rising: A Profile of the
+customizable insurance products and services
+InsurTech Landscape,” December 2018.
+87
+
+Number of Technology Solution Providers in Insurtech Market
+Insurtech Platform Models
+15.5
+
+Number of Providers
+
+15
+
+15
+
+15
+
+14.5
+14
+13.5
+13
+
+13
+
+12.5
+12
+
+Human Resources and
+Earned Benefits Solution
+Provider - Small, Mild,
+Large Businesses
+
+Data Solution Provider
+
+Type of Tech-Solution Providers
+88
+
+Infrastructure Solution
+Provider
+
+Milken Institute, “InsurTech Rising: A Profile of the
+InsurTech Landscape,” December 2018.
+
+Examples of Full-Carrier Insurtech Firms
+
+Full Carriers
+
+Insurtech Firm
+Type
+
+Products/Services Offered
+
+Example
+
+Digital Carrier
+
+Traditional insurance model
+conducted online or on mobile
+
+ZhongAn is a Chinese property insurer that uses
+the online channel to sell its products and handle
+claims
+
+P2P Insurer
+
+A risk-sharing network where a
+group of associated individuals pools
+their premiums to insure against risk
+and generally stands to benefit
+regarding premium returns
+
+insPeer, a France-based community insurance
+platform, allows members to pool in money within
+a group for covering a group member’s deductible
+
+Micro Insurer
+
+Smaller insurance packages with
+lower premiums and typically lower
+coverage
+
+Leveraging mobile technology, BIMA offers
+affordable insurance products to low-income
+populations in emerging markets
+
+On-Demand Insurer
+
+On-demand insurance coverage that
+can be purchased online as well as
+via mobile apps
+
+New York-based Sure offers on-demand personal
+or episodic policies that a user can buy either via
+website or an app
+
+Usage-Based
+Insurer
+
+Premiums prices per usage or risky
+behavior displayed by the customer
+
+US-based Metromile offers auto insurance with
+fees based on the number of miles the insured’s
+car logs
+Source: Capgemini World InsurTech Report 2018.
+
+99
+
+Distributors
+
+Examples of Full-Distributor Insurtech Firms
+Marketplace
+
+Online site enables individuals to
+compare plans from different insurers
+
+PolicyBazaar specializes in comparative analysis of
+products from various insurers based on price,
+quality and key benefits
+
+Personal Financial
+Assistant
+
+One-stop app(s) allows customers to
+manage all their policies, obtain
+coverage recommendations and
+compare and purchase plans
+
+Artificially intelligent insurance advisory application
+Brolly delivers contextually relevant insights
+through web and mobile applications, so customers
+can manage policies in one place and know where
+coverage may be duplicated or missing.
+
+Digital Broker
+
+Online platform allows customers to
+compare and purchase policies
+
+Licensed broker Coverfox offers insurance products
+for vehicles, home, health services and travel.
+
+B2B Digital
+Distributor
+
+Online site enables commercial
+customers to compare plans from
+different insurers
+
+CoverHound, a US-based InsurTech firm that offers
+a comparison platform for personal and small
+commercial insurance products.
+
+Customized or flexible front-office
+solutions via partnership with an
+insurer/reinsurer for risk management
+
+London-based Bought By Many uses social media
+data to connect people with similar insurance needs
+and then uses the group’s collective buying power to
+negotiate with insurers for deals that aren’t available
+for individuals.
+
+Value-Adding
+Intermediary
+
+Source: Capgemini World InsurTech Report 2018.
+109
+
+Examples of Full-Enabled Insurtech Firms
+Process-improvement solutions for the
+front office
+
+PremFina’s white label solution for brokers allows
+them to extend premium financing options to their
+customers and manage insurance policies.
+
+Policy/Plan
+Management
+Solution Provider
+
+Process-improvement solutions for
+underwriting and policy/plan
+administration
+
+RiskGenius applies artificial intelligence to streamline
+the work of insurance professionals by retrieving
+details on a specific coverage or exclusion, analyzing
+policies and extracting relevant information such as a
+premium limit or deductible.
+
+Claims Management
+Solution Provider
+
+Process-improvement solutions
+specifically for claims management
+
+RightIndem has a white-label self-service insurance
+claims platform for insurers that allows customers to
+interact with their claim in their own time.
+
+Data Specialist
+
+Data capture or analytics solutions for
+use cases or across the value chain
+
+Carpe Data leverages fata from various channels
+such as online content, social media, connected
+devices and offers predictive scoring and data
+products for the insurers, enabling them to predict risk
+better.
+
+Technology
+Specialist
+
+Solutions based on a specific
+technology such as blockchain or
+drones
+
+Betterview,
+a drone-technology specialist, allows
+Source: Capgemini World InsurTech Report 2018.
+drone-based inspection or property assessment.
+
+Enablers
+
+Front-Office Solution
+Providers
+
+Source: Capgemini World InsurTech Report 2018.
+110
+
+Application of AI, Insurtech and Real Estate
+Technology
+Investment & Market Size of the Insurtech Industry
+Professor Christopher Geczy, PhD
+
+Insurtech: Market Size
+• What’s clear is that it’s large and growing
+• Global Insurtech market revenue $532.7MM as of 2018*
+• Market revenue expected to reach $1.2 billion by 2023 (+16% CAGR, 20182023) *
+• AsiaPacific will have highest regional CAGR, growing in financial hubs in
+Hong Kong/Singapore/India
+• Health insurance segment is expected to have the higher segment CAGR*
+• Total Insurtech investments, 2017: $3.2 billion **
+• Total deals, 2017: 202 deals for $2.2 billion
+• 83% involved an insurer/reinsurer as investor **
+• Estimated 5-year CAGR, 2012-2017: +45% **
+*Orbis Research, “Global (Insurance Technology) InsurTech
+Market Size 2019,” Dec. 2018. **Ernst & Young, “Global
+Insurance Trends Analysis 2018,” June 2018.
+120
+
+Size of Insurtech Market
+Global private investment
+(VC, PE and M&A)
+in insurtech
+2013-2018
+
+$12.3
+
+258
+242
+
+$10.3
+164
+
+165
+
+114
+
+$5.7
+
+89
+
+$4.0
+$1.6
+2013
+
+$2.4
+2014
+
+2015
+
+Capital invested ($B)
+
+2016
+
+2017
+
+2018
+
+Deal count
+Source: KPMG International: Pulse of Fintech 2018,
+Global Analysis of Investment in Fintech, January 4, 2019
+
+121
+
+Insurtech: Startup Count
+Number of Insurtech Startups Exploded Over Just 2 Years
+(Source: SMA – Strategy Meets Action, 2017)
+
+122
+
+Insurtech: Disruptors
+The Top Insurtech Disruptors
+
+123
+
+Insurtech: Key Techs
+• More and more insurers are moving key business functions to the cloud*
+• Tech research firm Ovum’s annual survey of penetration of Software as a
+Service (SaaS) grew from 13% in 2016 to 26% last year
+
+* Source: Ovum survey data cited in Deloitte, “2019 Insurance Industry Outlook”
+125
+
+Insurtech: Key Techs
+
+* Source: Ovum survey data cited in Deloitte, “2019 Insurance Industry Outlook”
+126
+
+Insurtech: Key Techs
+• AIA Hong Kong has launched a blockchain app to share life policy data
+with its bank distributors
+• AXA Europe is offering flight delay insurance on a blockchain platform
+featuring smart contracts
+• Ovum’s annual survey of penetration of Software as a Service (SaaS) grew
+from 13% in 2016 to 26% last year.
+• Carriers and consortiums are expected to launch more impactful
+blockchain initiatives due to concerns around data technology
+
+130
+
+Profile of Insurtech Market
+• In the U.S., 63 Insurtech deals, with a total value of $1.59 billion, were
+announced in Q4 2018
+• Compared with Q4 of 2017, deal count in Q4 increased by 24%, while
+funding volume also increased by 155%
+• 63 transactions in Q4 2018 – higher than Q3, but lower than Q1 & Q2
+• Globally
+• UK investment down 9% from last quarter
+• China the second largest investor for Q4 after the U.S.
+• UK has been responsible for 8% of total investment since 2012
+• Investment from international markets remains strong; transactions
+outside of the U.S. account for 43% of total transactions since 2012 and
+57% in the 4th quarter of 2018
+
+*CBINSIGHTS: Quarterly InsurTech Briefing Q4 2018
+
+129
+
+Profile of Insurtech Market
+• While early-stage investments remain strong
+• Seed and Series A account for 64% of total transactions since 2012 and
+62% this quarter (up 4% from last quarter)
+• Insurtech funding is maturing to mid – and later-stages – 45% of financings
+in 2018 took place at the Series A, B, or C stages
+• Could lead to consolidation further up
+
+*CBINSIGHTS: Quarterly InsurTech Briefing Q4 2018
+133
+
+Profile of Insurtech Market
+• Property and Casualty (P&C) funding volume increased by 57% from Q3
+2018 and increased by 89% from Q4 2017
+• 41 P&C transactions in the quarter was only marginally higher than the
+40 transactions in Q3 but marks a 52%
+• Life and Health (L&H) funding volume increased by 1% from Q3 2018 but
+marked a 362% increase from Q4 2017
+• 2018 hits record level of Insurtech investment, driven by large
+investments; deal count increased by 10% from Q3 2018 and funding
+volume increased by 26%
+
+*CBINSIGHTS: Quarterly InsurTech Briefing Q4 2018
+137
+
+Size of Insurtech Market
+Quarterly Insurtech funding volume – all stages
+($ in millions)
+$2,000
+
+Property &
+Casualty
+
+$1,800
+$1,600
+
+Life & Health
+
+$1,400
+$1,200
+$1,000
+$800
+$600
+$400
+$200
+$0
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2012
+Deal Count
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+P&C
+
+5
+
+3
+
+4
+
+4
+
+5
+
+4
+
+12
+
+9
+
+10
+
+7
+
+16
+
+8
+
+16
+
+14
+
+16
+
+20
+
+44
+
+18
+
+33
+
+29
+
+23
+
+33
+
+27
+
+42
+
+43
+
+44
+
+40
+
+41
+
+L&H
+
+8
+
+6
+
+7
+
+9
+
+15
+
+8
+
+9
+
+4
+
+9
+
+15
+
+14
+
+15
+
+10
+
+19
+
+14
+
+20
+
+15
+
+16
+
+6
+
+13
+
+16
+
+32
+
+21
+
+9
+
+23
+
+27
+
+17
+
+22
+
+*CBINSIGHTS: Quarterly InsurTech Briefing Q4 2018
+138
+
+Size of Insurtech Market
+Quarterly Insurtech transaction by target country
+
+2%
+4%
+5%
+
+57%
+
+6%
+8%
+
+United States
+United Kingdom
+China
+Germany
+India
+France
+Other
+
+24%
+
+Q4 2018
+
+2012 – Q4 2018
+
+18%
+
+43%
+5%
+6%
+
+United States
+China
+United Kingdom
+Germany
+South Africa
+Other
+
+9%
+13%
+
+2013-Q4 2018 Transactions: 972
+
+Q4 2018 Transactions: 63
+
+Quarterly InsurTech transaction by investments stage
+
+3%
+2%
+5%
+
+41%
+
+13%
+
+Seed/Angel
+Series A
+Series B
+Series C
+Series D
+Series E+
+Other
+
+23%
+
+2013-Q4 2018 Transactions: 972
+
+139
+
+16%
+
+Q4 2018
+
+2012 – Q4 2018
+
+13%
+
+32%
+
+0%3%
+5%
+14%
+
+Seed/Angel
+Series A
+Series B
+Series C
+Series D
+Series E+
+Other
+
+30%
+
+Q4 2018 Transactions: 63
+*CBINSIGHTS: Quarterly InsurTech Briefing Q4 2018
+
+Size of Private Technology Investment by Insurers/Reinsurers
+Private technology investments by (re)insurers
+140
+
+118
+
+118
+
+33
+
+31
+
+28
+
+26
+
+31
+
+34
+
+24
+
+26
+
+27
+
+2016
+
+2017
+
+2018
+
+105
+
+120
+100
+
+66
+
+80
+
+28
+
+60
+
+22
+
+29
+
+40
+20
+
+26
+
+1
+
+27
+
+19
+
+4
+
+14
+11
+
+0
+2012
+
+2013
+
+2014
+
+Q1
+
+2015
+
+Q2
+
+Q3
+
+Q4
+CBINSIGHTS: Quarterly InsurTech Briefing Q4 2018
+
+144
+
+Application of AI, Insurtech and Real Estate
+Technology
+Insurtech, Fintech, & Financial Inclusion
+Professor Christopher Geczy, PhD
+
+Microinsurance
+• Investment firm: Omidyar Network
+• Started by eBay founder Pierre Omidyar in 2004
+• Model: Combines for-profit LLC with grantmaking
+501(c)(3)
+• $1.5B committed since inception:
+• $676MM for-profit investments, $782MM grants
+
+Pierre & Pam Omidyar
+
+Total Commitments by
+Year, 2004-YTD 2019
+
+https://www.omidyar.com/financials
+150
+
+Microinsurance
+• Common feature of microinsurance products is the low-income, low-networth population served which otherwise has very limited access to
+insurance
+• Microinsurance products by type (can be group or individual coverage)
+• Term life
+• Health / accident / disability
+• Casualty (crop insurance, livestock, theft, fire, natural disaster)
+• Certain forms of retirement savings plans
+• Microinsurance by underwriter / delivery channel type
+• Large multinational insurance companies
+• Credit unions or mutual associations
+• Government or NGOs
+• Small community organizations
+161
+
+Microinsurance
+• Benefits of microinsurance
+• Financial protection through risk pooling
+• Insureds can assume more risk
+• Crop insurance vs. drought enables small farmers to plant crops which
+have higher yields in “good” years & poorer yields in drought years
+• Safeguard vs. families falling back into poverty due to illness, death of
+breadwinner, housing destroyed, etc.
+• Indian ministry of health found one-quarter of all hospitalizations
+pushed individual or family into poverty due to cost of treatment*
+
+* Tina Rosenberg, “The Microinsurance Revolution,” New York Times Opinionator blog, June 6, 2012 at
+http://opinionator.blogs.nytimes.com/2012/06/06/the-microinsurance-revolution/
+167
+
+Microinsurance
+• Benefits of microinsurance
+• Can target specific at-risk populations
+• HIV-positive, living in flood zone, microentrepreneurs
+• Can complement social welfare programs, bolster other microfinance
+initiatives
+• Can assign term life policy to secure business, education or mortgage
+loan
+
+* Tina Rosenberg, “The Microinsurance Revolution,” New York Times Opinionator blog, June 6, 2012 at
+http://opinionator.blogs.nytimes.com/2012/06/06/the-microinsurance-revolution/
+172
+
+Microinsurance
+• BIMA – insurance business disruptor,
+“Insurtech” leader
+• Swedish-founded mobile insurance & health
+company that provides accident, life,
+& health insurance products to 26 million low-income consumers in 15
+countries (Africa, Asia, LatAm)
+• Largest markets: Ghana, Sri Lanka, Bangladesh, Pakistan.
+• Mobile technology lowered prices and brought affordable insurance to
+the world’s poorest
+TechCrunch https://techcrunch.com/2017/12/19/bima-raises-97m-from-allianz-for-microinsurance-aimed-at-emerging-markets/
+BIMA website: http://www.bimamobile.com/about-bima/about-us-new/
+176
+
+Microinsurance
+• Business model: BIMA provides microinsurance subscription via basic
+mobile phone service for as little as 60c/month on a “pay-as-you-go” rolling
+monthly cover
+• Offers payouts of up to $1,000 to the family if the insured person dies
+• Sign-up takes only 3 minutes and payments are collected through basic
+mobile phone service
+• Customer growth: over 550 thousand new customers/month (BIMA, 2018)
+• 93% of customers live on less than $10/day (BIMA, 2018)
+• 75% of subscribers never had insurance before
+• Educating customers is the top priority
+• $300MM valuation at Dec-2017 sale of LeapFrog Investments’ stake to
+Allianz for $97MM
+
+TechCrunch https://techcrunch.com/2017/12/19/bima-raises-97m-from-allianz-for-microinsurance-aimed-at-emerging-markets/
+BIMA website: http://www.bimamobile.com/about-bima/about-us-new/
+
+184
+
+Size of Private Technology Investment by Insurers/Reinsurers
+Private technology investments by (re)insurers by target country
+
+3%
+5%
+54%
+
+6%
+8%
+
+United States
+France
+China
+United Kingdom
+Germany
+Canada
+Other
+
+20%
+
+Q4 2018
+
+2012 – Q4 2018
+
+16%
+
+33%
+
+United Kingdom
+Other
+
+13%
+
+13%
+
+8%
+
+United States
+China
+Germany
+
+2013-Q4 2018 Transactions: 972
+
+21%
+
+Q4 2018 Transactions: 63
+
+Private technology investments by (re)insurers by investment stage
+
+3%
+4%
+
+16%
+
+13%
+29%
+24%
+
+Seed/Angel
+Series A
+Series B
+Series C
+Series D
+Series E+
+Other
+
+2013-Q4 2018 Transactions: 972
+
+185
+
+12%
+
+11%
+
+12%
+
+Q4 2018
+
+2012 – Q4 2018
+
+11%
+
+19%
+
+11%
+
+Seed
+Series A
+Series B
+Series C
+Series E+
+Other
+
+35%
+
+Q4 2018 Transactions: 63
+*CBINSIGHTS: Quarterly InsurTech Briefing Q4 2018
+
+

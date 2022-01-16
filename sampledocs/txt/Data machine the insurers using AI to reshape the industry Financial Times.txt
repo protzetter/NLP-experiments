@@ -1,0 +1,181 @@
+Data machine: the insurers using AI to reshape the industry | Financial Times
+
+1 of 6
+
+https://www.ft.com/content/d3bd46cb-75d4-40ff-a0cd-6d7f33d58d7f
+
+Insurance
+
+Data machine: the insurers using AI to reshape the industry
+Groups are building detailed customer profiles to inform pricing and try to influence behaviour
+
+AI allows insurers such as Ping An to produce highly individualised profiles of customer risk that evolve in real time © FT montage;
+Alamy, Dreamstime
+
+Ian Smith in London AUGUST 16 2021
+
+Take your medicine when the app tells you, do your exercise and eat well. As long as
+you “show good compliance” and share the data, you will reduce your health risks —
+and your insurance premium.
+This is how Xie Guotong — the chief healthcare scientist at Chinese insurer Ping An —
+describes its combined insurance and digital “disease management” service for people
+with type-2 diabetes. Powered by artificial intelligence, it is just one example of a big
+shift going on in the industry.
+AI, which sifts data and aims to learn like humans, is allowing insurers to produce
+highly individualised profiles of customer risk that evolve in real time. In parts of the
+market, it is being used to refine or replace the traditional model of an annual
+premium, creating contracts that are informed by factors including customer
+behaviour.
+In some cases, insurers are using it to decide whether they want to take a customer on
+in the first place.
+22.08.21, 17:16
+
+Data machine: the insurers using AI to reshape the industry | Financial Times
+
+2 of 6
+
+https://www.ft.com/content/d3bd46cb-75d4-40ff-a0cd-6d7f33d58d7f
+
+New York-listed car insurer Root offers potential customers a test drive, tracks them
+using an app, and then chooses whether it wants to insure them. Driving behaviour is
+also the number one factor in the price of policy, it said.
+UK start-up Zego, which specialises in vehicle insurance for gig-economy workers
+such as Uber drivers, offers a product that monitors customers after they have bought
+cover and promises a lower renewal price for safer drivers.
+The theory with such policies is that customers end up paying a fairer price for their
+individual risk, and insurers are better able to predict losses. Some insurers say it also
+gives them more opportunity to influence behaviour and even prevent claims from
+happening.
+
+New York-listed car insurer Root oﬀers potential customers a test drive, tracks them using an app, and then chooses whether it
+wants to insure them © Root insurance
+
+“Insurance is strongly moving from payment after claim to prevention,” said Cristiano
+Borean, chief financial officer at Generali, Italy’s largest insurer.
+For a decade, Generali has offered pay-how-you-drive policies that reward safer
+drivers with lower premiums. In its home market, it also offers AI-enabled driver
+feedback in an app, and plans to pilot this in other countries. “Everything which can
+allow you to interact and reduce your risk, is in our interest as an insurer.”
+
+22.08.21, 17:16
+
+Data machine: the insurers using AI to reshape the industry | Financial Times
+
+3 of 6
+
+https://www.ft.com/content/d3bd46cb-75d4-40ff-a0cd-6d7f33d58d7f
+
+But the rise of AI-powered insurance worries researchers that this new way of doing
+things creates unfairness and could even undermine the risk-pooling model that is
+key to the industry, making it impossible for some people to find cover.
+“Yes, you won’t pay for the claims of your accident-prone neighbour, but then again,
+no one else will then pay for your claims — just you,” said Duncan Minty, an
+independent consultant on ethics in the sector. There is a danger, he added, of “social
+sorting”, where groups of people perceived as riskier cannot buy insurance.
+
+Behaviour-driven cover
+Ping An’s type-2 diabetes insurance product is powered by AskBob, its AI-powered
+“clinical decision support system” used by doctors across China.
+For diabetes sufferers, the AI is trained on data showing incidence of complications
+such as strokes. It then analyses the individual customer’s health via an app to
+develop a care plan, which is reviewed and tweaked by a doctor together with the
+patient.
+The AI monitors the patient — through an app and a blood-glucose monitor — finetuning its predictions of the likelihood of complications as it goes. Patients that buy
+the linked insurance are promised a lower premium at renewal if they follow the plan.
+
+22.08.21, 17:16
+
+Data machine: the insurers using AI to reshape the industry | Financial Times
+
+4 of 6
+
+https://www.ft.com/content/d3bd46cb-75d4-40ff-a0cd-6d7f33d58d7f
+
+But AI experts worry about the consequences of using health data to calculate
+insurance premiums.
+Such an approach “entrenches a view of health not as human wellbeing and
+flourishing, but as something that is target-based and cost-driven,” said Mavis
+Machirori, senior researcher at the Ada Lovelace Institute.
+It might favour those who are digitally connected and live near open spaces, while
+“the lack of clear rules around what counts as health data leaves the door open to
+misuse”, she added.
+Zego’s “intelligent cover”, as the company calls it, offers a discount to drivers that sign
+up for monitoring. Its pricing model uses a mix of inputs, including information such
+as age, together with machine-learning models that analyse real-time data such as fast
+braking and cornering. Safer driving should push down the cost of renewal, Zego said.
+It also plans to provide feedback to customers through its app to help them manage
+their risk.
+“If you’re on a monthly renewing policy with us, we’d be looking at tracking that over
+time with you and showing you what you can do to bring down your monthly cost,”
+said Vicky Wills, the start-up’s chief technology officer.
+She added: “I think this is a trend we are actually going to see more and more —
+insurance becoming more of a proactive risk management tool rather than the safety
+net that it has been before.”
+
+Monitoring bias
+Campaigners warn, however, that data can be taken out of context — there are often
+good reasons to brake heavily. And some fear longer-term consequences from
+collecting so much data.
+“Will your insurer use that Instagram picture of a powerful car you’re about to post as
+a sign that you’re a risky driver? They might,” said Nicolas Kayser-Bril, a reporter at
+AlgorithmWatch, a non-profit group that researches “automated decision-making”.
+
+22.08.21, 17:16
+
+Data machine: the insurers using AI to reshape the industry | Financial Times
+
+5 of 6
+
+https://www.ft.com/content/d3bd46cb-75d4-40ff-a0cd-6d7f33d58d7f
+
+Regulators are clearly worried about the potential for AI systems to embed
+discrimination. A working paper in May from Eiopa, the top EU insurance regulator,
+said companies should “make reasonable efforts to monitor and mitigate biases from
+data and AI systems”.
+Problems can creep in, experts say, when AI replicates a human decision-making
+process that is itself biased, or uses unrepresentative data.
+
+Shameek Kundu, head of financial services at TruEra, a firm that analyses AI models,
+proposes four checks for insurers: that data is being interpreted correctly and in
+context; that the model works well for different segments of the population; that
+permission is sought from a customer in transparent communication; and that
+customers have a recourse if they think they have been mistreated.
+
+Detecting fraud
+Insurers such as Root are also using AI to identify false claims, for example to try to
+spot discrepancies between when and where an accident took place, and information
+contained in the claim.
+
+22.08.21, 17:16
+
+Data machine: the insurers using AI to reshape the industry | Financial Times
+
+6 of 6
+
+https://www.ft.com/content/d3bd46cb-75d4-40ff-a0cd-6d7f33d58d7f
+
+Third-party providers such as France’s Shift Technology, meanwhile, offer insurers a
+service that can identify if the same photo, for example of a damaged car, has been
+used in multiple claims.
+US-listed Lemonade is also a big user of AI. Insurance is “a business of using past
+data to predict future events,” said the company’s co-founder, Daniel Schreiber. “The
+more predictive data an insurer has . . . the better.” It uses AI to speed up the process
+and cut the cost of claims processing.
+But it caused a social-media furore earlier this year when it tweeted about how its AI
+scours claims videos for indications of fraud, picking up on “non-verbal cues”.
+Lemonade later clarified that it used facial recognition software to try to spot if the
+same person made multiple claims under different identities. It added that it did not
+let AI automatically reject claims and that it had never used “phrenology” or
+“physiognomy” — assessing someone’s character based on their facial features or
+expression.
+But the episode encapsulated worries about the industry building up an ever more
+detailed picture of its customers.
+“People often ask how ethical a firm’s AI is,” Minty said. “What they should be asking
+about is how far ethics is taken into account by the people who design the AI, feed it
+data and put it to use making decisions.”
+
+Copyright The Financial Times Limited 2021. All rights reserved.
+
+22.08.21, 17:16
+
+

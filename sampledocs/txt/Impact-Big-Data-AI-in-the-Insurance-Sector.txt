@@ -1,0 +1,1488 @@
+The Impact of Big Data and
+Artificial Intelligence (AI)
+in the Insurance Sector
+
+1
+
+The Impact of Big Data and Artificial
+Intelligence (AI) in the Insurance Sector
+
+PUBE
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+Please cite this publication as:
+OECD (2020), The Impact of Big Data and Artificial Intelligence (AI) in the Insurance Sector,
+www.oecd.org/finance/Impact-Big-Data-AI-in-the-Insurance-Sector.htm.
+
+This work is published under the responsibility of the Secretary-General of the OECD. The opinions expressed and
+arguments employed herein do not necessarily reflect the official views of OECD member countries.
+This document, as well as any data and map included herein, are without prejudice to the status of or sovereignty over
+any territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or area.
+
+© OECD 2020
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+3
+
+Foreword
+
+The importance of insurance as a foundation for economic activity was acknowledged at the inception of
+the OECD with the creation of the Insurance Committee in 1961. The scope of activities of the Insurance
+Committee has gradually widened, and now covers the topic of private pensions, reflecting the importance
+of private pension systems in OECD countries (the Committee was accordingly renamed the Insurance
+and Private Pensions Committee in 2005).
+The OECD has been actively working on developing policy recommendations in areas related to the
+digitalisation of the economy, and as a result how technology and innovation are being addressed in the
+insurance sector has been an important part of the work that has been developed by the Committee. A
+report on the Technology and Innovation in the Insurance Sector (OECD, 2017) provides a comprehensive
+overview of developments and trends in the insurance market, and this report brings together two of the
+most important developments in terms of innovation that is likely to impact the insurance sector in a wide
+ranging manner.
+This report benefited from the input of OECD member contributions, which includes ministries of finance,
+insurance supervisors, and private sector associations, and is a result of discussions in the Committee
+over a period of one year.
+This report was prepared by the OECD Secretariat, Mamiko Yokoi-Arai.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+5
+
+Table of contents
+
+Foreword
+
+3
+
+Executive Summary
+
+6
+
+1. Introduction
+
+8
+
+2. Big data
+2.1. What constitutes big data
+2.2. How and where insurance may be affected by big data
+2.3. Pricing and risk classification
+2.4. Regulatory considerations of the use of big data in insurance
+
+3. Artificial intelligence (AI)
+3.1. What is AI and how is it being applied
+3.2. International guidelines on AI and ethical considerations
+3.3. Ways in which AI can/is being applied in the insurance sector
+3.4. Considerations for policy and regulation in AI
+
+10
+10
+11
+13
+14
+
+18
+18
+20
+24
+25
+
+4. Concluding policy and regulatory considerations
+
+27
+
+References
+
+29
+
+Boxes
+Box 1. Telematics insurance
+Box 2. Risk-based pricing in the New Zealand property insurance
+Box 3. EU General Data Protection Regulation (GDPR)
+Box 4. Work on AI in the OECD
+Box 5. OECD Recommendation on AI
+Box 6. Ethics Guidelines for Trustworthy AI: High-Level Expert Group on Artificial Intelligence (AI HLEG)
+Box 7. Impact of AI on insurance business models
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+12
+15
+16
+19
+20
+21
+25
+
+6
+
+Executive Summary
+
+Big data and artificial intelligence (AI) are two words that are widely used when discussing the future of
+business. The potential to applying them in diverse aspects of business has caught the imagination of
+many, in particular, how AI could replace humans in the workplace. Big data and AI could customise
+business processes and decisions better suited to individual needs and expectations, improving the
+efficiency of processes and decisions.
+While much benefits can be expected from big data and AI, there are also a number of risks that require
+some policy considerations. General guidance or regulation related to the use of big data and application
+of AI could eventually be developed by governments, and the insurance sector should be prepared to
+incorporate them in their specific context.
+Big data constitutes diverse datasets, which can be anything from expanded datasets to social media data.
+The granularity of data has the potential to give insights into a variety of predicted behaviours and incidents.
+Given that insurance is based on predicting how risk is realised, having access to big data has the potential
+to transform the entire insurance production process.
+However, the granularity of data can also lead to the furthering of risk classification, where insurance
+premium is set based on a group of people who have similar risk profiles. The more detailed sets of data
+permits the fine-tuning of risk classification, which could lead to decrease of premiums for some consumers
+on the one hand and exclusion from insurance offerings for other consumers on the other.
+Due to machine learning, AI has the potential to learn and adapt in a way that conventional machines were
+not able to, and are able to enhance their performance with more data. It could be adopted for a wide
+range of processes and decision making in insurance production.
+The OECD adopted the Recommendation on Artificial Intelligence in May 2019, and the European
+Commission’s Independent High-Level Expert Group on Artificial Intelligence (HLAG AI) published the
+Ethics Guidelines for Trustworthy AI in April 2019. Both international guidance provide valuable
+recommendations in terms of what areas of AI should be monitored and regulated, and provide some
+practical insights into what areas regulators and supervisors should be discussing on.
+There are number of policy areas in which policymakers may consider action in the insurance sector in
+relation to big data and AI:
+
+
+The insurance sector should be encouraged to engage actively with big data and AI, and regulatory
+sandboxes or innovation hubs could be one way to support this. In addition, addressing the skill
+shortage will be important for both the regulator and the insurance industry as it becomes an
+increasingly mainstream process.
+
+
+
+Insurance regulators and supervisors should strive to keep abreast of developments in big data
+and AI--including general regulation in these areas as well as cooperate with the relevant
+competent authorities for privacy and data protection, where needed, and explainable AI-- to
+ensure that the appropriate action can be taken when necessary, in a timely manner.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+7
+
+
+Technology can accelerate externalities and lead to oligopolistic market structures. Competition in
+the market should be monitored closely, depending on the authorities’ mandates and in cooperation
+with the respective relevant competent authorities, so that big data and AI do not only benefit
+certain market segments.
+
+
+
+Big data could theoretically lead to risk classification that excludes certain groups. While such a
+risk-adequate calculation is beneficial from an insurer’s risk management perspective, insurance
+regulators could decide, based on societal/political considerations, to monitor policy offering to
+ensure that the vulnerable population is not excluded from affordable insurance.
+
+
+
+The insurance sector could learn from the international guidelines on AI, and regulators and
+supervisory may wish to consider the benefits of having a governance requirement related to AI.
+
+
+
+International cooperation among insurance supervisors and regulators in the area of big data and
+AI would support the sharing of experiences, as well as lead to the facilitation of their cross-border
+activities.
+
+The OECD’s Insurance and Private Pensions Committee (IPPC) undertakes surveillance of market
+developments, including on technological developments, and will continue to monitor related developments
+so timely policy recommendations can be made for policymakers.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+8
+
+1. Introduction
+The advance of technology and innovation in processes has enabled the global economy to benefit in
+terms of improved productivity and other economic benefits. In 2016, the information industries contributed
+to around 6% of total value added and 3.7% of employment across OECD countries (OECD, 2019[1]). In
+addition, the level of labour productivity in information industries of OECD countries is about 65% higher
+than that of other industries in the business sector (OECD, 2019[1]).
+In addition, digitalisation has the potential to transform the way we work, enabling more diverse groups of
+people to gain employment, as well as engaging technology where automation can be introduced in
+processes (Manyika, 2017[2]). It is estimated that 60% of all occupations have at least 30% of activities that
+are technically automatable (Manyika, 2017[2]).
+These predictions are in line with developments in the insurance sector, although funding deals in
+insurance start ups (venture capital funding, VCs) (8% of all fintech funding) is far surpassed by investment
+in lending (19%), wealth and asset management (30%) and payment (23%) VCs (Accenture, 2019[3]).
+Nevertheless, the number of activities related to InsurTech is high and has the potential of improving
+insurance business processes and business models (OECD, 2017[4]).
+The OECD’s Insurance and Private Pensions Committee has been actively engaged in discussing the
+impact of technological development and innovation in the insurance sector. The OECD has also been a
+leader in policy discussions related to cyber risk insurance (OECD, 2017[5]), and a report on InsurTech was
+published in 2017 (OECD, 2017[4]).
+While there are a number of technologies that are being developed and employed to improve the
+experience and business of insurance in general, the potential that artificial intelligence (AI) and big data
+may play in insurance production is strong. There is much interest expressed from both the industry and
+regulators in how technology can benefit the insurance sector, especially given the potential of improving
+the customer experience.
+Insurance is based on the idea of pooling risks, and underwriting is most often based on past loss
+experiences and/or risk modelling. The prospect of having more data leads to the possibility of greater data
+analytics and in particular improving predictive analytics, enabling pricing that is better suited to expected
+risk, and is more granular or adjusted to policyholder behaviour.
+However, this is too simplistic a way of understanding how data contributes to insurance, as there are a
+variety of questions and implications that arise when considering potential scenarios that could occur with
+the arrival of big data. One of the first and principal questions is what big data means in the insurance
+context. There is also the question of whether pricing would, in fact, be more accurate in terms of risk and
+whether this would lead to an overall better production of insurance products.
+Further, big data has implications for AI. AI is developed by using machine learning which inputs data for
+the algorithm to learn responses. Big data is a valuable source of data for machine learning, but the extent
+of their potential contribution is uncertain, given that big data often involves unstructured free text.
+The benefit of AI has been demonstrated in its application of many business processes, in particular in
+forms such as chatbots, optical character recognition, sentiment analysis (Eiopa, 2019[6]) and social media
+algorithms, and these could easily be applied for insurance purposes.
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+9
+The potential for greater AI application in the insurance sector is high; however, while this could have a
+positive impact in terms of profitability and hence solvency, there remain aspects of AI that raise questions
+in areas such as data collection and pre-processing, privacy and ethical issues, and how insurance
+regulators should approach this.
+There are also regulatory issues as well as wider considerations such as data protection and privacy. In
+this context, UK’s Financial Conduct Authority (FCA) published a Feedback Statement in 2016, which lists
+many of the issues involved in big data for general insurance. The US’s NAIC has established a working
+group on big data, and NAIC and EIOPA have jointly been discussing issues of big data (EIOPA and NAIC,
+2018[7]) and published a paper on the European insurance market. It is also important to recognise the
+potential social and ethical questions on using big data, and to that extent EIOPA established a
+Consultative Expert Group on Digital Ethics in Insurance in late 2019. 1.
+This reports has been developed to bring better understanding to what big data and AI are, as well as what
+impacts it might have on the insurance sector. It will conclude with potential policy actions countries may
+consider to ensure that are prepared and proactive in light of these developments. As the OECD’s
+Insurance and Private Pensions Committee (IPPC) undertakes surveillance of market developments,
+including on technological developments, IPPC will continue to monitor related developments so timely
+policy recommendations can be made for policymakers
+
+1
+
+EIOPA Consultative Expert Group on Digital Ethics in Insurance <https://eiopa.europa.eu/Pages/News/EIOPAestablishes-Consultative-Expert-Group-on-Digital-Ethics-in-Insurance.aspx>.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+10 
+
+2. Big data
+2.1. What constitutes big data
+Big data is increasingly ubiquitous, with big data often being cited as a source for better understanding
+politics, economy, society etc. However, it is not always clear what is meant by big data, so understanding
+what big data is, especially given that insurance could potentially use big data as a source of its data
+analytics, is important.
+One of the common definitions of big data is to view it in the 3Vs (Laney, 2001[8]) or the three challenges
+in data management: volume, variety and velocity (Chen, Chiang and Storey, 2012[9]), which are all “high”
+in the case of big data.
+High volume is the size of the data, which for big data could be reported in multiple terabytes (which is
+1,000 gigabytes and would fit as much as 1,500 CDs or 220 DVDs) or petabytes (1 million gigabytes).
+High variety is when there is structural heterogeneity in the dataset. Structured data, which constitutes only
+10-15% of all existing data, refers to the tabular data found in spreadsheets or relational databases. Text,
+images, audio, and video are examples of unstructured data, which sometimes lack the structural
+organisation required by machines to be used for analysis and makes up about 80% or more of all
+enterprise data. Spanning a continuum between fully structured and unstructured data, the format of semistructured data does not conform to strict standards. Extensible Markup Language (XML), a textual
+language for exchanging data on the Web, is a typical example of semi-structured data. XML documents
+contain user-defined data tags which make them machine-readable. Semi-structured data constitutes
+around 5-10% of data (Gandomi and Haider, 2015[10]) and (Taylor, 2018[11]).
+Velocity refers to the rate at which data is generated and the speed at which it should be analysed and
+acted upon. The proliferation of digital devices such as smartphones and sensors has led to an
+unprecedented rate of data being produced (Gandomi and Haider, 2015[10]). This in turns requires greater
+speed at which data needs to be filtered.
+FCA carried out a feedback statement in 2016 outlining what big data means. Big data is referred as being
+(FCA, 2016[12]):
+
+
+using new or expanded datasets and data, including from unconventional sources such as social
+media;
+
+
+
+adopting the technologies required to generate, collect and store these new forms of data;
+
+
+
+using advanced data processing techniques;
+
+
+
+sophisticated analytical techniques such as predictive analytics; and
+
+
+
+applying this data knowledge in business decisions and activities.
+
+Thus, it is not limited to the type of data, but also includes the data processing and analytic aspect of big
+data. On the other hand, the FCA report identifies the main sources of big data that insurers may be using
+as (FCA, 2016[12]):
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 11
+
+
+Proprietary data (e.g., data from connected companies such as personal data of products
+purchased or loyalty cards)
+
+
+
+Data acquired from third parties (e.g., aggregated search engine data such as credit checks,
+license details, claims discount databases, price comparison website quote)
+
+
+
+Social media data (e.g., consumer-specific data taken from Facebook or Twitter) and
+
+
+
+Connected devices data (e.g., telematics devices such as could be used in motor, home or health
+telematics).
+
+Proprietary data and data acquired, as well as connected device data, would likely be structured data,
+including data from Internet of Things (IoT). Social media data would likely be unstructured, which could
+make it costly to make it useable for big data analytics purposes. Both structured data could include audio
+and visual data, which could assist in instances of disasters.
+AI is closely related to big data, but distinct. Big data refers primarily to the information data that is collected,
+while AI is the process of machine learning that uses data or big data to achieve the learning process of
+the algorithms. AI is a specific process which may or may not use big data, while big data is the data that
+could be inputted for a variety of processes in the insurance value chain.
+
+2.2. How and where insurance may be affected by big data
+Big data is anticipated to affect insurance in a number of ways. The most widely anticipated is data
+analytics, although what this specifically means is not always clear from the coverage of this topic. The
+second is underwriting and pricing, with different views on how big data could affect them. Distributions
+and sales are more obvious avenues given the way big data might enable better targeting and
+understanding of consumer behaviour. Claims handling and complaints could be streamlined using big
+data, and marketing could be more targeted with big data.
+Data analytics is the science of drawing insights from raw information sources. Data analytics is a broad
+term that encompasses many diverse types of data analysis. Essentially any type of information can be
+subjected to data analytic techniques to get insight that can be used to improve understanding and
+processes. Many of the techniques and processes of data analytics have been automated into mechanical
+processes and algorithms.
+There are four types of data analytics (Investopia, 2018[13]):
+
+
+Descriptive analytics: what happened over a given period of time (analysis of past data).
+
+
+
+Diagnostic analytics: why something happened, which involves more diverse data inputs and some
+hypothesising.
+
+
+
+Predictive analytics: what is likely going to happen in the near future.
+
+
+
+Prescriptive analytics: suggesting a course of action going forward.
+
+Based on data analytic tools, insurers can take advantage of big data to apply diagnostic and predictive
+analytics to predict the behaviour of potential policyholders and take action based on the outcomes.
+It should be mentioned that without expert input, big data analytics could be subject to spurious correlation
+and caution needs to be taken in interpreting data. Spurious correlations occur when two random variables
+track each other closely on a graph, leading one to suspect correlations. This may lead to assumptions
+that one of the variables is linked to the movement of the other variable. 2 However, this does not always
+
+2
+
+You can see a number of clearly spurious correlations at http://www.tylervigen.com/spurious-correlations for
+example.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+12 
+confirm causation between the variables, and only through expert analysis can causation be well
+established.
+In the insurance industry, firms have primarily relied on traditional generalised linear models (GLMs) to
+asses and price risks.3 This is a statistical technique used to estimate the relationships between the
+probability of making a claim and different risk factors.
+However, some firms have started to use other analytical techniques as well to create inputs to GLM. For
+example, decision tree analytics or non-linear techniques, such as machine learning techniques, are being
+used (FCA, 2016[12]).
+The IAIS is looking across the produce lifecycle of insurance, and thinking on a number of cases when big
+data is being deployed4.
+Big data is being employed in product development, for example, through the use of telematics (see
+Box 1). While the most widely known and actually applied use case is auto telematics, there are a number
+of potential ways in which telematics may become more integrated into insurance products going forward.
+
+Box 1. Telematics insurance
+While the most widely known form of telematics insurance is for automobile insurance, there
+are a variety of telematics insurance which are being deployed or have a strong potential of
+being applied.
+Motor insurance related data has been abundantly accumulated in insurance companies as it
+is one of the largest lines in most countries. Telematics motor insurance is when a device
+(blackbox) is fitted into motor vehicles or by using an app on a smartphone, and used to track
+driving. For example, the Italian Insurance Association estimates that blackboxes have been
+installed in over 2 million cars in Italy to support the provision of blackbox insurance,
+“telematics car insurance” or Usage Based Insurance (UBI), and is one of the large markets
+for telematics car insurance. Blackbox devices track speed, braking, acceleration, cornering
+and the time of the day a journey is made via satellite technology. The data is transmitted to
+the insurer by GPS which enables the insurer to estimate the likelihood of a claim being made.
+Such programmes benefit young drivers that do not have a track record to influence their
+premiums, for example.
+There are a number of home devices, such as Hive which is a home security product, Nest
+which is a thermostat, which have the potential to link to insurance. These products are
+controlled through an application on your smartphone to manage how your security or energy
+use is regulated in your home. While premium discounts are offered to more traditional security
+measures for property insurance, such as deadbolts, burglar alarm, fire alarm, there are few
+examples of home telematics being applied for insurance. Allianz and Deutsche Telekom have
+formed a partnership in which digitally connected homes automatically alert Allianz’s
+
+3
+
+The Generalised Linear Model (GLM) is a generalisation of the general linear model. In its simplest form, a linear
+model specifies the (linear) relationship between a dependent (or response) variable Y, and a set of predictor variables,
+the X's, so that Y = b0 + b1X1 + b2X2 + ... + bkXk.. In this equation b0 is the regression coefficient for the intercept and
+the bi values are the regression coefficients (for variables 1 through k) computed from the data.
+4
+
+From a confidential draft of July 2019, IAIS is developing an Issues Paper on the Use of BDA in Insurance which has
+been subject to public consultation in late 2019.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 13
+emergency hotline if there is a problem, such as a burst pipe (Allianz SE, 2014[14]). However,
+the objective does not appear to automatically lead to premium discounts, for example.
+Personal devices such as Fitbit and Apple watch permit device operators to collect individual
+activity data as well as health related data. These devices collect a wide range of lifestyle data,
+such as heart rates, exercise information, and GPS, which are data that could lead to better
+predictive and diagnostic analytics. Fitbit recently released a new tracker, Inspire, which is
+available only to corporate employees and health insurance members. In addition, Fitbit is a
+named covered fitness benefit in 42 Medicare Advantage plans across 27 US states, while it
+is working with insurance firms like United Health (Russell, 2019[15]) and the logical step for
+those affiliated insurers would be to better link the data with insurance.
+Vitality offers life and health insurance in the UK, and offers premium discounts based on the
+activity points that can be earned via use of Apple watches and demonstrated activity levels.
+Vitality activity points can also contribute to ISAs (individual savings accounts, which allows
+individuals to hold cash, shares, and unit trusts free of tax on dividends) (Vitality, 2019[16]).
+In addition, some companies are starting to offer premium discounts on pet insurance for pets
+that use a Fitbit like device, PitPat. Regularly exercising dogs can receive a cash reward of up
+to GBP100 a year (Howlett, 2019[17]).
+Marketing, both direct and indirect, is the other area in which big data could be effectively used to target
+consumers. Search engine optimisation is increasingly being employed, by improving the visibility of a
+website or a webpage in a search result, and which itself is a result of processing and analysing large
+datasets.
+Aggregated search engine data is being used to analyse potential groups of consumers who may have a
+specific insurance need. By understanding what a consumer is searching for, more tailored marketing can
+be carried out. For marketing in particular, access to social media data is a potential source of data.
+In terms of distribution and sales, the increasing popularity of price comparison sites have changed how
+consumers search for insurance products. Firms can use a variety of data sources to verify consumer
+information during the sales process. Most insurers predict that big data should make it easier for
+consumers to obtain quotes.
+Connected devices and social media are likely to assist with claims verification process, which is being
+improved through digitalisation. Social media can also be used to detect fraudulent claimants. For
+example, social connections can be analysed to identify suspected fraud rings.
+
+2.3. Pricing and risk classification
+In insurance, it is sometimes useful to distinguish between "costing" (the calculation of the technical
+premium) and "pricing" (the actual commercial decision to offer a policy at a certain premium level).
+Insurance rates must be based on predictions rather than actual costs. Most rates (costs) are determined
+by statistical analysis of past losses based on specific variables of the insured. Variables that yield the best
+forecasts are the criteria by which premiums are set. However, in some cases, historical analysis does not
+provide sufficient statistical justification for selling a rate, such as for earthquake insurance. In these cases,
+catastrophe modelling is sometimes used (thisMatter, n.d.[18]) .
+The advent of big data has given rise to the possibility that risk-based pricing is increasingly applied given
+that more data could improve the predictability of policyholder behaviour or incidents. However, given the
+competitive landscape of insurance, insurers may not wish to distinguish between similar risk level
+policyholders but based on risk sensitivity or propensity to switch (FCA, 2016[12]).
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+14 
+Insurance sets prices by groups of people who have similar risk profiles, whether, for example, by gender5
+or age for auto insurance, which is call risk classification. Big data provides new sources of information for
+understanding policyholders, fine-tuning the risk classification.
+There are benefits and draw backs that may arise from risk classification being further broken down. The
+benefits to greater risk classification is pricing based on risk, allowing insurers to combat adverse selection
+by marketing to low risks. Potential policyholders that are low risk may not want to pay for a price that
+reflects the wider population of the risk pool. Pricing based on risk may be far more fair to low risk
+policyholders as low risk policyholders would usually subsidise a high risk policyholder in a risk pool. Pricing
+based on risk provides a signal to the policyholder about their riskiness. On the other hand, a signal of a
+higher price may encourage a change of behaviour (Swedloff, 2014[19]).
+Nevertheless, there are risks to greater risk classification. It may be socially beneficial to the extent that
+insurers succeed in bringing new, low risk entities or individuals into the overall risk pool. If it results in
+exclusion or difficulty of obtaining a quote for a high risk policyholder, this could result in sub-optimal market
+outcomess.
+While insurance can be viewed as spreading risks through a population, risk classification could undermine
+these risk spreading, since some policyholders may be burdened or locked out of insurance as a result. It
+is particularly troubling when a risk classification is based on a suspect category. There may be
+constitutional, legal or regulatory concerns of discriminating groups based on ethnicity, race, gender, etc.
+too6 (Swedloff, 2014[19]).
+If the policyholder has no control over the characteristic which risk classification is based on, such as
+genetics, it could be viewed as unfair. Even if the characteristic does accurately reflect a risk, it may not
+be socially acceptable for this classification to take place (Swedloff, 2014[19]), although it could become a
+relevant consideration for policyholders in taking preventative care, for example.
+Returning to the spurious correlation mentioned above, while risk classification is based on correlation and
+not causation, there must be a strong causal backbone for the correlation to be considered. This does not
+include the fact that risk classification is imperfect and expensive, creating incentives to take advantage of
+correlations found as much as possible.
+Finally, risk classification may require insurers inquiring about otherwise irrelevant information, such as
+credit score, genetic information and sexual orientation raising privacy concerns. If policyholders refusal to
+respond to such queries were to affect pricing or offering of a policy, or even higher premiums, this could
+raise concerns over the merit of risk classification (Swedloff, 2014[19]).
+
+2.4. Regulatory considerations of the use of big data in insurance
+While there are significant benefits from using big data in the production and business of insurance, there
+may be certain social costs in doing so. While not directly from big data, the example of New Zealand’s
+earthquake insurance is a case in which more granular data has led to the exclusion of some from being
+insured as discussed below (see Box 2).
+
+5
+
+Discrimination by gender is forbidden in the EU since December 2012 (According to the European Court of Justice’s
+ruling on the Test-Achat case (Case C-236/09) of 1 March 2011).
+6
+
+For example, in the U.S., all states have unfair trade practices laws/regulations, modeled after the NAIC Unfair Trade
+Practices Act (#880). These laws prohibit unfair discrimination, which, among other things, includes refusing to insure
+or limiting coverage to an individual due to ethnicity, race, gender, religion, national origin, and other protected classes.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 15
+
+Box 2. Risk-based pricing in the New Zealand property insurance
+New Zealand experienced a magnitude 7.1 earthquake (EQ) in Canterbury in September
+2010, and then the Christchurch earthquake in February 2011 which had a magnitude of 6.2.
+Christchurch’s central city and infrastructure was badly affected with liquefaction affecting
+some areas as a result of the 2010 EQ, making the damage wide spread and deadly.
+New Zealand’s Earthquake Commission (EQC) provides government-backed natural disaster
+insurance for residential properties, covering perils that are a result of EQs. It is an automatic
+extension to property insurance, and cover building, content and land. It is estimated to have
+paid around NZ$11 billion (USD7.3 billion) by the time it settles its claims (RMS, 2018[20]).
+The losses have exposed significant shortfalls in the country’s insurance market, in terms of
+deficiencies in data and gaps in portfolio management. Since then, policy terms have been
+tightened, and restrictions introduced on coverage and efforts made to improve databases. A
+cap will be introduced on government-backed residential cover from NZ$100,000 to
+NZ$150,000. While an increase, it is well below the average house price in New Zealand,
+which was NZ$669,565 with a rebuild cost of NZ$350,000 in December 2017 (RMS, 2018[20]).
+However, in March 2018, Tower Insurance announced a move to risk-based pricing for home
+insurance, which has resulted in 300% price hikes for some Wellington properties.
+(Stepanova, 2018[21]) This was possible as a result of the increasing quality and granularity of
+underwriting and claims data, and in particular the advance in liquefaction module, leading to
+the development of a high-definition EQ model. The model is built upon a variable resolution
+grid which is set at a far more localised level (RMS, 2018[20]).
+Following this, a number of other insurers, including IAG, the largest property insurer, followed
+on with their transition to risk-based pricing, with IAG’s chief risk officer predicting that there
+will soon be an end to low risk parts of the country subsidising the higher risk places.
+(Tibshraeny, 2018[22])
+This has resulted in IAG refusing to take on any new property contents business in the
+Wellington area although IAG did not to take on risk-based pricing in the end. ((n.a.), 2019[23])
+The EQC removed contents coverage at the end of 2018, given submissions from the private
+insurance market that this could be privately provided.
+
+Besides FCA’s work on big data, the NAIC has established a Big Data (EX) Working Group which
+discusses how to improve the understanding of predictive models (NAIC, Big Data Working Group,
+2018[24]).
+In addition, the EU-U.S. Insurance Project hosted a dialogue on big data in October 2018 (EIOPA and
+NAIC, 2018[7]). The working group on big data is currently focussed on better understanding the types of
+big data, and how this is being used for underwriting, and how supervisors are addressing their data needs
+to appropriately monitor insurance markets.
+Even within these groups, one of the main concerns that have been raised appears to be privacy and
+data protection concerns. This stems primarily from the fact that much of big data is often linked with
+personal information. The NAIC model law of 2000, the Privacy of Consumer Financial and Health
+Information Model Regulation, requires insurers to (1) notify consumers about their privacy policies; (2)
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+16 
+give consumers the opportunity to prohibit the sharing of their protected financial information with nonaffiliated third parties; and (3) obtain affirmative consent from consumers before sharing the protected
+health information with any other parties, affiliates and non-affiliates.
+In the EU context, the European Supervisory Authorities (EIOPA, EBA and ESMA) conducted a joint crosssectoral review on the use of big data and published a report with key findings in February 2018 (European
+Supervisory Authorities, 2018[25]). EIOPA also set up a multi-disciplinary InsurTech Task Force and a
+thematic review was published in April 2019 (Eiopa, 2019[6]) on the use of big data specifically by insurance
+undertakings and intermediaries. One of the objectives of the thematic review was to gather empirical
+evidence on the impact of big data across the insurance value chain. (EIOPA, 2018[26]) As a follow up of
+the thematic review, the InsurTech Task Force is currently developing a common understanding on
+machine learning algorithms and their implications from a supervisory standpoint to promote supervisory
+convergence in this area. Furthermore, through the Consultative Expert Group on Digital Ethics in
+Insurance, EIOPA is developing a set of principles on digital responsibilities. The principles will address
+the use of new business models, technologies and data sources in insurance from the perspective of
+fairness and considering ethical considerations.
+In the EU, the General Data Protection Regulation (GDPR) requires EU firms (i.e. not only insurance
+undertakings) increased transparency and creates new rights for consumers, additional records,
+application of enhanced security measures, compliance checks and impact assessments. The GDPR
+recognises the overarching principle of fair treatment of consumers when it comes to processing personal
+data, and enables consumers to demand the removal of their data from insurers’ databases (commonly
+known as “right to be forgotten”).
+
+Box 3. EU General Data Protection Regulation (GDPR)
+The EU Parliament and the European Council agreed on the General Data Protection
+Regulation (GDPR) in December 2015. It is applicable to firms that process personal data
+from those residing in the EU, irrespective of whether their services are free or fee-based,
+whether the firm is based in the EU or not. It is an update to the Data Protection Directive
+which came into force in 1995.
+Under the GDPR, fines can be up to €20 million or 4% of global annual turnover, whichever is
+the higher, if the action of the firm leads to a loss of information or a data breach. It took effect
+in member states from May 2018.
+GDPR requires private information to be erased without undue delay when the data is no
+longer required in relation to the purpose for which it was collected. The data used must also
+restrict use of data when the data quality has been contested by the data subject. The firm
+must maintain an accurate record of the data subject’s agreement for their data to be used for
+primary and any secondary purposes, without which the firm may not have the right or ability
+to use the data.
+Depending on how and where insurers process their data, this could have implications on how
+new technologies could be introduced.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 17
+In Germany, the supervisor published its circular concerning supervisory requirements for IT in the
+insurance sector (Versicherungaufsichtliche Anforderungen an die IT – VAIT). VAIT primarily targets senior
+management, and clarifies what BaFin expects from insurance undertakings with regard to the
+management and control of IT operations, including the required access rights management. In addition,
+VAIT lays down requirements for IT project management and application development, which also
+encompasses end-user computing in business units.
+The other main concern is with regards to the competition. On the consumer-side, while big data creates
+the potential for greater information being available and more customised insurance products, a source of
+big data could unfairly advantage any one insurer that has been able to take advantage of big data (FCA,
+2016[12]). Given that some of the biggest firms are technology firms like GAFA (Google, Amazon, Facebook
+and Apple), there is a tendency for digital technology to result in oligopolistic outcomes due to the network
+externalities. (Keller et al., 2018[27]) (European Union et al., 2019[28]), and the insurance entity with the best
+access to the appropriate data could benefit mostly.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+18 
+
+3. Artificial intelligence (AI)
+Improvement in artificial intelligence (AI) is impacting many facets of life, even if the way in which AI is
+applied often times is not obvious. While the advent of AI has many positive aspects, media coverage of
+incidents like Facebook data harvesting and questions on the extent to which robots may take over jobs
+have led to some scaremongering of AI. In this context, it is important to contemplate and understand how
+AI is changing business operations, and what regulatory and ethical questions need to be discussed given
+the developments in AI technology.
+
+3.1. What is AI and how is it being applied
+The field of AI research was developed in the 1950s (Anyoha, 2017[29]), although there have been a number
+of cycles and it has experienced what is generally called “AI winter” with disappointments in the technology
+to deliver on its promise and funding cuts to its research after this period. The technology has been
+experiencing a renaissance in the last 20 years, as a result of growth in computing power and memory
+capacity, developments in cloud computing and distributed and parallel processing, availability of large
+databases, and improvements in theoretical understanding (Kessler, 2018[30]). The potential impact of AI
+is estimated to drive global GDP up to USD15.7 trillion by 2030 (PwC, 2018[31]), and 85% of customer
+interactions could be managed without a human by 2020 (Deloitte Digital, 2017[32]).
+AI encompasses all intelligent agents (computer systems) that have the capacity to learn, adapt and
+operate in dynamic and uncertain environments (Miailhe, 2018[33]). To achieve this, smart systems use
+advanced algorithms that learn with every additional data record and continually adjust and enhance their
+predictions (Hehner et al., 2017[34]). Machines mimic cognitive functions associated with human minds,
+such as learning, perceiving, problem solving and reasoning to achieve this (Balasubramanian, Libarikian
+and Mcelhaney, 2018[35]).
+Machine learning is one of the main ways in which AI is being applied, with algorithms that can learn from
+examples and can improve their performance with more data over time (PwC, 2018[31]). Deep machine
+learning is a branch of machine learning which relies on complex statistical models and algorithms with
+multiple layers of parallel processing that loosely model the way the biological brain works. Neural networks
+“learn” to perform tasks by considering examples, generally without being programmed with any taskspecific rules. Deep machine learning requires powerful computers and huge amounts of data to enable
+the self-learning to take place and hence why it has been able to develop more in the last 20 years. Defence
+and security have been an important part of these developments, which has accelerated with the need for
+general cyber and terrorism defences needing to be deployed (Miailhe, 2018[33]).
+The difference between machine learning and deep machine learning can become significant when
+considering what goes into AI for any given output. Machine learning involves decision trees and Bayesian
+networks (a type of probabilistic graphical models) thus making the process of decision making more
+transparent and any biases easier to detect. On the other hand, deep machine learning is based on neural
+networks or genetic algorithms (a search heuristic inspired by the theory of natural evolution reflecting the
+process of natural selection) produced by directed evolution (a method used in protein engineering that
+mimics the process of natural selection to evolve proteins or nucleic acids towards a user-defined goal).
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 19
+This makes it nearly impossible to understand why or how the algorithm is reaching certain decisions
+(Bostrom and Yudkowsky, 2018[36]).
+When AI or machine learning is being applied for business purposes, such as online retail and
+recommender systems, the outcome would be to show products, social media posts and search results,
+which would require accuracy of data, but may not necessarily lead to considerations of an ethical nature
+or on its criticality. When an AI decision has a large stake, such as a financial decision, a diagnostic medical
+decision, or a critical safety decision of an autonomous vehicle, the decision making process of the
+algorithm becomes important and the fact that it is a black box causes concerns on the potential
+assumptions that are made by the algorithm (PwC, 2018[31]). Even with recommender systems, there is
+potential for algorithms to push inappropriate images and products, and push dangerous social
+circumstances.7 (Fisher and Taub, 2019[37]). There is also the risk of so called “filter bubbles”, where
+previous search results will already filter the outcome of a search.
+The best known example of machine learning is google search, which can be posed questions instead of
+simple search terms, as well as Amazon and Facebook sites, which make recommendations and ads
+based on browsing history and past purchases in the case of Amazon. Siri and Window’s Cortana are
+examples of deep machine learning applications, which will learn to understand the nuances and
+semantics of language to closely resemble real-life conversations. Another example is AI being used to
+root out exam cheats and reduce costs by including plagiarism detectors, and randomly changing
+numerical variables for mathematic questions (Jack, 2018[38]).
+
+Box 4. Work on AI in the OECD
+The OECD has been developing three main avenues of work related to AI:
+1. Analytical work in a report called ‘AI in society’ (DSTI/CDEP(2018)9/REV1). The draft
+report describes economic and social applications and impacts of AI technologies and
+their policy implications with an overview of i) the technical landscape; ii) the economic
+landscape; iii) applications (including financial services); iii) public policy
+considerations; and; iv) the policy landscape.
+2. Scoping principles to foster trust in and adoption of AI with an AI Group of experts at
+the OECD (AIGO). AIGO brings together experts nominated by national delegations,
+by business, civil society, trade union and technical community advisory committees,
+and a experts invited by the Secretariat.
+3. An OECD AI policy observatory: an AI Policy Observatory launch is being planned for
+the 2019-20 period, working with committees across the OECD and a wide spectrum
+of external actors.
+Work by the OECD in relation to AI can be found here.
+
+7
+
+A recent New York Times article exposed how YouTube’s recommendation algorithm was exploited by paedophiles,
+by recommending videos with images of children in the background of home videos.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+20 
+
+3.2. International guidelines on AI and ethical considerations
+A number of international organisations and fora have been discussing and producing guidelines related
+to the ethical application of AI, and it is important to understand their framework to be able to consider how
+it could be approached in the context of insurance.
+The OECD Council adopted the Recommendation on Artificial Intelligence in May 2019. It was the first
+inter-governmental standard on AI, and will be followed up by the development of practical guidance for its
+implementation. The OECD Recommendation was also the basis for the G20 adopted human-centred AI
+Principles.8 The OECD AI Principles aims to promote AI that is innovative and trustworthy and that respects
+human rights and democratic values (see Box 4). The OECD Recommendation contextualises the world
+that surrounds AI, and tries to ensure that AI is developed in a conscious and inclusive manner.
+
+Box 5. OECD Recommendation on AI
+The OECD Recommendation identifies five complementary values-based principles for the
+responsible stewardship of trustworthy AI:
+
+
+
+
+
+
+
+AI should benefit people and the planet by driving inclusive growth, sustainable
+development and well-being.
+AI systems should be designed in a way that respects the rule of law, human rights,
+democratic values and diversity, and they should include appropriate safeguards – for
+example, enabling human intervention where necessary – to ensure a fair and just
+society.
+There should be transparency and responsible disclosure around AI systems to ensure
+that people understand AI-based outcomes and can challenge them.
+AI systems must function in a robust, secure and safe way throughout their life cycles
+and potential risks should be continually assessed and managed.
+Organisations and individuals developing, deploying or operating AI systems should be
+held accountable for their proper functioning in line with the above principles.
+
+Consistent with these value-based principles, the OECD provides five recommendations to
+governments:
+
+
+
+8
+
+Facilitate public and private investment in research & development to spur innovation
+in trustworthy AI.
+Foster accessible AI ecosystems with digital infrastructure and technologies and
+mechanisms to share data and knowledge.
+
+
+
+Ensure a policy environment that will open the way to deployment of trustworthy
+AI systems.
+
+
+
+
+Empower people with the skills for AI and support workers for a fair transition.
+Co-operate across borders and sectors to progress on responsible stewardship
+of trustworthy AI.
+
+From the G20 Ministerial Statement
+https://www.mofa.go.jp/files/000486596.pdf.
+
+on
+
+Trade
+
+and
+
+Digital
+
+Economy
+
+(8-9
+
+June
+
+2019),
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 21
+
+The other guideline comes from the European Commission’s Independent High-Level Expert Group on
+Artificial Intelligence (HLAG AI), Ethics Guidelines for Trustworthy AI (High-Level Expert Group on Artificial
+Intelligence, 2019[39]). The assessment list included in the Guidelines is undergoing a pilot phase. The
+HLEG AI’s Guidelines are more focussed on ethics related issues, and due to this is more specific on the
+nature of AI and how it should be developed. It is in fact derived from four ethical principles, which are
+rooted in fundamental rights: respect for human autonomy, prevention of harm, fairness and explicability
+(High-Level Expert Group on Artificial Intelligence, 2019[39]).
+
+Box 6. Ethics Guidelines for Trustworthy AI: High-Level Expert Group on Artificial Intelligence
+(AI HLEG)
+The Guidelines put forward a set of 7 key requirements that AI systems should meet in
+order to be deemed trustworthy:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Human agency and oversight: AI systems should empower human beings, allowing
+them to make informed decisions and fostering their fundamental rights. At the same
+time, proper oversight mechanisms need to be ensured, which can be achieved
+through human-in-the-loop, human-on-the-loop, and human-in-command approaches
+Technical Robustness and safety: AI systems need to be resilient and secure. They
+need to be safe, ensuring a fall back plan in case something goes wrong, as well as
+being accurate, reliable and reproducible. That is the only way to ensure that also
+unintentional harm can be minimized and prevented.
+Privacy and data governance: besides ensuring full respect for privacy and data
+protection, adequate data governance mechanisms must also be ensured, taking into
+account the quality and integrity of the data, and ensuring legitimised access to data.
+Transparency: the data, system and AI business models should be transparent.
+Traceability mechanisms can help achieving this. Moreover, AI systems and their
+decisions should be explained in a manner adapted to the stakeholder concerned.
+Humans need to be aware that they are interacting with an AI system, and must be
+informed of the system’s capabilities and limitations.
+Diversity, non-discrimination and fairness: Unfair bias must be avoided, as it could have
+multiple negative implications, from the marginalization of vulnerable groups, to the
+exacerbation of prejudice and discrimination. Fostering diversity, AI systems should be
+accessible to all, regardless of any disability, and involve relevant stakeholders
+throughout their entire life circle.
+Societal and environmental well-being: AI systems should benefit all human beings,
+including future generations. It must hence be ensured that they are sustainable and
+environmentally friendly. Moreover, they should take into account the environment,
+including other living beings, and their social and societal impact should be carefully
+considered.
+Accountability: Mechanisms should be put in place to ensure responsibility and
+accountability for AI systems and their outcomes. Auditability, which enables the
+assessment of algorithms, data and design processes plays a key role therein,
+especially in critical applications. Moreover, adequate an accessible redress should be
+ensured.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+22 
+There are some common themes between the guidelines, which is worth highlighting. Both guidelines are
+human-centric, emphasising the need that AI be beneficial to people. In addition, the need for security and
+transparency of AI are echoed in both guidelines.
+An important element that is included in both guidelines is that human intervention or agency and oversight
+should be made possible to ensure that AI contributes to a fair and just society (OECD) and empowers
+people (HLAG AI). This is a critical component of ensuring that AI is applied in a way that can remedy
+unfair bias or can be made accountable in certain circumstances.
+As the HLAG AI is a more comprehensive set of principles, there are additional elements which go beyond
+that of the OECD Recommendation. In particular, they raise the need for traceability, as well as to have
+adequate data governance which includes privacy and data protection. HLAG AI also raise the potential of
+marginalisation of vulnerable groups, with the need to foster diversity, so that AI is accessible to all.
+When considering these in the context of insurance, it is clear that all themes should be adapted in a
+manner that encourages inclusive growth, while maintaining safeguards that will ensure AI is operated for
+the benefit of people and any externalities are swiftly addressed. The OECD Recommendation is
+supported by recommendations towards governments, which would be an important factor for insurance
+regulators and supervisors to take into account (High-Level Expert Group on Artificial Intelligence, 2019[39])
+while being subjected to the wider policy framework that is developing related to AI.
+A number of supervisors have established regulatory sandboxes and innovation hubs to spur innovation
+in the financial sector by establishing platforms to enable experiments with their technology and relaxing
+some of the regulatory requirements within the platform.9 The UK Financial Conduct Authority (FCA)’s
+Innovation Hub is one of the first applying the “regulatory sandbox” approach. Singapore’s Monetary
+Authority of Singapore (MAS) has also adopted the regulatory sandbox approach. Australia’s Securities
+and Investment Commission (ASIC) has established an Innovation Hub to mitigate risks by engaging early
+with innovators and helping new entrants understand the regulatory requirements. The Hong Kong
+Monetary Authority and Canada’s Ontario Securities Commission have also launched similar platforms.
+These platforms are all designed to assist new market entries that would encourage greater competition
+and innovation in the market, ultimately benefiting consumers.
+The regulatory sandbox approach intentionally creates a space for insurance technology to be
+experimented in a different regulatory regime from the regular regulatory requirements. This supports
+better understanding of when technologies are deemed successful and scalable, and how they will be
+graduated into the regular regulatory framework if this is the case. Another possible approach in that regard
+are Innovation Hubs, which do not create different/parallel regulatory regimes. Going forward, this will be
+important in ensuring that a level playing field is applied at the appropriate stage.
+A relevant development that is taking place between MAS, FCA and the Australian Securities and
+Investment Commission are bilateral cooperation agreements between the authorities that allow them to
+make referrals on innovative businesses seeking to enter each other’s market. This would assist in
+enabling innovators transfer their business models on a cross-border basis, assisting with the businesses
+to scale when the opportunity arises. This responds to the OECD AI Recommendation in having better
+international cooperation to progress on responsible stewardship of trustworthy AI. This is also relevant
+with regards to data transfer, as data is a key component of the insurance sector and cross-border
+cooperation to enable this, where appropriate, should be discussed.
+The more important aspect is how could insurance regulators and supervisors appropriately monitor and take
+necessary action when inappropriate decision making by AI has been detected. This is in fact an economy
+wide issue which governments are struggling to respond to. There are principally two ways in which the two
+9
+
+Some OECD countries have expressed a preference to innovation hubs given the need to maintain equal treatment
+of market participants.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 23
+international guidelines foresee government intervention: explainability/traceability/auditability, and human
+intervention.
+As the OECD Recommendation is subject to development of implementation guidelines, the HLAG AI
+Guidelines provide some context on human intervention. Human oversight is intended to ensure that AI
+does not undermine human autonomy or causes other adverse effects. It refers to oversight in the form of
+governance mechanisms such human-in-the loop (HITL), human-on-the-loop (HOTL), or human-incommand (HIC) approach10 (High-Level Expert Group on Artificial Intelligence, 2019 [39]). Practically
+speaking and given the need for traceability, it seems that a combination of HOTL and HIC would be
+important in any circumstances in which AI is being developed.
+The need to have a HIC approach in particular is implied in the HLEG AI report, in terms of fallback plans
+and general safety, including AI systems switching from a statistical to rule-based procedure, or that they
+ask for a human operator before continuing their action in certain circumstances.
+Another relevant issue, however, as raised in the OECD Recommendation, is the need for policies that
+build human capacity in AI. The skill shortage related to AI development is a wide ranging problem, with
+some research suggesting that while 95% of US and UK organisations consider AI to be a business priority,
+51% acknowledge they do not have the right mix of skills within their organisation to execute this
+(snapLogic, 2019[40]). The French financials sector supervisor, Autorité de contrôle prudentiel et de
+résolution (ARPC), published a report in 2018 which includes a glossary of AI jobs 11 (Fliche and Yang,
+2018[41]). This list is long and presents the challenges of any supervisor, or company for that matter, trying
+to monitor their AI activities.
+It is imperative that at this stage of adoption of big data and AI in the insurance sector, which is still relatively
+early, a basic governance structure that can tract and manage AI does seem important and is suggested
+in the ARPC report too (Fliche and Yang, 2018[41]). This could ensure a level of responsibility within an
+insurance entity that is using the technology, as well as providing the supervisor with a way to address any
+supervisory concerns. It should be expected that as soon as any potential bias or unintended
+consequences from AI are detected, which could also be indirect and affecting individuals and groups, a
+human intervention be made to examine and rectify the situation to ensure fairness of the process.
+However, the way in which AI works could make it almost impossible to make this determination unless
+there is a consultation process with supervisors at the HOLT or design stage, or data analysis of AI
+outcomes is made. Article 22 of the European Union’s General Data Protection Regulation (GDPR)
+10
+
+11
+
+From the AI HLEG report:
+
+
+
+HITL refers to the capability for human intervention in every decision cycle of the system, which in
+many cases is neither possible nor desirable.
+
+
+
+HOTL refers to the capability for human intervention during the design cycle of the system and
+monitoring the system’s operation.
+
+
+
+HIC refers to the capability to oversee the overall activity of the AI system (including its broader
+economic, societal, legal and ethical impact) and the ability to decide when and how to use the
+system in any particular situation. This can include the decision not to use an AI system in a
+particular situation, to establish levels of human discretion during the use of the system, or to
+ensure the ability to override a decision made by a system.
+
+The ARPC’s list of AI job include:
+
+
+
+Data governance, chief data officer, data privacy officer, chief data quality officer
+
+
+
+AI jobs more generally: data scientist, data analyst, data engineer, ontologist, expert in automated
+processing of natural language, expert in computer vision, and expert in human-machine
+interaction.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+24 
+requires when automated decision-making for profiling an individual is involved, the data subject can object
+to an automated decision-making process being used (Proust, 2015[42]). The data controller must then
+implement “suitable measures” to safeguard the rights of individuals, and permit human intervention and
+importantly to obtain information on the basis by which the automated decision was made. This has been
+widely referred as the GDPR’s “right to explanation” and the European Commission has prioritised support
+in developing explainable AI (European Commission, 2018[43]).
+However, practically speaking, it is unclear what explainable AI would require and how regulators might be
+able to get the necessary expertise or information to make this requirement viable. Discussions with
+experts in the Committee did not provide any clarity on the issue, whether in a specific insurance context
+or a more general context, although this requires further consideration among regulators.
+Thus, insurance regulators and supervisors should keep abreast of developments related to AI in the
+insurance sector either in terms of planned or being undertaken, and learn from developments in other
+sectors. In addition, and depending on the level of market development and size of entities, insurance
+regulators and supervisors may wish to develop basic governance requirements as a first step to ensuring
+that a minimal level of understanding and responsibility of AI is in situ in the insurance entity, as well as
+providing supervisors a way to monitor developments.
+
+3.3. Ways in which AI can/is being applied in the insurance sector
+When there is an article on how AI can be taking over workforces, insurance, and in particular claims
+handling, is the prime example that is always provided. (Wright, 2019[44]). While there have been a number
+of insurance entities attempting to harness AI to their processes, the level of adoption has not been as
+straight forward as has been suggested.
+In the insurance sector, there are a number of ways in which AI could be adopted to improve the efficiency
+of transactions and business processes. Some examples that have been previously examined by the
+OECD, include robo-advice (OECD, 2017[4]). Robo-advice is being developed for investment management
+and in particular to provide quotes with automated advice and offerings calculated through algorithms.
+Automated advice could assist pockets of population that do not have access to financial advice to gain
+input in a more cost efficient way than a human advisor.
+While price comparison and distribution sites are becoming wide spread, much effort is being made to
+develop sites that provide financial guidance, which is tailored to the policyholder’s income and needs with
+greater automation through algorithms for products with investment and/or long-term saving components.
+This could assist in narrowing the protection gap of the lower income population as the cost of such
+services is lowered. For example, robo-advice has the ability of developing a financial plan addressing
+multiple goals, including retirement, protection needs, estate planning and health/long-term care coverage.
+Robo-advice has the privacy which some may feel more comfortable with given the sensitivity in discussing
+money matters.
+Insurance start ups such as Lemonade and PolicyGenius use AI to support their policy offerings. AI can
+simplify and tailor policy offerings to match the needs and financial situation of the policyholder. A number
+of start ups are integrating AI to their processes, and their success will affect how the wider insurance
+sector introduces AI into its businesses as well.
+An area that is considered to be well suited for AI adoption is claims management, as AI processes can
+speed up claims payment significantly (Hehner et al., 2017[34]). However, there are also concerns that the
+rapidity can compromise the optional payment, as well as potentially being open to fraudulent claims
+(Ralph, 2019[45]), although EIOPA’s thematic review, in fact, identified fraud detection to currently be the
+most common case use of big data analytics (Eiopa, 2019[6]). While companies like Claim Technology
+have been providing machine learning systems for claims handling, it appears that the experience has not
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 25
+been uniform. Zurich, for example, has benefited from machine learning automation for human resource
+management, it is not clear whether current machine learning would be able to handle complex analytical
+and sorting work, such as assessment of insurance claims for car crashes or burglaries (Wright, 2019[44]).
+Humans had to override the computer’s decision too often in the past.
+However, the scope in which AI can be deployed in insurance is significant, and how conventional insurers,
+as opposed to start ups, are applying AI in their processes will provide important input into this
+development.
+
+Box 7. Impact of AI on insurance business models
+AI application in the insurance sector has the potential to improve the efficiency of processing
+data and making decisions in terms of both contracting and claims processing, as the more
+obvious areas. Where there is interaction with consumers, and where transaction costs are
+particularly high, are particular areas in which efficiency gains could be had.
+However, AI could also be introduced into the internal systems of insurers to harness data that
+is being collected to support the data analytic process.
+Life insurance which includes an investment component could leverage AI to support the
+investment decision of policyholders.
+Non-life insurance, such as parametric insurance, takes advantage of pre-determined criteria
+to trigger claim payments, which AI could process in an automated fashion, and is particularly
+suitable to AI processing and could reduce premium level. This could benefit less developed
+insurance markets which parametric insurance is being widely deployed.
+
+3.4. Considerations for policy and regulation in AI
+The underlying algorithm of AI is not transparent in most cases, and especially in deep machine learning,
+and biases could be built in, both unintentionally and intentionally, potentially leading to inappropriate
+advice/output. The understanding of how this impacts policyholder behaviour but also insurers solvency
+and reputation and how regulation should address this is unclear, but is an area that requires greater
+discussion.
+Given the potential for AI to become ubiquitous in the insurance sector, it is imperative that while
+encouraging innovation, regulators and supervisors are investing in better understanding the underlying
+technology. Innovation Hubs or regulatory sandboxes are part of this process for then determining the
+appropriate regulatory approach, especially when there are cross-border cooperation arrangements. But
+as conventional insurance companies introduce new technology into their internal processes, it will become
+increasingly important to hold dialogues with insurers to be able to understand the data that is being used,
+and potential impacts that could be built into the AI.
+Regulators will also need to monitor whether AI outcomes are leading to inappropriate pricing and/or
+marketing, in particular related to retail policyholder protection. Generally speaking, the transaction cost of
+a retail policy offering is higher than a commercial policy offering. This provides an incentive for insurers
+to seek ways to reduce the transaction cost with retail policyholders, and applying AI to such processes
+would seem an ideal way to do so.
+Digital security and data protection would also become a consideration, as AI could request data via an
+open internet connection or a database which could allow for the system to be hacked, requiring
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+26 
+approaches to prevent such security incidents and developing contingency measures for when such an
+incident occurs.
+AI also raises ethical questions, as election hacking has well demonstrated. While ethical questions are
+applicable for any AI, there are some questions that may be more relevant for the insurance sector. As we
+have witnessed from video games and click-bate headlines, humans are already starting to behave in
+certain ways in response to machine generated contents as the reward centre of the brain reacts positively
+to such contents (Bossmann, 2016[46]). The long-term implications of having mainly machines interacting
+to conclude a transaction could lead to customers reacting in unexpected ways, assuming that they are
+interacting with a human customer service agent.
+Ethical questions are complex as machines take on cognitive work with social dimension for duties that
+were previously performed by humans. International guidelines by OECD and HLAG AI are key starting
+points for thinking how to approach ethical issues of AI. There are a number of elements that AI may need
+to strive to achieve, to ensure that it is ethical. This includes being predictable to those that govern the
+system, robust against manipulation, and finding the person responsible for getting things done (Bostrom
+and Yudkowsky, 2018[36]). These may also be some of the elements that policymakers should consider
+whether necessary in a regulatory context, for AI to be integrated into system in the insurance sector.
+In relation to this, some have explored the idea of “explainable AI” which encourages the notion that AI
+also needs to be able to respond to questions on “why” it has reached certain decisions. AI is often not
+trusted to reach the appropriate decision given that its tendency to enhance any biases that may be learned
+(PwC, 2018[31]). Such approaches could support the development of AI that is more widely acceptable in
+society.
+In Germany, the Federal Financial Supervisory Authority (BaFin) established a new division in 2016 to
+identify and assess innovations in financial technology and their impact on the financial market. In 2018,
+BaFin published the report “Big data meets artificial intelligence – Challenges and implications for the
+supervision and regulation of financial services” (BaFin, 2018[47]). Based on potential market scenarios,
+the report outlined various implications of big data and artificial intelligence for the supervision of financial
+services.
+In France, the Autorité de contrôle prudentiel et de résolution (ACPR) launched a Task Force on Artificial
+Intelligence in April 2018 to investigate challenges that AI poses to the financial sector. They are gathering
+information from insurers, banks and fintech companies to better understand how AI is being applied, risks
+and opportunities from AI and regulatory impediments for adopting AI in the financial sector.
+In the US, NAIC has launched a State Ahead Initiative to develop a new data platform and business
+intelligence framework to allow more self-service analytics and facilitate more sophisticated predictive
+analytics and AI projects to support market, solvency and macro prudential surveillance needs of state
+supervisors. As State Ahead matures through 2020, the NAIC will experiment with an AI solvency tool to
+complement these tools. In 2019, NAIC will be discussing the use of AI-models by insurer, including
+governance, data quality and how to reduce the opacity of complex (‘blackbox’) models.
+As a first step, regulators should discuss the possibility of having a governance requirement related to the
+management of AI in an insurance entity, which may be useful for a corporate to consider as the focus of
+AI increases and to have a handle on ethical aspects. Regulators and supervisors should look to gain a
+better understanding of AI developments so that any skill gap within the supervisor can be identified and
+filled as the need arises.
+In the future, there may come a point when supervisory analysis may become necessary to ensure that AI
+are not resulting in bias or discriminatory outcomes. Transparency of AI would support this to a certain
+extent, but there could come a point when greater accountability of outcomes will become necessary.
+Supervisors could actively monitor complaints data, for example, in the meantime, which could indicate if
+there is a continuous trend.
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 27
+
+4. Concluding policy and regulatory
+considerations
+Big data and AI will continue to be an area in which much attention will be given for many businesses,
+especially as they become increasingly integrated into business processes. While the insurance sector
+may be in relatively early stages of adopting big data and AI, the potential for it to impact every step of
+insurance production as well as business models of insurance is high, and it should serve to improve
+individuals and society well-being and welfare.
+The benefits that can be gained from use of big data and AI could potentially be wide ranging and high.
+Thus, it is important that opportunities are available to develop potential innovations that can be brought
+to insurance production, and regulatory sandboxes and innovation hubs could facilitate such
+developments. At the same time, there are risks to the technology as well as potential unintended
+consequences. A balanced but vigilant approach is necessary to ensure that the maximum benefits can
+be reaped for all stakeholders.
+Being conscious of the potential social costs of using big data and AI, including privacy and ethical
+concerns, and being proactive when issues are arising is a key role that policymakers should play in
+ensuring that consumer protection and fairness in the market can be achieved. While in most cases
+regulation may be technology neutral and not necessitate the development of specific regulation, there are
+particular areas in which good cooperation with other governmental agencies will be key to having a better
+understanding of how to ensure that broader regulation is being appropriately applied, as well as how it
+should be interpreted and applied in the insurance sector.
+Privacy and data protection requirements are, generally, an issue for the general data protection
+agency to prescribe, but given the nature of insurance, if the insurance sector is taking advantage of big
+data it could become necessary to ascertain the means in which databases are acquired, and the
+appropriateness of the data being used for its analytics. There are already some instances of the insurance
+supervisors imposing additional requirements, and the advent of big data and AI could become such an
+occasion too.
+Technology has the tendency of exacerbating existing market structures, and companies using big data
+and AI could accelerate this process. Whether technology, and in particular the access some firms have
+to particular big data or AI technology, should be monitored to ensure that it does not result in an
+oligopolistic market structure. Digitalisation has encouraged some regulators to look into different norms
+and principles to establish consumer welfare (European Union et al., 2019[28]). This could be an important
+consideration for insurance regulators too and should be carefully monitored.
+Risk classification can lead to potential exclusion from an insurance policy or could have affordability
+hampered, and big data can accelerate this process. Understanding and drawing lines on what types of
+big data can be used will become an important part of how insurance regulation ensures reasonable and
+appropriate use of big data.
+There is much that can be learned from the recommendations on AI of OECD and HLAG AI for the
+insurance sector. While broader guidance and requirements could be implemented at the national level for
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+28 
+AI applications in general, insurance regulators could take steps to better monitor AI developments by
+requiring a governance structure that manages this in insurance entities. This will be particularly
+important for insurance regulators, so they might be able to request human intervention when unintended
+consequences or bias is detected from AI decision making. Regulators may need to analyse whether AI is
+resulting in unwarranted biases or discriminatory practices.
+Given the GDPR’s wide reach, a better understanding of how to make AI explainable is needed. It will be
+imperative to keep abreast of developments in relation to this aspect of AI for insurance regulators too, as
+the criteria on what constitutes an explainable AI could emerge, in addition to what actions can be taken
+when any inappropriate decision making is detected from AI.
+There is a lack of skills related to AI both in the regulatory/supervisory side, as well as in the industry. This
+is not limited to the insurance sector, as the skill shortage is a challenge to all industries.
+Greater international cooperation on technological developments and facilitation and cooperation
+on cross-border activities would also be an important consideration, regardless of whether there is a
+regulatory sandbox/innovation hub or not. This could be particularly important for data transfers that may
+be happening and being able to ensure that data is being collected and used in an appropriate manner.
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 29
+
+References
+(n.a.) (2019), IAG turning down new property insurance in Wellington region | 1 NEWS NOW |
+TVNZ, TV NZ, https://www.tvnz.co.nz/one-news/new-zealand/iag-turning-down-new-propertyinsurance-in-wellington-region?variant=tb_v_1 (accessed on 18 March 2019).
+
+[23]
+
+(n.a.) (n.d.), Technology, jobs, and the future of work | McKinsey,
+https://www.mckinsey.com/featured-insights/employment-and-growth/technology-jobs-andthe-future-of-work (accessed on 18 June 2019).
+
+[48]
+
+Accenture (2019), Global Fintech Investments Surged in 2018 with Investments in China Taking
+the Lead, Accenture Analysis Finds; UK Gains Sharply Despite Brexit Doubts | Accenture
+Newsroom, Accenture New Release, https://newsroom.accenture.com/news/global-fintechinvestments-surged-in-2018-with-investments-in-china-taking-the-lead-accenture-analysisfinds-uk-gains-sharply-despite-brexit-doubts.htm (accessed on 18 June 2019).
+
+[3]
+
+Allianz SE (2014), Allianz and Deutsche Telekom enter into a digital alliance,
+https://www.allianz.com/en/press/news/financials/stakes_investments/news-2014-06-06.html
+(accessed on 18 March 2019).
+
+[14]
+
+Anyoha, R. (2017), The History of Artificial Intelligence, Harvard Science in the News,
+http://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/ (accessed on
+23 August 2018).
+
+[29]
+
+BaFin (2018), Big Data meets artificial intelligence– Challenges and implications for the
+supervision and regulation of financial services,
+https://www.bafin.de/SharedDocs/Downloads/EN/dl_bdai_studie_en.html (accessed on
+20 January 2020).
+
+[47]
+
+Balasubramanian, R., A. Libarikian and D. Mcelhaney (2018), Insurance 2030-The impact of AI
+on the future of insurance,
+https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insig
+hts/Insurance%202030%20The%20impact%20of%20AI%20on%20the%20future%20of%20in
+surance/Insurance-2030-The-impact-of-ai-on-the-future-of-insurance.ashx (accessed on
+23 August 2018).
+
+[35]
+
+Bossmann, J. (2016), Top 9 ethical issues in artificial intelligence | World Economic Forum,
+WEF, https://www.weforum.org/agenda/2016/10/top-10-ethical-issues-in-artificial-intelligence/
+(accessed on 29 August 2018).
+
+[46]
+
+Bostrom, N. and E. Yudkowsky (2018), “The Ethics of Artificial Intelligence”, in Artificial
+Intelligence Safety and Security, https://intelligence.org/files/EthicsofAI.pdf (accessed on
+29 August 2018).
+
+[36]
+
+Chen, Chiang and Storey (2012), “Business Intelligence and Analytics: From Big Data to Big
+Impact”, MIS Quarterly, Vol. 36/4, p. 1165, http://dx.doi.org/10.2307/41703503.
+
+[9]
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+30 
+Deloitte Digital (2017), Artificial intelligence: From mystery to mastery (AI in insurance
+whitepaper), https://www2.deloitte.com/de/de/pages/innovation/contents/artificial-intelligenceinsurance-industry.html (accessed on 23 August 2018).
+
+[32]
+
+EIOPA (2018), EIOPA seeks evidence on the use of Big Data,
+https://eiopa.europa.eu/Pages/News/EIOPA-seeks-evidence-on-the-use-of-Big-Data.aspx
+(accessed on 19 March 2019).
+
+[26]
+
+Eiopa (2019), “BIG DATA ANALYTICS IN MOTOR AND HEALTH INSURANCE: A THEMATIC
+REVIEW”, http://dx.doi.org/10.2854/54208.
+
+[6]
+
+EIOPA and NAIC (2018), EU-U.S. INSURANCE DIALOGUE PROJECT BIG DATA ISSUE
+PAPER,
+https://www.naic.org/documents/committees_c_catf_related_price_optimization_white_paper.
+pdf (accessed on 19 March 2019).
+
+[7]
+
+European Commission (2018), A European approach to Artificial Intelligence, MEMO,
+https://europa.eu/rapid/press-release_MEMO-18-3363_en.pdf.
+
+[43]
+
+European Supervisory Authorities (2018), Joint Committee Final Report on Big Data,
+https://esas-jointcommittee.europa.eu/Publications/Reports/Final%20Report%20on%20Big%20Data.pdf
+(accessed on 19 March 2019).
+
+[25]
+
+European Union, J. et al. (2019), European Union report Competition Policy for the digital era:
+Final report, https://ec.europa.eu/competition/publications/reports/kd0419345enn.pdf
+(accessed on 20 September 2019).
+
+[28]
+
+FCA (2016), “FS16/5: Call for Inputs on Big Data in retail general insurance | FCA”, No. FS16/5,
+https://www.fca.org.uk/publications/feedback-statements/fs16-5-call-inputs-big-data-retailgeneral-insurance (accessed on 13 March 2019).
+
+[12]
+
+Fisher, M. and A. Taub (2019), On YouTube’s Digital Playground, an Open Gate for Pedophiles The New York Times, New York Times,
+https://www.nytimes.com/2019/06/03/world/americas/youtube-pedophiles.html (accessed on
+23 September 2019).
+
+[37]
+
+Fliche, O. and S. Yang (2018), “Artificial intelligence:challenges to the financial sector”, ACPR,
+Banque de France, https://acpr.banquefrance.fr/sites/default/files/medias/documents/2018_12_20_intelligence_artificielle_en.pdf
+(accessed on 17 September 2019).
+
+[41]
+
+Gandomi, A. and M. Haider (2015), “Beyond the hype: Big data concepts, methods, and
+analytics”, International Journal of Information Management, Vol. 35/2, pp. 137-144,
+http://dx.doi.org/10.1016/J.IJINFOMGT.2014.10.007.
+
+[10]
+
+Hehner, S. et al. (2017), Smart claims management with self-learning software Artificial
+intelligence in health insurance,
+https://www.mckinsey.com/~/media/McKinsey/Industries/Healthcare%20Systems%20and%2
+0Services/Our%20Insights/Artificial%20intelligence%20in%20health%20insurance%20Smart
+%20claims%20management%20with%20self%20learning%20software/Artificial%20intelligen
+ce%20in% (accessed on 23 August 2018).
+
+[34]
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+ 31
+High-Level Expert Group on Artificial Intelligence (2019), Ethics guidelines for trustworthy AI |
+Digital Single Market, https://ec.europa.eu/digital-single-market/en/news/ethics-guidelinestrustworthy-ai (accessed on 16 September 2019).
+
+[39]
+
+Howlett, A. (2019), Fitness trackers enter the pet insurance market | Financial Times, FT,
+https://www.ft.com/content/7a5c06b8-4fcb-11e9-b401-8d9ef1626294 (accessed on
+27 March 2019).
+
+[17]
+
+Investopia (2018), Data Analytics, Investopia, https://www.investopedia.com/terms/d/dataanalytics.asp (accessed on 18 March 2019).
+
+[13]
+
+Jack, A. (2018), How AI can spot exam cheats and raise standards | Financial Times, Financial
+Times, https://www.ft.com/content/540e77fa-9fe2-11e8-85da-eeb7a9ce36e4 (accessed on
+24 August 2018).
+
+[38]
+
+Keller, B. et al. (2018), Big Data and Insurance: Implications for Innovation, Competition and
+Privacy, http://www.genevaassociation.org (accessed on 19 March 2019).
+
+[27]
+
+Kessler, D. (2018), The Impact of Artificial Intelligence on Tthe (Re)insurance Sector,
+https://www.scor.com/sites/default/files/focus_scor-artificial_intelligence.pdf (accessed on
+23 August 2018).
+
+[30]
+
+Laney, D. (2001), Application Delivery Strategies, https://blogs.gartner.com/douglaney/files/2012/01/ad949-3D-Data-Management-Controlling-Data-Volume-Velocity-andVariety.pdf (accessed on 13 March 2019).
+
+[8]
+
+Manyika, J. (2017), Technology, jobs, and the future of work | McKinsey, McKinsey Global
+Institute Executive Briefing, https://www.mckinsey.com/featured-insights/employment-andgrowth/technology-jobs-and-the-future-of-work (accessed on 18 June 2019).
+
+[2]
+
+Miailhe, N. (2018), Competing in the age of artificial intelligence: current state of AI &amp;
+interpretation of complex data, https://www.scor.com/sites/default/files/focus_scorartificial_intelligence.pdf.
+
+[33]
+
+NAIC, Big Data Working Group, S. (2018), Summary - Big Data (EX) Working Group.
+
+[24]
+
+OECD (2019), Measuring the Digital Transformation: A Roadmap for the Future, OECD
+Publishing, Paris, https://dx.doi.org/10.1787/9789264311992-en.
+
+[1]
+
+OECD (2017), Enhancing the Role of Insurance in Cyber Risk Management, OECD Publishing,
+Paris, http://dx.doi.org/10.1787/9789264282148-en.
+
+[5]
+
+OECD (2017), Technology and innovation in the insurance sector,
+https://www.oecd.org/finance/Technology-and-innovation-in-the-insurance-sector.pdf
+(accessed on 28 August 2018).
+
+[4]
+
+Proust, O. (2015), Getting to know the GDPR, Part 5: Your big data analytics and profiling
+activities may be seriously curtailed - Privacy, Security and Information Law Fieldfisher,
+https://privacylawblog.fieldfisher.com/2015/getting-to-know-the-gdpr-part-5-your-big-dataanalytics-and-profiling-activities-may-be-seriously-curtailed (accessed on
+17 September 2019).
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+[42]
+
+32 
+PwC (2018), Explainable AI: Driving business value through greater understanding,
+https://www.pwc.co.uk/audit-assurance/assets/explainable-ai.pdf (accessed on
+23 August 2018).
+
+[31]
+
+Ralph, O. (2019), AI can streamline insurance claims — but at what cost? | Financial Times,
+Financial Times, https://www.ft.com/content/2df82a56-9c22-11e9-9c06-a4640c9feebb
+(accessed on 24 September 2019).
+
+[45]
+
+RMS (2018), A risk-driven business | Exposure, RMS Exposure,
+https://www.rms.com/exposure/a-risk-driven-business/ (accessed on 18 March 2019).
+
+[20]
+
+Russell, J. (2019), Fitbit’s newest fitness tracker is just for employees and health insurance
+members | TechCrunch, TechCrunch, https://techcrunch.com/2019/02/09/fitbitinspire/?guccounter=1&guce_referrer_us=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_ref
+errer_cs=1Z8DNEnppViJR8Mf2OdseQ (accessed on 18 March 2019).
+
+[15]
+
+snapLogic (2019), AI Skills — 93% of Organizations Committed to AI but Skills Shortage Poses
+Considerable Challenge | SnapLogic, snapLogic, https://www.snaplogic.com/pressreleases/ai-skills-shortage-research (accessed on 17 September 2019).
+
+[40]
+
+Stepanova, K. (2018), Premium hikes are here to stay as more insurers adopt risk-based pricing
+| Insurance Business, Insurance Business Mag,
+https://www.insurancebusinessmag.com/nz/news/breaking-news/premium-hikes-are-here-tostay-as-more-insurers-adopt-riskbased-pricing-103955.aspx (accessed on 18 March 2019).
+
+[21]
+
+Swedloff, R. (2014), RISK CLASSIFICATION’S BIG DATA (R)EVOLUTION,
+http://www.weforum.org/reports/ (accessed on 18 March 2019).
+
+[19]
+
+Taylor, C. (2018), Structured vs. Unstructured Data, Datamation,
+https://www.datamation.com/big-data/structured-vs-unstructured-data.html (accessed on
+13 March 2019).
+
+[11]
+
+thisMatter (n.d.), Rate Making: How Insurance Premiums Are Set,
+https://thismatter.com/money/insurance/rate-making.htm (accessed on 18 March 2019).
+
+[18]
+
+Tibshraeny, J. (2018), State and AMI home insurance policyholders in parts of the country
+deemed risky to receive premium increases of around $91 a year under IAG’s new pricing
+model | interest.co.nz, Interest.co.nz, https://www.interest.co.nz/insurance/94931/state-andami-home-insurance-policyholders-parts-country-deemed-risky-receive (accessed on
+18 March 2019).
+
+[22]
+
+Vitality (2019), Fitness Tracker Offers, https://www.vitality.co.uk/rewards/partners/activitytracking/ (accessed on 27 March 2019).
+
+[16]
+
+Wright, R. (2019), Workplace automation: how AI is coming for your job | Financial Times,
+Financial Times, https://www.ft.com/content/c4bf787a-d4a0-11e9-a0bd-ab8ec6435630
+(accessed on 30 September 2019).
+
+[44]
+
+THE IMPACT OF BIG DATA AND ARTIFICIAL INTELLIGENCE (AI) IN THE INSURANCE SECTOR © OECD 2020
+
+www.oecd.org/finance/insurance
+
+

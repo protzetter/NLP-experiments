@@ -1,0 +1,2200 @@
+State of Machine
+Learning and Data
+Science 2020
+
+
+Enterprise Executive Summary Report
+
+Table of Contents
+Overview
+
+02
+
+Key Results
+
+03
+
+Data Scientist Profile
+
+04
+
+Education
+
+07
+
+Data Science & Machine Learning Experience
+
+09
+
+Employment
+
+11
+
+Technology
+
+18
+
+Conclusion
+
+28
+
+2020 Enterprise Executive Summary Report
+
+Table of Contents
+
+1
+
+Overview
+For the fourth year, Kaggle surveyed its community of data
+enthusiasts to share trends within a quickly growing field.
+Based on responses from 20,036 Kaggle members,
+we’ve created this report focused on the 13% (2,675
+respondents) who are currently employed as data
+scientists. 
+
+
+We can see a clear picture of what is common in the
+community but also the diverse attributes of its members.
+
+Report
+Methodology
+The content of this report focuses on respondents who are
+currently employed and chose their current job title as
+“data scientist”. There are many other job titles that
+support data science and machine learning workflows and
+you can find their responses in the complete 2020 survey
+dataset on Kaggle.
+
+
+Many survey questions were multiple choice with the
+ability for respondents to select all options that applied to
+them. For that reason, you may see visualizations where
+the total percentage is more than 100%. All monetary
+amounts captured in the report are in USD.
+
+
+2020 Enterprise Executive Summary Report
+
+Overview
+
+2
+
+Key Results
+Profile
+Data science continues to have a heavy gender
+imbalance, with most identifying as male
+The vast majority of data scientists are under 35 years
+old
+
+Over half of data scientists have graduate degrees
+
+
+Education and Employment
+Most data scientists continue to learn outside of
+formal education
+
+Most data scientists have been coding for less than a
+decade
+
+More than half of data scientists have less than three
+years of experience with machine learning
+
+Data scientists in the United States make substantially
+more money than their international counterparts
+
+
+
+Technology
+More data scientists use cloud computing compared to
+2019 results
+Scikit-learn is the most popular machine learning tool
+in 2020, with over four in five data scientists using it
+Tableau and PowerBI are the most popular business
+intelligence tools
+
+2020 Enterprise Executive Summary Report
+
+Key Results
+
+3
+
+Data Scientist Profile
+Gender
+Data science is still suffering from a large gender gap in the
+workplace, as 82% of users identify as men. This is only a
+slight change from last year’s results, where 84% of users
+identified as males. This is the first year we’ve
+differentiated between “Nonbinary” and “Prefer to
+self-describe,” with each answer coming in around a third
+of a percent.
+
+
+G e n d e r i d e n t i t y o f d ata s c i e n t i s t s
+
+Man
+
+81.9%
+
+Woman
+
+Nonbinary
+
+16.4%
+
+0.3%
+
+Prefer not
+to say
+
+1.1%
+
+Prefer to
+self-describe
+
+0.4%
+
+0%
+
+10%
+
+2020 Enterprise Executive Summary Report
+
+20%
+
+30%
+
+40%
+
+Data Scientist Profile
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+4
+
+Age
+Similar to 2019 results, data scientists tend to be in their
+late 20s or early 30s, with about 60% between 22 and 34.
+Only one in five professional data scientists are 40 or older.
+There are signs of the numbers skewing even younger, as
+generation Z gets more involved. Nearly 7% of data
+scientists are aged 18-21, an increase from last year’s 5%.
+
+
+Though not included in this chart, responses from students
+have also increased each year (26.8% in 2020, 21% in 2019,
+22.9% in 2018). As these students graduate into the
+workforce, we may see future surveys with even younger
+data scientists.
+
+A g e r a n g e s o f d ata s c i e n t i s t s
+
+0-17
+18-21
+
+6.9%
+
+22-24
+
+13.7%
+
+25-29
+
+25.2%
+
+30-34
+
+20.1%
+
+35-39
+
+13.4%
+
+40-44
+
+8.7%
+
+45-49
+
+5%
+
+50-54
+
+3.1%
+
+55-59
+
+1.5%
+
+60-69
+
+1.8%
+
+79+
+
+0.6%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+20%
+
+Data Scientist Profile
+
+30%
+
+40%
+
+5
+
+Country
+Two countries have far more representation in the Kaggle
+community. India makes up almost 22% of Kaggle data
+scientists, while 14.5% reside in the United States. Brazil is
+a distant third, at under 5%.
+M o s t c o m m o n n at i o n a l i t i e s
+
+21.8%
+20%
+14.5%
+
+15%
+6.7%
+
+10%
+
+2.8%
+
+ia
+
+Ind
+
+A.
+
+r
+
+he
+
+.
+U.S
+
+Ot
+
+dK
+
+zil
+
+ite
+
+Bra
+
+Un
+
+ia
+
+3.3%
+
+ce
+
+an
+
+Jap
+
+m
+
+do
+
+ing
+
+y
+an
+
+rm
+
+Ge
+
+a
+
+eri
+
+3%
+
+ss
+Ru
+
+2.6%
+
+Nig
+
+Sp
+
+da
+
+ain
+
+2.4%
+
+na
+
+2.1%
+
+Ca
+
+1.8%
+
+y
+rke
+Tu
+
+alia
+str
+
+Au
+
+nd
+
+1.5%
+
+la
+Po
+
+0%
+
+1.4%
+
+2.8%
+
+n
+Fra
+
+5%
+
+4.6%
+
+4.2%
+
+Responses per country
+
+# of respondents
+300+
+150
+100
+50
+0
+
+2020 Enterprise Executive Summary Report
+
+Data Scientist Profile
+
+6
+
+Education
+Higher Education
+Graduate degrees continue to be the norm for data
+scientists, with over 68% having obtained either a Master’s
+or doctoral degree. Fewer than 5% of data scientists have
+no degree beyond a high school diploma.
+E d u c at i o n l e v e l o f K a g g l e d ata s c i e n t i s t s
+
+No formal
+education past
+high school
+
+0.6%
+
+Some
+college/university
+study without earning
+a bachelor’s degree
+
+2.4%
+
+Bachelor’s
+degree
+
+24.2%
+
+Master’s
+degree
+
+51.1%
+
+Doctoral
+degree
+
+17.2%
+
+Professional degree
+
+3.2%
+
+I prefer
+not to
+answer
+
+1.3%
+
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+20%
+
+Education
+
+30%
+
+40%
+
+50%
+
+60%
+
+7
+
+Ongoing Learning
+Data science and machine learning are quickly changing,
+
+Coursera, Udemy, and Kaggle Learn top the most common
+
+so it’s no surprise over 90% of Kaggle data scientists
+
+mediums in our survey. Unsurprisingly, many Kaggle data
+
+maintain ongoing education. While about 30% take
+
+scientists chose multiple resources in the survey, with an
+
+traditional higher education courses, many more learn
+
+average of 2.8 mediums selected.
+
+through online materials.
+Popular ongoing learning resources
+
+62.9%
+
+Coursera
+
+Udemy
+
+34.7%
+
+University
+Courses(resulting in
+a university degree
+
+30.8%
+
+Kaggle Learn
+Courses
+
+30.1%
+
+DataCamp
+
+29.6%
+
+edX
+
+22.5%
+
+Udacity
+
+19.2%
+
+LinkedIn Learning
+
+12.3%
+
+Fast.ai
+
+11.8%
+
+Other
+
+9.9%
+
+Cloud-certification
+programs (direct
+from AWS, Azure,
+GCP, or similar)
+
+9.1%
+
+None
+
+7.4%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+20%
+
+Education
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+8
+
+Data Science & Machine
+Learning Experience
+Programming Experience
+Most Kaggle data scientists have at least a few years of
+
+Compared to the global audience, United States data
+
+experience under their belt. Just over 8% of data scientists
+
+scientists have significantly greater programming
+
+have been programming since the 20th century! That’s not
+
+experience. In the US, 37% have been programming 10 or
+
+to say there aren’t newcomers, however. Over 9% have
+
+more years, versus 22% worldwide.
+
+
+
+taken up programming in the last year. Just under 2% of
+data scientists claim to have never written code at all.
+Global
+
+P r o g r a m m i n g b a c k g r o u n d o f d ata s c i e n t i s t s
+
+USA
+
+8.5%
+
+20+ years
+
+7.6%
+13.3%
+
+10-20 years
+
+19.6%
+21.9%
+
+5-10 years
+
+29.2%
+27.9%
+
+3-5 years
+25.3%
+17.3%
+
+1-2 years
+7%
+9.3%
+
+< 1 years
+0.8%
+I have never
+written code
+
+1.8%
+0.5%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+Education
+
+20%
+
+30%
+9
+
+Machine Learning Experience
+Most Kaggle data scientists are newer to machine learning
+than programming. Slightly more than 55% of data
+scientists have less than three years experience. Less than
+6% of professional data scientists have been using
+machine learning for a decade or more.
+
+As with programming, US data scientists have more
+machine learning experience than the global respondents.
+
+Global
+
+M a c h i n e l e a r n i n g b a c k g r o u n d o f K a g g l e d ata s c i e n t i s t s
+
+20 or more
+years
+
+USA
+
+2.1%
+5.1%
+3.9%
+
+10-15 years
+
+8.6%
+13%
+
+5-10 years
+
+19.6%
+10.9%
+
+4-5 years
+
+15.3%
+12.3%
+
+3-4 years
+
+17.2%
+15.9%
+
+2-3 years
+
+15.8%
+21.4%
+
+1-2 years
+
+12.1%
+17.9%
+
+Under 1 year
+5.6%
+I do not use
+machine
+learning
+methods
+
+2.7%
+0.8%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+Education
+
+20%
+
+30%
+10
+
+Employment
+Pay
+Companies in the United States are most likely to pay in
+
+There are trends regionally, such as India where nearly
+
+the six figures, based on these survey results. Global
+
+90% make less than $50,000 USD per year.
+
+companies have lower salary ranges that are more evenly
+distributed.
+
+G l o b a l s a l a r y d i s t r i b u t i o n f o r d a t a s c i e n t i s t s
+
+
+> $500,000
+
+0.5%
+
+300,000-500,000
+
+0.7%
+
+250,000-299,999
+
+0.3%
+
+200,000-249,999
+
+1.6%
+4.7%
+
+150,000-199,999
+
+4.5%
+
+125,000-149,999
+
+6.8%
+
+100,000-124,999
+3.5%
+
+90,000-99,999
+
+3.2%
+
+80,000-89,999
+
+4.2%
+
+70,000-79,999
+
+3.7%
+
+60,000-69,999
+
+4.3%
+
+50,000-59,999
+
+5.5%
+
+40,000-49,999
+5%
+
+30,000-39,999
+3.5%
+
+25,000-29,999
+
+3.6%
+
+20,000-24,999
+
+4%
+
+15,000-19,999
+
+5.7%
+
+10,000-14,999
+7,500-9,999
+
+2.7%
+
+5,000-7,499
+
+3.1%
+
+4,000-4,999
+
+1.8%
+
+3,000-3,999
+
+1.8%
+
+2,000-2,999
+
+2%
+
+1,000-1,999
+
+4.3%
+
+$0-999
+
+18.6%
+0%
+
+2020 Enterprise Executive Summary Report
+
+5%
+
+10%
+
+Employment
+
+15%
+
+11
+
+S a l a r y d i s t r i b u t i o n f o r U S - b a s e d d ata s c i e n t i s t s
+
+> $500,000
+
+0.8%
+
+300,000-500,000
+
+3.9%
+
+250,000-299,999
+
+1.4%
+
+200,000-249,999
+
+8.9%
+21.3%
+
+150,000-199,999
+18%
+
+125,000-149,999
+
+18.6%
+
+100,000-124,999
+6.9%
+
+90,000-99,999
+5.3%
+
+80,000-89,999
+4.7%
+
+70,000-79,999
+0.8%
+
+60,000-69,999
+
+0.6%
+
+50,000-59,999
+
+1.1%
+
+40,000-49,999
+30,000-39,999
+
+0.3%
+
+20,000-24,999
+
+0.3%
+
+15,000-19,999
+
+0.3%
+0.8%
+
+10,000-14,999
+5,000-7,499
+
+0.3%
+
+4,000-4,999
+
+0.3%
+
+3,000-3,999
+
+0.3%
+
+1,000-1,999
+
+0.3%
+
+$0-999
+
+5%
+0%
+
+2020 Enterprise Executive Summary Report
+
+5%
+
+10%
+
+Employment
+
+15%
+
+20%
+
+12
+
+S a l a r y d i s t r i b u t i o n f o r I n d i a - b a s e d d ata s c i e n t i s t s
+
+> $500,000
+
+0.6%
+
+300,000-500,000
+
+0.2%
+
+200,000-249,999
+
+0.4%
+
+150,000-199,999
+
+0.6%
+
+125,000-149,999
+
+1%
+
+100,000-124,999
+
+1.2%
+
+90,000-99,999
+
+0.8%
+1%
+
+80,000-89,999
+70,000-79,999
+
+1.6%
+
+60,000-69,999
+
+0.8%
+2.6%
+
+50,000-59,999
+
+3.4%
+
+40,000-49,999
+
+4.5%
+
+30,000-39,999
+
+4.7%
+
+25,000-29,999
+
+6.7%
+
+20,000-24,999
+
+7.3%
+
+15,000-19,999
+
+9.7%
+
+10,000-14,999
+7,500-9,999
+
+5.7%
+
+5,000-7,499
+
+4.9%
+
+4,000-4,999
+
+3%
+
+3,000-3,999
+
+1.6%
+
+2,000-2,999
+
+1.6%
+
+1,000-1,999
+
+4%
+
+$0-999
+
+32%
+0%
+
+2020 Enterprise Executive Summary Report
+
+5%
+
+10%
+
+Employment
+
+15%
+
+20%
+
+25%
+
+30%
+
+13
+
+Looking at the most common salaries by country, we see
+that US companies are more likely to pay higher salaries.
+Companies in Germany and Japan follow, with significantly
+higher salaries than the other included regions.
+M e d i a n s a l a r y f o r d ata s c i e n t i s t s b y c o u n t r y
+
+125,000149,999
+
+USA
+
+70,000-79,999
+
+Germany
+
+Japan
+
+40,000-49,999
+
+Russia
+
+10,000-14,999
+
+Brazil
+
+10,000-14,999
+
+7,500-9,999
+
+India
+
+$0-999
+
+1,0001,999
+
+2020 Enterprise Executive Summary Report
+
+5,0007,499
+
+10,00014,999
+
+15,00019,999
+
+Employment
+
+20,00024,999
+
+50,00059,999
+
+100,000124,999
+
+125,000149,999
+
+150,000199,999
+
+14
+
+Companies Employing Data Science
+The most notable change from last year is that more
+
+Large enterprises and small startups are the most common
+
+Kaggle data scientists are working at the very smallest
+
+choices of data scientists in this survey. Over half of
+
+businesses, at over 37% (up from 30% in 2019).
+
+employers have less than 250 employees. Yet, one in five
+work at companies with over 10,000 employees.
+
+C o m pa n y s i z e ( # o f e m p l oy e e s )
+
+0-49
+employees
+
+37.3%
+
+50-249
+employees
+
+13.7%
+
+250-999
+employees
+
+10%
+
+1000-9,999
+employees
+
+17%
+
+10,000 +
+employees
+
+22%
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+Data Science Teams
+With small companies being most common, it reasons that
+
+Over half of data scientists work at companies with five or
+
+the same is true for data science teams, most of which
+
+fewer people on the data science team. Teams of one or
+
+could be fed with two pizzas.
+
+two are most common (23.25%), but large teams of 20+
+come next at 22.93%.
+
+D ata s c i e n c e t e a m s ( # o f e m p l oy e e s )
+
+9.2%
+
+0
+
+23.3%
+
+1-2
+18.8%
+
+3-4
+15.1%
+
+5-9
+7.4%
+
+10-14
+3.4%
+
+15-19
+
+22.9%
+
+20+
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+20%
+
+Employment
+
+30%
+
+40%
+
+50%
+
+15
+
+Enterprise Machine Learning Adoption
+Machine learning has become more rooted in the
+
+Those exploring (or using it to generate insights) remain
+
+companies where Kaggle scientists work. Nearly 31% of
+
+about the same. Kaggle data scientists who said they’ve
+
+data scientists claim well-established ML methods, up from
+
+recently adopted ML decreased, likely due to more
+
+28% in 2019 and 25% in 2018.
+
+entrenched usage.
+
+Machine learning adoption in the enterprise over time
+
+2020
+
+2019
+
+2018
+
+7.8%
+
+I do not know
+
+3.8%
+4.9%
+
+6.9%
+No (we do not use
+ML methods)
+
+5.5%
+4.2%
+
+30.8%
+
+We have well
+established ML
+methods (ie., models in
+production for more
+than 2 years)
+
+28.9%
+26%
+
+23.9%
+
+We recently started
+using ML methods (ie.,
+models in production
+for less than 2 years)
+
+30.7%
+32.9%
+
+We use ML methods
+for generating insights
+(but do not put
+working models into
+production)
+
+13.1%
+14.5%
+13.2%
+
+17.6%
+
+We are exploring ML
+methods (and maybe
+one day put a model
+into production)
+
+16.7%
+19%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+20%
+
+Employment
+
+30%
+
+40%
+
+50%
+
+16
+
+Spending
+There’s plenty of money being spent on machine learning
+
+Data scientists from the US spend more money in the cloud
+
+and cloud computing products, but not by all data
+
+than their global counterparts. There are more than two
+
+scientists. There’s quite a range, with over a quarter of data
+
+times the responses for the highest spending level in the
+
+scientists claiming to have spent no money at all, while one
+
+US compared to other countries.
+
+
+in 10 has spent over $100,000 USD in the last five years.
+GLOBAL
+
+U S v s g l o b a l e n t e r p r i s e s p e n d i n g i n t h e pa s t 5 y e a r s ( $ U S D )
+
+USA
+
+11.6%
+
+$100K+
+
+25.6%
+
+15.1%
+
+$10K-
+
+$99,999
+
+20.8%
+
+21.3%
+$1K-$9,999
+
+18.9%
+
+16.3%
+$100-$999
+
+11.5%
+
+10.2%
+$1-$99
+
+4.2%
+
+25.6%
+$0
+
+18.9%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+Employment
+
+20%
+
+30%
+
+17
+
+Technology
+Interactive Development
+Environments
+
+Jupyter-based IDEs continue to be the go-to tool for data
+
+This is the first year it has been separated out from Visual
+
+scientists, with around three-quarters of Kaggle data
+
+Studio. The two combined for over 43% this year, versus
+
+scientists using it. However, this has decreased from last
+
+under 30% in 2019.
+
+year’s 83%. Visual Studio Code is in the second spot with
+just over 33%.
+Popular IDE usage
+
+JupyterLab
+
+74.1%
+
+Visual Studio Code
+
+33.2%
+31.9%
+
+PyCharm
+RStudio
+
+31.5%
+
+Spyder
+
+21.8%
+
+Notepad ++
+
+19.4%
+
+Sublime Text
+
+15.2%
+
+Vim, Emacs, or
+similar
+
+11%
+
+Visual Studio
+
+10.1%
+
+MATLAB
+
+5.8%
+5.6%
+
+Other
+None
+
+0.7%
+0%
+
+2020 Enterprise Executive Summary Report
+
+20%
+Technology
+
+40%
+
+60%
+18
+
+Methods & Algorithms
+The most commonly used algorithms were linear and
+logistic regression, followed closely by decision trees and
+random forests. Of more complex methods, gradient
+boosting machines and convolutional neural networks were
+the most popular approaches.
+
+Methods and algorithms usage
+
+Linear or Logistic
+Regression
+
+83.7%
+
+Decision Trees or
+Random Forests
+
+78.1%
+
+Gradient Boosting
+Machines (xgboost,
+lightgbm, etc.)
+
+61.4%
+43.2%
+
+Convolutional Neural
+Networks
+31.4%
+
+ayesian Approaches
+Recurrent Neural
+Networks
+
+30.2%
+
+Neural Networks
+(MLPs, etc.)
+
+28.2%
+
+Transformer Networks
+(BERT, gpt-3, etc.)
+
+14.8%
+
+Generative Adversial
+Networks
+
+7.3%
+
+Evolutionary
+Approaches
+
+6.5%
+
+Other
+
+4.5%
+
+None
+
+1.7%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+20%
+
+30%
+
+Technology
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+19
+
+Python-based tools continue to dominate the machine
+learning frameworks. Scikit-learn, a swiss army knife
+applicable to most projects, is the top with four in five data
+scientists using it. TensorFlow and Keras, notably used in
+combination for deep learning, were each selected on
+about half of the data scientist surveys. Gradient boosting
+library xgboost is fourth, with about the same usage as
+2019.
+
+The fifth place tool, PyTorch, climbed above 30%, up from
+about 26% in 2019.
+
+
+The most popular of the tools added to the survey this year
+is R-based Tidymodels, reaching over 7 percent.
+
+Machine learning framework usage
+
+Scikit-learn
+
+82.8%
+
+TensorFlow
+
+50.5%
+
+Keras
+
+50.5%
+
+Xgboost
+
+48.4%
+
+PyTorch
+
+30.9%
+
+LightGBM
+
+26.1%
+
+Caret
+
+14.1%
+
+Catboost
+
+13.7%
+
+Prophet
+
+10%
+
+Fast.ai
+
+7.5%
+
+Tidymodels
+
+7.2%
+
+H20 3
+
+6%
+
+MXNet
+
+2.1%
+
+Other
+
+3.7%
+
+None
+
+3.2%
+
+JAX
+
+0.7%
+0%
+
+10%
+
+2020 Enterprise Executive Summary Report
+
+20%
+
+30%
+
+40%
+Technology
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+20
+
+Enterprise Cloud Computing
+There are clearly three big players in cloud computing, and
+it’s no surprise who: Amazon Web Services, Google Cloud
+Platform, and Microsoft Azure. Notably, more data
+scientists are using the cloud overall. In 2019, about 25%
+had not adopted cloud computing, which decreased to 17%
+in this year’s survey.
+
+Enterprise cloud usage
+
+Amazon Web
+
+48.2%
+
+Services (AWS)
+
+Google Cloud
+
+35.3%
+
+Platform (GCP)
+
+Microsoft Azure
+
+29.4%
+
+None
+
+17.1%
+
+IBM Cloud / Red Hat
+
+5.6%
+
+Other
+
+4.1%
+
+3%
+
+Oracle Cloud
+
+VMware Cloud
+
+2.9%
+
+Salesforce Cloud
+
+1.9%
+
+SAP Cloud
+
+1.8%
+
+Alibaba Cloud
+
+0.9%
+
+Tencent Cloud
+
+0.7%
+
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+20%
+
+Technology
+
+30%
+
+40%
+
+50%
+
+21
+
+Those who use cloud services were asked about specific
+products. Compute servers are the most common
+products, followed by serverless technologies. One in five
+did not name a cloud product.
+
+Enterprise cloud product usage
+
+Amazon EC2
+
+40.6%
+
+Google Cloud
+Compute Engine
+
+21.7%
+
+21.1%
+
+AWS Lambda
+No/None
+
+20.3%
+
+Azure Cloud Services
+
+19.8%
+
+Amazon Elastic
+Container Service
+
+14.4%
+
+Microsoft Azure
+Container Instances
+
+12.5%
+
+Google Cloud Functions
+
+12.1%
+
+Google Cloud App
+Engine
+
+10.6%
+
+9.3%
+
+Azure Functions
+Google Cloud Run
+
+Other
+
+6.1%
+
+3.4%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+20%
+
+Technology
+
+30%
+
+40%
+
+50%
+
+22
+
+Enterprise Machine Learning Tools
+Those who use AWS, Google Cloud Platform, or Microsoft
+
+Of those with ML usage, Amazon SageMaker was the most
+
+Azure were asked about machine learning (ML) tools in
+
+popular answer, followed closely by Google Cloud AI and
+
+particular. Over half of these data scientists do not use ML
+
+ML.
+
+in the cloud.
+Enterprise machine learning product usage
+
+55.2%
+
+No/None
+
+16.5%
+
+Amazon SageMaker
+Google Cloud AI
+Platform/Google Cloud
+ML Engine
+
+14.8%
+
+Azure Machine
+Learning Studio
+
+12.9%
+
+Google Cloud Vision AI
+
+8%
+
+Google Cloud Natural
+Language
+
+7.8%
+
+Azure Cognitive
+Services
+
+6.4%
+
+Amazon Rekognition
+
+4.3%
+
+4.3%
+
+Google CLoud Video AI
+
+Amazon Forecast
+
+3.7%
+
+Other
+
+2.9%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+20%
+
+Technology
+
+30%
+
+40%
+
+50%
+
+60%
+
+23
+
+Enterprise Big Data
+Business Intelligence tools help data scientists visualize
+their data, but four in 10 do not use one. The majority do
+employ BI, with Tableau as the most popular tool. Microsoft
+Power BI and Google Data Studio round out the top three.
+D ata s c i e n t i s t u s a g e o f b u s i n e s s i n t e l l i g e n c e t o o l s
+
+None
+
+38.8%
+
+Tableau
+
+33.3%
+
+Microsoft Power BI
+
+27%
+
+Google Data Studio
+
+9.1%
+
+Other
+
+6.4%
+
+Qlik
+
+5%
+
+Amazon QuickSight
+
+2.9%
+
+Salesforce
+
+2.8%
+
+Looker
+
+2.5%
+
+Alteryx
+
+2.1%
+
+SAP Analytics Cloud
+
+2%
+
+TIBCO Spotfire
+
+1.4%
+
+Sisense
+
+1.2%
+
+Einstein Analytics
+
+0.9%
+
+Domo
+
+0.7%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+Technology
+
+20%
+
+30%
+
+40%
+
+24
+
+Regarding databases, there isn't a clear favorite among
+data scientists. MySQL was mentioned most often (35.6%),
+followed by PostgreSQL (28.86%) SQL Server (24.93%).
+D ata b a s e u s a g e b y d ata s c i e n t i s t s
+
+35.6%
+
+MySQL
+28.9%
+
+PostgreSQL
+24.9%
+
+Microsoft SQL Server
+18.7%
+
+MongoDB
+
+16.5%
+
+SQLite
+None
+
+15.4%
+
+Google Cloud BigQuery
+
+13.5%
+
+Oracle Database
+
+12.9%
+
+Amazon Redshift
+
+9.3%
+
+Microsoft Azure
+Data Lake Storage
+
+9.1%
+7.9%
+
+Other
+
+6.7%
+
+Amazon Athena
+
+5.9%
+
+Google Cloud SQL
+
+5.6%
+
+Snowflake
+
+5.1%
+
+Amazon DynamoDB
+4.2%
+
+Microsoft Access
+IBM Db2
+
+3.5%
+
+Google Cloud Firestore
+
+2.8%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+Technology
+
+20%
+
+30%
+
+40%
+
+25
+
+Automated Machine Learning
+As with machine learning overall, many data scientists
+(33%) do not use auto ML tools. Google Cloud AutoML saw
+gains from last year’s survey, nearly 14% versus 6% in 2019.
+A u t o m at e d m a c h i n e l e a r n i n g f r a m e w o r k u s a g e
+
+Google Cloud AutoML
+
+13.9%
+
+H20 Driverless AI
+
+9.5%
+
+DataRobot AutoML
+
+8.4%
+
+Databricks AutoML
+
+6.5%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+Technology
+
+20%
+
+30%
+
+40%
+
+26
+
+Machine Learning Experiments
+Among data scientists who use tools to manage machine
+learning experiments, TensorBoard is a clear favorite (over
+21%). The closest competitor is Weights & Biases, with 6%.
+However, the vast majority (68%) of data scientists do not
+use special tools to keep track of and manage their ML
+experiments.
+Usage of machine learning experiment tools
+
+No/None
+
+68.1%
+
+TensorBoard
+
+21.6%
+
+Weights & Biases
+
+6%
+
+Other
+
+Trains
+
+Neptune
+
+Domino Model Monitor
+
+Polyaxon
+
+Guild.ai
+
+Comet.ml
+
+Sacred+Omniboard
+
+5.4%
+
+3.1%
+
+2.3%
+
+1%
+
+0.9%
+
+0.8%
+
+0.7%
+
+0.6%
+0%
+
+2020 Enterprise Executive Summary Report
+
+10%
+
+20%
+
+30%
+
+Technology
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+27
+
+Conclusion
+This 2020 edition of the State of Machine Learning and
+Data Science includes insights gathered from a survey of
+20,036 Kaggle members. Their answers covered
+demographic, education, employment, and technology
+usage.
+
+
+The charts and results are culled from professional data
+scientists (covering 13% of respondents). There’s even
+more to uncover in the most comprehensive dataset
+available on the state of machine learning and data science
+today.
+
+
+Kaggle has published the complete dataset of responses
+for the community to review, and we’ll run a competition
+from November 18, 2020 to January 6, 2021 to learn even
+more about data science practitioners in 2020.
+
+
+2020 Enterprise Executive Summary Report
+
+Conclusion
+
+28
+
+

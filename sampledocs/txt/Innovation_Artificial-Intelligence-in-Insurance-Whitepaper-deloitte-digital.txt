@@ -1,0 +1,2598 @@
+From mystery to mastery:
+Unlocking the business value
+of Artificial Intelligence in the
+insurance industry
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 3
+
+1.
+
+Introduction
+
+4
+
+2.
+
+Turbulent times ahead
+
+7
+
+AI is the enabler for disruption
+
+3.	There’s more to AI than robots
+
+11
+
+4.	Lost in translation
+
+17
+
+5.
+
+The road to business value
+
+23
+
+6.
+
+Seize the opportunity
+
+29
+
+Act now
+
+39
+
+AI technology is poised to make a difference
+
+Apply our Use Case Formula to leverage AI in your business
+
+7.
+
+AI creates tangible business value in four distinct ways
+
+Insurers have yet to unlock the full potential of AI
+
+4 |
+
+1.
+Introduction
+On January 25th, 2017, sixty-eight years after it was published, George Orwell’s book
+Nineteen Eighty-Four became the number one best-selling book on Amazon. With its
+eerily accurate predictions about advanced technology becoming an integral part of
+everyday life, the book’s revived popularity only hints at the massive surge of excitement
+surrounding one specific subject: Artificial Intelligence (AI). The numbers tell the same
+story: deals to AI startups enabling computers to mimic human intelligence and decision
+behavior increased 4.6x, from 150 in 2012 to 698 in 20161. With a combined funding of
+USD 4.8B in 20162 and a projected overall spend of USD 47B by 20203, a world in which AI
+is prevalent is no longer mere fiction.
+However, not all the book’s predictions have come true. Nineteen Eighty-Four painted
+a futuristic picture of a totalitarian Big Brother regime that controls every breath of its
+inhabitants, but a look at the world today reveals the fundamentally positive impact of AI
+on organizations, entire industries, and life itself. Tech giant Google, for instance, has cut
+its data center energy usage by 15% by applying its DeepMind AI technology to predict
+the incoming computational load and adjusting its power consumption patterns4. In
+the financial industry, the world’s largest asset manager, BlackRock Inc., is now entrusting more of its USD 5.1T in assets to robot stock pickers to decide what to buy and sell
+instead of human portfolio managers. And car manufacturer Tesla has achieved a 40%
+drop in road accidents with a new AI feature deployed in its cars, compared to models
+without the feature5. Apart from organizations, our own homes are also getting more intelligent. In 2017, 35.6M people in the US will have used a voice-activated assistant device
+at least once a month. That’s a jump of almost 130% over 20166. And we expect numbers
+in Europe and Asia to follow this trend as well.
+With more than 85% of customer interactions predicted to be managed without a human by 20207, the evident business value of AI is attracting the attention of CEOs and
+top managers regardless of industry. That said, while almost all industries have already
+seen major success with AI or have started investing, some are lagging behind. With only
+1.33% of insurance companies investing in AI compared to 32% in software and internet
+technologies, the insurance industry is still lagging behind the world’s AI movement8.
+Executives in insurance, however, are experiencing a particular sense of urgency to act: in
+few other industries is AI’s underlying sustenance – data – as abundant and important as
+in the insurance industry – making the mastery of this area of technology a key competitive differentiator for insurers moving forward into the digital future.
+But how can executives guide their organizations to reap the benefits from AI and exploit
+the benefits that beckon? To enable businesses to move from mystery to mastery, this
+paper presents a set of tools and frameworks that provide key insights into the fundamentals of AI technology, including the inner workings of Machine Learning. We will
+cover the art and science of defining concrete AI use cases and the models of AI value
+creation to deliver top- and bottom-line impact. Moreover, we aim to give an insight into
+the current status of and future outlook for AI use cases that will impact the 300-year-old
+insurance industry as it rapidly approaches disruptive transformation.
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 5
+
+4.6x
+
+projected
+overall spend of
+
+increase of
+AI deals from
+2012 to 2016
+
+$ 47B
+by 2020
+
+35.6M
+people in the
+US will have a
+voice-activated
+assistant in
+2017
+
+1.33%
+
+of insurance companies
+invest in AI in 2016
+
+With a combined funding of USD
+4.8B in 2016, a world in which AI is
+prevalent is no longer mere fiction.
+
+6 |
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 7
+
+2.
+AI is the enabler for
+disruption
+2.1 The future is now – technology-enabled
+innovation in insurance
+Deterioration of traditional profit pools, changing competitor landscapes, technological innovations and changing customer expectations are calling for a new perspective
+on insurance. However, traditional insurance players are often slow to react to the new
+demands and possibilities of the digital era. This opens up the playing field to InsurTech
+startups and Tech incumbents who capitalize on new business models and improved customer experiences. The new players promise and deliver faster claim payments, greater
+price transparency and on-demand policies, while decreasing the cost and the resources
+required (Figure 1). Global VC funding of these new businesses totaled USD 1.7B across
+173 deals in 2016 as compared to USD 0.14B among 28 deals in 2011 – clearly increasing
+the seriousness of competition for traditional insurance players (Figure 1).9
+At the heart of the rise of these new players is the improvement in existing digital technologies and the emergence of new ones. These technologies enable practitioners to
+rethink the 300-year-old insurance industry at every level, from business model to value
+chain and from customer interaction to automation. In reshaping the industry’s datahungry and mostly standardized processes as well as the resource-intensive handling
+of their customer relationships, one technology stands out as particularly promising for
+insurers: Artificial Intelligence. Ninety-five percent of insurance executives intend to start
+or continue investing in AI capabilities in the future10, while investments in AI have already
+increased by 69% between 2011 and 2014, totaling a staggering USD 5B in 2014.11
+
+Ninety-eight percent of insurance
+executives believe that cognitive
+computing will play a disruptive
+role in the insurance industry.
+
+8 |
+
+Figure 1: Value proposition and Venture Capital funding of selected InsurTech startups
+
+Clover
+
+Fabric
+
+Funding: USD 285M
+
+Funding: USD 2.5M
+
+HQ: San Francisco, CA, USA
+
+HQ: Brooklyn, NY, USA
+
+A health insurance startup that leverages AI by
+
+A life insurance startup that uses AI to generate
+
+using data and software to build clinical profiles
+
+quotes for accidental death claims. Simpli-
+
+of people, and identify gaps in care. These gaps
+
+fied processes enable a life insurance sign-up
+
+in care are filled with visits and a free choice of
+
+process in just two minutes. The browser-based
+
+doctor to avoid costly hospital stays.
+
+product is available on tablet, notebook, and
+mobile.
+
+GetSafe
+
+Trov
+
+Funding: Undisclosed
+
+Funding: USD 87M
+
+HQ: Heidelberg, Germany
+
+HQ: San Francisco, CA, USA
+
+An InsurTech startup that takes advantage of
+
+An on-demand property insurance startup in
+
+AI by advising customers on which insurance
+
+which an AI chatbot handles claims. Insurance
+
+policies to purchase and by collecting relevant
+
+can be started immediately via an app to cover
+
+information. GetSafe also provides customers
+
+damage, loss, and theft. Like dating apps, cus-
+
+with an app to manage all their insurance poli-
+
+tomers can swipe insurance on their valuables
+
+cies in one place.
+
+on or off.
+
+Lemonade
+Funding: USD 60M
+HQ: New York, NY, USA
+A property and casualty peer to peer insurance
+that uses AI-powered claims analysis. Eighteen
+anti-fraud algorithms are run on image and
+video claims information from the customer
+and a response is given to within minutes.
+At Lemonade, small insurance groups pay a
+fixed fee into a claims pool. Surpluses from the
+claims pool go to chosen common causes or
+back to the peers.
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 9
+
+2.2 Data is the new currency –
+the importance of AI to win in a
+“datafied” world
+One key reason why AI will prove to be crucial is the everincreasing “datafication” of business interactions, private life,
+and public life. In the age of digitalization, more and more
+data is being collected – by organizations, governments,
+households, and individuals. Already today, 2.5M terabytes of
+
+The success of using data to one’s advantage therefore
+depends on the appropriate tools to process it – and this is
+where AI comes in. By intelligently and independently sifting
+through huge amounts of data with powerful algorithms, AI
+goes beyond “just” data analytics in generating novel insights
+and automating repetitive tasks. AI thereby offers great opportunities for optimizing existing and enabling new procedures, giving a competitive edge to businesses today and in
+the future.
+
+data are created every day.13 That quantity is due to increase
+
+However, understanding how AI and more specifically Ma-
+
+exponentially on account of new sources like sensors on
+
+chine Learning turns data into knowledge and action and how
+
+property and machines, connected devices, mobile devices,
+
+this relates to hyped topics, such as chatbots or robo-advi-
+
+and digitalization of processes, together with customers’ in-
+
+sors, can be challenging. To be able to leverage AI effectively,
+
+creasing willingness to share personal information – provided
+
+organizations need to combine a technological view with a
+
+they receive a benefit in return (Figure 2).14
+
+business view – in other words, an understanding of what is
+
+An “arms race” has begun as to who can gather the most data
+in an effort to achieve a competitive advantage. However, the
+
+technologically feasible today with an understanding of how
+AI can create value for an organization.
+
+data must be meaningfully processed to access its value, as
+illustrated by the following quote of a Chief Underwriting
+Officer (EMEA): “We have a lot of data but the question
+remains what to do with it.”15
+
+Figure 2: Proportion of customers who would be willing to track their
+behavior and share this data with insurers for a more accurate premium
+
+49%
+
+11%
+
+45%
+
+17%
+
+38%
+
+14%
+
+No
+
+Don‘t know
+
+40%
+
+38%
+
+48%
+
+HEALTH
+
+HOME
+
+MOTOR
+
+Yes
+
+10 |
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 11
+
+3.
+AI technology is poised
+to make a difference
+3.1 Don’t believe the sci-fi movies –
+where AI stands today
+Recent quotes like the one by Stephen Hawking below are often used as eye-catchers,
+but tend to portray a negative picture of an almighty AI. Despite the speed of AI developments today, the current status of the field by no means resembles a villainous, freewilled AI as portrayed in science fiction movies. Instead, AI has slowly but steadily begun
+to affect our lives by facilitating many of our everyday tasks and activities, from scheduling meetings, to selecting movies, to driving cars.
+The type of AI often feared in the media is referred to as Artificial Superintelligence
+(ASI) – an omnipotent AI that significantly outperforms its human counterparts in any
+area or task. In contrast, an AI matching humans’ capabilities and ways of thinking is
+referred to as Artificial General Intelligence (AGI). However, both ASI and AGI are still a
+long way from today’s reality.
+
+STEPHEN
+
+HAWKING
+
+The rise of powerful AI will
+be either the best or the worst
+thing ever to happen to humanity.
+We do not know which.
+
+12 |
+
+Figure 3: How smart is Artificial Intelligence?17
+
+INTELLIGENCE
+
+Superintelligence
+
+ASI
+
+Narrow level
+
+ANI
+
+Today
+
+General/human level
+
+AGI
+
+2030
+
+2060
+
+EMERGENCE
+
+The state of AI feasible today is referred to as Artificial
+
+the human champion of the Chinese board game Go. Yet, the
+
+Narrow Intelligence (ANI) (Figure 3). ANI has seen a recent
+
+same ANI would be unable to learn how to play chess, even
+
+boom in applications – enabled predominantly by exponential
+
+though chess is significantly less complex than the game of
+
+increases in available processing power paired with advances
+
+Go.16
+
+in gathering, storing, and transferring data. However, each
+ANI is still only able to complete very narrow, clearly defined
+tasks within one application area and unable to build on its
+
+Underlying the applications of ANI are a multitude of instruments rooted in data science – the most important one being
+Machine Learning (ML). In contrast to traditional program-
+
+capabilities to learn tasks outside this application area. In a
+specific task, however, an ANI can become as good as or better than any human – as illustrated by Google’s ANI that beat
+
+ming and data science, an ML algorithm learns the transformation rules to create a desired output based on a given
+input by itself (Figure 4).
+
+Figure 4: Difference between traditional programming and machine learning
+
+Input
+
+&
+
+Transformation
+rules
+
+Output
+
+Input
+
+&
+
+Output
+
+Transformation
+rules
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 13
+
+Figure 5: Machine learning training types18+19
+
+Supervised
+Learning
+
+Unsupervised
+Learning
+
+Reinforcement
+Learning
+
+is a method of training an algo-
+
+is a method of training an algo-
+
+is a method of training an
+
+rithm on labeled data, meaning
+
+rithm on unlabeled data, meaning
+
+algorithm on unlabeled data
+
+that parts of a document are
+
+the algorithm identifies concepts
+
+where the output is rated by the
+
+“tagged”. For example, in a con-
+
+and derives conclusions entirely
+
+researcher as either correct or in-
+
+tract, items like the contract par-
+
+on its own. For example, in the
+
+correct. Over time, the algorithm
+
+ties’ street, postal code, etc. may
+
+Google Brain project an algorithm
+
+can produce the correct output
+
+be tagged to enable the algorithm
+
+learned to detect faces and cats
+
+based on learning from reinforce-
+
+to identify addresses in contracts
+
+in videos by clustering common
+
+ment of correct answers and pun-
+
+by knowing which elements con-
+
+structures (without knowing the
+
+ishment for incorrect ones. For
+
+stitute an address and where to
+
+definition of a cat or face prior to
+
+example, an algorithm learned
+
+look for them. Supervised learn-
+
+analysis).
+
+to play Super Mario by reinforce-
+
+ing is the most common method
+
+ment, being punished for “dying”
+
+for training ML algorithms today.
+
+in the game and reinforced for
+“surviving” and collecting points.
+
+The ML algorithm learns the transformation rules by itera-
+
+A human would require no more than a handful of pictures
+
+tively reducing the deviation between the created and the
+
+to learn the same skill. However, unlike humans, ML is un-
+
+desired output – a process referred to as training. While
+
+able to make abstractions and inferences from only a few
+
+different forms of training exist, today’s most prominent form
+
+data points. Over time, as the amount of data processed by
+
+of training is the so-called supervised learning – a method
+
+the algorithm increases, predictions become more accurate.
+
+requiring large amounts of labeled data to train the algorithm
+
+Facebook’s “Deep Face” can identify a specific face with 97%
+
+(Figure 5).
+
+accuracy, which equals human ability.
+
+Facebook’s facial recognition for example, an image recognition ML algorithm20 independently learned how to identify
+and detect human faces. This nine-layer neural network was
+trained with four million images of faces of 4,000 individuals, meaning the algorithm was exposed to 1,000 different
+pictures of each person in order to enable the algorithm to
+be able to reliably identify the specific person among others.
+
+14 |
+
+3.2 Machine Learning is not the
+full picture – understanding AI
+applications
+Typically, an AI can either be trained from scratch using a
+Machine Learning framework, such as Google’s TensorFlow
+or Apache Spark’s MLlib, or be bought as a pre-trained model.
+These pre-trained models are typically specialized in a certain
+area such as voice or image and video recognition, text analytics, biometrics, sentiment detection or decision management (Figure 6).
+
+a wearable such as headphones. It will soon be possible to
+integrate Alexa into any external app or website to enhance
+it with a natural language layer. Capital One has built a skill
+for Alexa, which can be activated in the Alexa app, to enable transactions and account balance checks using voice
+commands. A customer can ask Alexa about their account
+balance (speech input); Alexa then analyzes the intent of the
+question, connects to the customer’s Capital One account
+(database) to retrieve the account balance, and presents the
+answer in spoken natural language to the customer (speech
+output) (Figure 7). An AI application includes not just the
+underlying ML algorithm but also retrieving relevant informa-
+
+For example, Amazon’s Alexa is already trained to understand
+
+tion from a database and presenting it through an interface
+
+several languages. Companies can build certain “Alexa skills”
+
+to the user.
+
+that are then integrated in the Alexa app, Amazon Echo, or
+
+Figure 6: Exemplary list of pre-trained AI models
+
+1.
+Speech/voice
+recognition
+
+2.
+Sentiment
+detection
+
+3.
+Recommendation
+engine
+
+Understand and interpret the
+
+Detect and analyze emotions in
+
+Interpret results and recommend
+
+spoken word. For example, Pop
+
+the written or spoken word. For
+
+appropriate actions. For example,
+
+Up Archive automatically tags, in-
+
+example, Beyond Verbal e
+ xtracts
+
+Zendrive uses sensor data on
+
+dexes and transcribes a
+ udio files
+
+emotions from raw voice clips in
+
+smart­phones to analyze driving b
+ e-
+
+with speaker d
+ etection.
+
+real time.
+
+havior and re-commend behavior
+changes.
+
+4.
+Text analytics
+and NLP
+
+5.
+Pattern/
+anomaly detection
+
+6.
+Automatic decision
+management
+
+Understand and interpret written
+
+Detect patterns and anomalies to
+
+Derive and automatically apply
+
+text and whole documents. For
+
+derive conclusions. For example,
+
+rules and logic in AI systems. For
+
+example, x.ai’s personal assistant
+
+Cyence models cyber riskbased
+
+example, Boomtrain enables auto-
+
+Amy“reads” emails to find sched-
+
+on human and m
+ achine data
+
+matic,personalized marketing b
+y
+
+uling related information to b
+ ook
+
+cluster analysis.
+
+targeting only s pecific customers.
+
+meetings in t he user’s c alendar.
+
+4.
+Natural Language
+Generation (NLG)
+
+5.
+Object detection
+
+6.
+Biometrics
+
+Interpret and analyze objects
+
+Uniquely identify a person or
+
+Generate and deliver information
+
+shown on images or in video. For
+
+measure and interpret human
+
+in natural language. For example,
+
+example, Nauto uses video analy-
+
+physical states (such as emotion or
+
+Narrative Science offers easy-to-
+
+sis to offer guidanceand insights
+
+intent) from biological character-
+
+understand reports in n
+ atural
+
+to driversin real time.
+
+istics, such as f acial structures or
+
+language b
+ ased on c ompany d
+ ata.
+
+heart rate. Forexample, Bionym
+enables authentication through
+cardiac rhythm measured by a
+wristband.
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 15
+
+Figure 7: Simplified demonstration of communication transfer between AI and users
+
+User
+
+Text
+Images
+Speech
+etc.
+
+Text
+Images
+Speech
+etc.
+
+App
+Website
+Robot
+etc.
+
+AI application
+
+Cloud solution,
+Company server
+etc.
+
+Machine Learning Models
+
+Speech/voice recognition
+
+Sentiment detection
+
+Text Analytics/
+Natural Language Processing
+
+Pattern/anomaly
+detection
+
+Natural Language
+Generation
+
+Recommendation engine
+
+Object recognition
+
+etc.
+
+16 |
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 17
+
+4.
+Apply our Use Case Formula to
+leverage AI in your business
+4.1 Know what you want – the importance of
+defining a specific use case
+The wide array of possible AI applications is appealing for businesses, yet the extremely
+narrow nature of today’s AI applications is severely complicating the identification of a
+relevant starting point. As a result, almost 40% of practitioners who have not yet invested
+in AI don’t know what AI can be used for in their business.22 In order to exploit relevant
+opportunities, businesses must face the challenge of identifying concrete use cases for AI.
+In contrast to the purely technological view on AI applications, which focuses on the ML
+model and interface (see Figure 7), an AI use case describes the underlying technology
+and observable functionality from the perspective of the user and the resulting value. A
+use case hence represents the business view of an AI application.
+
+Almost 40% of practitioners
+who have not yet invested in
+AI don’t know what AI can be
+used for in their business.
+
+18 |
+
+4.2 Apply the magic Formula –
+the three dimensions of a Use
+Case Formula
+
+Using these three dimensions, a use case can be described
+
+We reviewed publicly available information on nearly 200 AI
+
+First and foremost, a use case must serve a functionality.
+
+vendors of ML models and AI applications and categorized
+
+The spectrum of possible functionalities includes an inform-
+
+them according to their predominantly deployed ML models
+
+ing, recommending or deciding AI solution in a business
+
+(Figure 8). By determining the fundamental characteristics
+
+process. Within each of these categories, many applications
+
+that differentiate one use case from another, we have identi-
+
+are already feasible today, but even more will emerge as AI
+
+fied three distinctive dimensions. These dimensions encom-
+
+technology continues to develop.
+
+based on our Use Case Formula: Do x (functionality) based on
+y (data) in order to address z (need). Figure 9 describes the
+formula with the content of each part in detail.
+
+pass the functionality, input data and addressed customer
+need of an AI application.
+
+Leading Vendors
+
+Figure 8: Dataset of 187 leading AI vendors categorized according to predominantly deployed ML models
+
+VENDORS OF SINGLE ML MODELS OR APPLICATIONS
+BASED ON SINGLE ML MODEL
+Speech/voice recognition
+Sentiment detection
+
+3
+1
+
+Recommendation engine
+
+31
+
+Text analytics and NLP
+
+26
+27
+
+Pattern/anomaly detection
+19
+
+Automatic decision management
+Natural Language Generation
+
+4
+19
+
+Object detection
+Biometrics
+
+4
+
+VENDORS OF COMBINED ML MODELS OR APPLICATIONS
+BASED ON COMBINED ML MODELS
+Two dominant ML Models
+Three dominant ML Models
+
+43
+10
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 19
+
+In performing any of these functionalities, the AI application
+
+In order to derive tangible business value from a use case, a
+
+can either serve an internal customer, such as an employee,
+
+third ingredient must be included in the Formula: customer
+
+or an external customer, such as an end user. For example,
+
+and organizational needs. A use case must always address
+
+the KLM chatbot on Facebook Messenger informs external
+
+and resolve a user need in order to create value.
+
+customers about their flight status or issues their boarding
+pass. In contrast, KIA uses sentiment analysis of customer
+feedback on social media sites to inform internal marketing employees of the success or failure of an advertising
+campaign.
+
+Organizational needs can include becoming more efficient or
+keeping knowledge within the company. (External) customer
+needs refer to, for example, more personalized communication with customer service agents or receiving an affordable
+product price.
+
+The second ingredient necessary to define a use case is data.
+Without high quantity and quality of data, it is impossible
+to get an AI application up and running. In fact, for modern
+data-hungry ML models, performance is more dependent on
+the quantity and quality of the data than the algorithm doing
+the learning, partially because many ML models are available
+as open source, such as Google’s TensorFlow or the popular
+Scikit-learn.
+
+To define concrete use cases for AI, all three ingredients need
+to be combined into the Use Case Formula, thereby organizing all crucial characteristics and information about a use case
+in a relevant structure. The categories of possible “input values” provided for each ingredient of the Formula outline the
+comprehensive playing field for AI applications, whereas the
+examples given in each category may need to be extended
+and adjusted to a specific industry. Practitioners can analyze
+
+There are four data types that can act as input for a ML
+
+existing case studies or brainstorm novel use cases by refer-
+
+model: company data, such as call logs or manuals; public
+
+ring to the Use Case Formula’s three dimensions and possible
+
+data, such as Wikipedia or other open source content free to
+
+“input values” in each dimension.
+
+use without permission; third-party data, such as Facebook
+user profiles, which can’t be used without permission; and
+lastly customer data, such as data gathered through sensors
+at home or in a car.
+
+For analysis purposes, the Use Case Formula can be applied
+to abstract an underlying AI use case from e.g., a media report about a business successfully leveraging AI by synthesizing the most relevant information into a pointed use case
+
+Depending on the data type used, time and effort must go
+into preparing and cleaning appropriate training sets. AI applications are not limited to run on structured data but can
+also process unstructured data, which accounts for about
+80% of today’s data.24 For example, Facebook leverages a
+combination of structured user profile data and unstructured
+public data, including e.g., news sources, to help eliminate
+fake news.25
+
+definition.
+For ideation purposes, practitioners can play through different meaningful combinations of the “input values”, keeping in
+mind that not all combinations are feasible or valuable today
+and interdisciplinary expert advice should be sought in the
+process.
+Once a valuable use case is identified, it can be effectively
+communicated using the Use Case Formula.
+
+PETER
+
+NORVIG
+
+|
+
+RESEARCH
+
+DIRECTOR
+
+AT
+
+GOOGLE
+
+We don’t have better algorithms,
+we just have more data.
+
+20 |
+
+Figure 9: The Use Case Formula and its three dimensions
+
+“Do x (functionality) based on y (data)
+For example, Spotify recommends new artists and songs (functionality)
+based on previously played genres/artists (data) in order to make
+relevant content easily and quickly accessible to users (need).
+
+Functionality
+
+Input data
+
+Inform
+
+Recommend
+
+Decide
+
+Company
+
+Public
+
+Provide insights based
+
+Advice on appropriate
+
+Perform actions based on
+
+Product literature
+
+Wikipedia
+
+on one or a combination
+
+actions based on insights
+
+derived implications from
+
+of several data sources
+
+generated from pro-
+
+processed data sources
+
+Manuals/specifications
+
+Industry definitions
+
+(manuals, sales data, etc.)
+
+cessed data sources (user
+
+(user behavior, customer
+
+Guidelines
+
+Open source content
+
+behavior, public historic
+
+emails, voice commands,
+
+data, etc.)
+
+etc.)
+
+Procedures/policies
+
+Regulatory guidelines
+
+cluster customer seg-
+
+Common recommend-
+
+Common deciding ap-
+
+Journals
+
+Images
+
+ments, evaluate customer
+
+ing applications are e.g.,
+
+plications are e.g., adjust
+
+Best practices
+
+Type systems
+
+behavior, predict disease
+
+suggest new products
+
+prices in real time, send
+
+outbreak, etc.
+
+to customers, prescribe
+
+emails to customers,
+
+FAQs
+
+etc.
+
+medical treatment plans
+
+schedule meetings, trans-
+
+for patients, guide cus-
+
+fer money, etc.
+
+Common informing applications are e.g.,
+
+tomers through the product selection process, etc.
+
+Certification tests
+Brochures
+Call logs
+Images
+Client profiles
+Usage data
+Sensor data
+etc.
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 21
+
+in order to address z (need).”
+
+Customer and
+organizational needs
+Third-party
+
+Customer
+
+Product
+
+Communi­cation Operations
+
+Subject matter domain
+
+Feedback data
+
+Offering
+
+Channel
+
+Processes
+
+Smart home data
+
+Adequate to fulfill needs
+
+Reachable through any
+
+Efficient use of time and
+
+of customers
+
+channel
+
+money
+
+Personalized to individual
+
+Continuous interaction
+
+Accurate processes with-
+
+customers
+
+across channels
+
+out mistakes
+
+Available at any given
+
+etc.
+
+Engaging tasks for em-
+
+content
+News feeds
+Market data
+Business reports
+Industry intelligence
+Risk analysis
+assessments
+Industry definitions
+Images
+Taxonomy/ontology
+Market data
+etc.
+
+Driving behavior
+Fitness/health records
+Sensor data
+etc.
+
+time
+etc.
+
+Touchpoints
+Trustworthy customer
+
+ployee
+etc.
+
+Cost
+
+service
+
+Resources
+
+Affordable product price
+
+Helpful problem-solving
+
+Effective resolving of
+
+and solution recommen-
+
+problems and fulfilling
+
+dations
+
+tasks
+
+Personal service and
+
+Knowledgeable employ-
+
+conversations
+
+ees
+
+Timely responses and
+
+etc.
+
+Transparent cost structure
+etc.
+Convenience
+Intuitive interface and
+use of product
+Flexible use rates of
+product
+Private use of data
+Fast product delivery
+etc.
+
+help
+etc.
+
+22 |
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 23
+
+5.
+AI creates tangible business
+value in four distinct ways
+5.1 Know where to start – four models
+of value creation for AI
+The Use Case Formula provides the required generic structure for defining and describing AI use cases. However, it does not specify where to begin looking for use cases or
+the context in which to place a use case. Having reviewed close to 200 vendors and their
+clients, we found that a comprehensive overview of the AI value landscape in a business
+context can be achieved by mapping AI use cases in a 2x2 matrix according to their type
+of result and type of impact. This overview clusters use cases based on the type of value
+created and can serve to define a starting point and context (Figure 10) for AI use cases.
+
+ANDREW
+
+NG
+
+|
+
+FOUNDER
+
+OF
+
+GOOGLE
+
+BRAIN
+
+Even though a lot of the buzz in AI has
+been around large tech companies,
+if you look across an entire economy,
+really any Fortune 500 company can
+create a lot of value with AI as well.
+
+24 |
+
+Figure 10: The AI value map – four areas of value creation
+
+TYPE OF RESULT
+Primary output of the AI solution, e.g., answer or action
+
+Unknown
+Solution generates a
+new result previously
+not known to exist
+
+Known
+Solution replicates one
+(or several) results from
+a set of predetermined
+results
+
+Operations discovery
+
+Customer discovery
+
+Ability to discover novel answers
+or actions that serve to improve
+speed and accuracy of internal
+processes/decisions
+
+Ability to discover novel answers
+or actions that serve to improve
+customer conversion and loyalty
+
+Examples: Process mining,
+scenario planning
+
+Examples: Market segmentation,
+product development
+
+Operations efficacy
+
+Customer efficacy
+
+Ability to produce intended
+answers or actions that serve to
+improve speed and accuracy of
+internal processes/decisions
+
+Ability to produce intended
+answers or actions that serve to
+improve customer conversion
+and loyalty
+
+Examples: Customer service
+automation, fraud detection
+
+Examples: Recommendation
+systems, pricing automation
+
+Bottom-line
+Cost reductions
+
+Top-line
+Revenue Increases
+
+TYPE OF IMPACT
+Primary intended ﬁnancial contribution of the AI solution
+
+Eﬃcacy = ability to produce a desired or intended result
+Top-line = measure of revenue or gross sales
+Bottom-line = measure of net income
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 25
+
+The type of result axis distinguishes whether an AI applica-
+
+and reliability improvements. Top-line improvements are real-
+
+tion produces unknown or known results. The replication of
+
+ized through increases in revenue, such as reduced customer
+
+known results matches input with a predetermined set of
+
+churn or improved customer lifetime value. Combining the
+
+answers or actions, e.g., a chatbot tries to understand the
+
+two dimensions, four areas for value creation with AI emerge.
+
+intent of the customer and retrieves the most appropriate
+of a set of existing answers from a database. On the other
+hand, the generation of previously unknown results creates
+new insights and answers. These generative algorithms are
+capable of things such as identifying new criteria based on
+which they can more effectively segment customer groups or
+
+Notably, many real-world use cases can create value in more
+than one of the four value areas – particularly if they evolve
+over time. The categorization into the four areas, however,
+helps to define a clear starting point as well as to sharpen the
+focus for the primary intent of an AI application.
+
+design completely new products based on only a few given
+parameters.
+The type of impact axis distinguishes whether an AI application delivers financial impact on the top or bottom line.
+Bottom-line improvements are achieved through reduced
+costs, e.g., reduced need for highly qualified staff or quality
+
+JUERGEN
+
+MUELLER
+
+|
+
+CIO
+
+OF
+
+SAP
+
+Recruiters spend 60% of their
+time reading CVs. Why should
+a person read 300 resumes if a
+machine can propose the top 10?
+
+26 |
+
+5.2 Operations efficacy
+AI applications reproducing known results with the primary intention to create bottomline impact enable operations efficacy, e.g., by automating repetitive tasks, identifying
+fraudulent behavior, or making knowledge accessible in real-time. For example, JP Morgan has been able to save 360,000 work hours by automating part of their lawyer work by
+leveraging an operations efficacy application.
+
+JP Morgan
+Machine Learning System COIN autonomously reviews and interprets commercial loan agreements.
+Value: Saved 360,000 hours of lawyers’ and loan officers’ work with
+an AI that needed only seconds for the same work and decreases
+susceptibility to error.
+
+5.3 Customer efficacy
+Top-line impact can be delivered through AI applications targeted at customer efficacy
+by employing AI to perform actions that are known to increase customer satisfaction and
+consequently conversion and loyalty. Such tasks include in particular sales, marketing,
+and pricing automation, as illustrated by the case study of The North Face.
+
+The North Face
+The North Face leverages IBM’s Watson as a personal shopping
+assistant in their online shop to recommend products in natural
+language based on qualifying questions about location, temperature,
+etc.
+Value: The solution supports customers in finding the right product
+in a fast and convenient manner and has yielded an increase in clickthrough rates to 60%.
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 27
+
+5.4 Operations discovery
+AI applications for the generation of unknown results with the primary intention to deliver bottom-line impact enable operations discovery. Such applications may e.g., discover
+new insights about process inefficiencies or cost drivers and serve to increase quality or
+time and cost effectiveness. By implementing such a maintenance expert system, Korean
+Air has been able to reduce maintenance lead times by 90%.
+
+Korean Air
+An expert system that discovers previously hidden relationships and
+interdependencies in maintenance issues to solve problems faster.
+Value: Reduced the number of flight delays and cancellations
+caused by maintenance issues and shortened its maintenance lead
+times by 90%.
+
+5.5 Customer discovery
+Alternatively, top-line impact can be delivered through AI applications targeted at customer discovery, i.e., discovering new insights, actions or products that serve to strengthen the relationship with the existing customer or the acquisition of new customers. Such
+tasks can include e.g., the discovery of novel criteria for successful customer segmentation or data-driven product development, as illustrated by the case study of Netflix.
+
+Netflix
+Netflix leverages AI to tag its movie content, allowing for a detailed
+analysis of play-and-search data, giving Netflix an understanding of
+what a user really likes about a movie. Netflix combines the usage
+data with metadata and ecosystem data, such as what is trending
+in the news, in order to identify success criteria for original content
+production.
+Value: Netflix’s original content rates 11% higher than its licensed
+content, yielding increased customer engagement and reduced
+churn.
+
+28 |
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 29
+
+6.
+Insurers have yet to unlock
+the full potential of AI
+In view of the fact that businesses across industries are reaping real benefits from AI,
+it is uncontested that AI will also be a key enabler for insurance businesses to equip
+themselves for the challenges and opportunities of their digital future. High labor costs,
+regulatory requirements, intensifying competition with InsurTech startups, and changing
+customer expectations are just some of the issues that can be addressed by leveraging
+AI. Yet, the insurance industry is lagging behind tapping into AI’s potential compared to
+other industries such as life sciences, retail, and manufacturing.26 By looking at the insurance value chain (see Figure 11), it becomes clear that there are numerous entry points
+and possibilities. In order to obtain an overview of the industry’s current status quo and
+put one’s own efforts as well as future value options into perspective, we analyzed the
+insurance industry based on our value framework in the upcoming chapter.
+
+The insurance industry is lagging
+behind tapping into AI’s potential
+compared to other industries such as
+life sciences, retail, and manufacturing.
+
+30 |
+
+Figure 11: Potential AI use cases for the insurance value chain
+(illustrative selected examples, technology’s state of the art could be less advanced)
+
+Insurance
+Value Chain
+
+Product
+development
+
+Marketing &
+sales
+
+Underwriting &
+risk-rating
+
+Text analytics & NLP
+
+Scan and structure existing policies and product descriptions to
+develop future products faster
+and more efficiently
+
+Analyze customer feedback based
+on support calls & social media
+posts to develop new marketing
+campaigns
+
+Scan for ambiguities and rate
+risks in insurance applications
+based on claims to detect fraud
+faster
+
+Pattern/Anomaly
+detection
+
+Derive patterns for new products
+based on customer feedback
+analysis in to create more targeted products
+
+Identify customer segments for
+personalization based on cluster
+analysis of feedback to target
+specific customer groups
+
+Predict premiums based on past
+risk assessments to make risk
+assessment more precise
+
+Recommendation
+engine
+
+Analyze customer buying behavior based on sales data following
+product recommendations to
+improve offerings
+
+Provide new sales leads based
+on social media and purchase
+data in order to gain new customers
+
+Suggest risk categories for customers based on previous claims
+and events to prevent human
+errors
+
+Conversational
+service solutions
+
+Use feedback data based on customer conversations with virtual
+service agent to improve future
+products
+
+Use virtual sales agent to consult
+and accompany the sales process
+in order to achieve higher sales
+targets
+
+Use a chatbot to lead risk related
+conversations based on natural
+language data base to obtain
+specific facts from customers
+
+Speech
+recognition
+
+Identify customer pain points
+with products through speech
+analytics of feedback to improve
+future products
+
+Analyze customer speech – emotion detection included - based
+on lead calls in order to improve
+personalization
+
+Detect fraud based on voice
+analysis of customer calls in order
+to improve security measures
+
+Image and video
+analysis & facial
+recognition
+
+Analyze customer emotions and
+reactions based on customer
+interview videos to test new
+product
+
+Recommend marketing messages
+for promotion videos based on
+public video analysis to improve
+marketing effectiveness
+
+Predict risk based on image/vide
+analysis to improve accuracy
+
+Natural language
+generation
+
+Generate new policy descriptions
+for new products based on past
+documents to increase operations efficiency
+
+Generate marketing messages in
+various styles based on public advertisements to improve targeting
+
+Generate reports and written
+documents based on internal
+reports to improve operations
+efficiency
+
+Potential use case: Lead management
+
+Potential use case: Fraud analytics
+
+AI can provide support in pointing out positive leads to both
+
+Annual fraud-related costs in the insurance industry are
+
+sales and marketing by pulling value from respective data and
+
+estimated to add up to billions of euros and an estimated
+
+indicating potential quality leads that might not have been
+
+amount of 10% of their overall claims expenditure. AI can
+
+considered before. Insurance firms can achieve competi-
+
+be used to, e.g., assist insurers during the claims handling
+
+tive advantage by additionally enriching internal data with
+
+process by querying the asserted events of an incident: If a
+
+a multitude of sources e.g., information from social media
+
+driver involved in a car accident indicates it was raining at the
+
+campaigns or weblog clickstreams. AI can also deliver ad-
+
+time of the event, negatively impacting his braking distance,
+
+ditional value in offering personalized content by predicting
+
+AI can check weather reports to confirm whether this was the
+
+e.g., potential spend, suggested campaigns, and personalized
+
+case. If a policyholder’s assumed conditions are invalidated
+
+products for cross- and upsell to maximize sales and new
+
+by the AI’s searches, this indicates that the claim could be
+
+revenue. The personalized lead interaction with AI can also
+
+fraudulent; the system can thus appropriately flag the case
+
+be applied in call centers.
+
+for further investigation by a human insurance agent.
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 31
+
+Customer
+servicing
+
+Claims
+management
+
+Financial
+assets
+
+Operations
+
+Generate structured feedback
+reports based on customer
+support requests to save time
+& costs
+
+Generate structured data sets
+based on claims reports to process claims faster
+
+Detect opportunities and issues
+early on based on analysis of news
+and social media data to improve
+timely reactions
+
+Transform process descriptions
+into structured data that can be
+analyzed to track effectiveness of
+processes
+
+Provide automatic matching of answers to customer inquiries based
+on past customers questions in
+order to automate service
+
+Validate claims by checking
+external data sources e.g., weather
+reports for validation to save costs
+of wrong evaluations
+
+Integrate robo advisory into portfolio decisions based on automatic
+market analysis to detect market
+anomalies faster
+
+Predict process workload based
+on historical data in order to
+prevent bottlenecks
+
+Provide issue solving recommendations to customers based
+on clustered historical service
+data to save time
+
+Recommend template for incoming claims based oWn historical
+similar claim reports to process
+claims more effectively
+
+Integrate robo advisory into portfolio decisions based on automatic
+market analysis to recommend
+financial actions and decisions
+
+Recommend suitable candidates
+based on social network data
+to improve future recruiting
+purposes
+
+Integrate virtual agent onto
+customer service platform based
+on product and service data to
+improve customer experience
+
+Provide chatbot interface for
+claims reporting based on natural
+language base and historical claims
+data in order to improve efficiency
+
+Supply internal, digital personal assistant based on financial data for
+employees to look up specifics
+
+Supply internal, digital personal assistant for scheduling of meetings
+to improve internal efficiency
+
+Improve customer communication directly based on emotion
+detection during customer calls to
+improve service
+
+Automatic text production of
+speech claims including emotions
+and behavior based on phone calls
+in order to improve efficiency
+
+Analyze important investor calls of
+financial asset providers to detect
+potential issues early on
+
+Produce automatic protocols
+and key results based on spoken
+word during meetings in order to
+improve efficiency
+
+Analyze customer emotions during service calls based live audio
+feeds to improve communication
+with customers
+
+Define damage severity based on
+photos taken by customers during
+claims reports to improve speed
+and convenience
+
+Inform market forecasting by
+evaluation news reports based
+on public sources to improve
+forecasting accuracy
+
+Warn employees of workplace incidents based on security camera
+feeds to improve workplace safety
+
+Generate customer emails as
+responses based structured input
+data to optimize workload for
+employees
+
+Generate automatic claim reports
+based on structured data to optimize workload for employees
+
+Generate investor financial
+reports based on structured
+input to optimize workload and
+consistency
+
+Generate internal company
+information material and blog
+entries based on structured input
+to increase transparency
+
+Potential use case: Automated input management
+
+Potential use case: Intelligent virtual assistants
+
+One use case to use the steadily growing amount of available
+
+Companies have used chatbots for customer service for a
+
+data for insurance companies is automated input manage-
+
+number of years, typically to replace or assist live agents in
+
+ment, including input recognition, clustering and routing.
+
+call centers for first level support or as an alternative to point-
+
+By using Artificial Intelligence, it is possible to design a more
+
+and-click interfaces for customers visiting websites. With the
+
+efficient input management that avoids subsequent manual
+
+advances in Natural Language Understanding and Processing,
+
+work and that is able to learn from previous events. The new
+
+this technology is now capable of being used in more complex
+
+kind of input management can be divided into three major
+
+customer communication, providing more and more natural
+
+steps: Data Analysis – Data Clustering – Routing. These enable
+
+conversations which rarely differ from those with humans.
+
+the customer interface to route each issue to the right inter-
+
+However, as long as there is no Artificial General Intelligence,
+
+nal contact or solution provider.
+
+customers will be routed to real people when it comes to
+more complex issues.
+
+32 |
+
+6.1 The current status – insurers
+leverage AI for improved efficacy
+Recent efforts by insurers to implement AI have been focused
+on automating repetitive tasks by using AI applications to
+replicate known answers, yielding both top- and bottom line
+improvements. Consequently, leading insurers are already
+achieving operations and customer efficacy through the application of AI.
+
+EXHIBIT
+
+1:
+
+FUKOKU
+
+LIFE
+
+In February 2017, Japanese Life insurer Fukoku
+Mutual Life announced that it has introduced an AI
+application based on IBM’s Watson explorer to boost
+its operations efficacy in medical claims processing.
+
+Operations efficacy
+
+The application is tasked with calculating accurate
+
+Among the most mature applications of AI in insurance is the
+
+pay-outs based on details of the administered
+
+automation of claims handling processes (Figure 12).
+
+procedure, period of hospitalization, medical history
+
+Traditionally, the claims processing department is the most
+labor intensive and therefore the largest cost center for insurers. Meanwhile, work in claims processing is highly standardized and repetitive – and therefore extremely eligible for
+automation through AI. Consequently, there are both great
+incentives and high feasibility for insurers to automate claims
+processing. Typically, insurers’ legacy systems are already
+
+and insurance conditions. The application thus accesses medical certificates, hospital bills, and internal
+claims history files and scans the insurance contract
+for special coverage clauses to prevent payment
+oversights. The accurate pay-out is calculated and is
+submitted to a member of staff who approves and
+then releases the pay-out.
+
+capable of (partially) automated processes in quotation, con-
+
+The application increased productivity by 30% and
+
+tract, and claims. However, the modern AI applications can
+
+yielded improvements in accuracy of pay-outs.
+
+improve content recognition, prioritize more intelligently, and
+
+Fukoku Life expects to see a return on investment in
+
+even increase customer satisfaction by significantly reducing
+
+under two years, realized through annual savings of
+
+response time.
+
+JPY 140M. Additionally, the insurer aims to increase
+
+The Case Study of Fukoku Mutual Life (Exhibit 1) serves to
+illustrate how insurers can reap these benefits from the ap-
+
+customer satisfaction scores through reduced lead
+time of pay-outs.
+
+plication of AI in claims processing.
+
+Figure 12: Selected case studies of AI-enabled
+claims automation
+
+Basler Versicherungen
+use AI to automate parts of their glass damage claims processing including payment transactions.
+
+Zurich UK
+have launched a pilot AI application to automate their injury
+claims processing.
+
+UNDERLYING
+
+USE
+
+CASE:
+
+“Derive and calculate pay-outs based on company
+data (historic claims files, contracts) and third party
+data (medical certificates and hospital bills) in order
+to achieve accurate and efficient claims processing
+and fast pay-outs.”
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 33
+
+Customer efficacy
+Other currently popular AI applications for efficacy gains include
+customer self-service solutions like biometrics authorizations
+and even more prominently chatbots – as a variety of existing
+insurance case studies demonstrate (Figure 13).
+
+EXHIBIT
+
+According to Gartner, by 2019, 40% of enterprises will be using
+
+As early as 2010, American insurer Aetna introduced
+
+chatbots to facilitate business processes using natural-language
+
+their virtual assistant “Ann” to improve their customer
+
+interactions. The advantages of chatbots include standardized
+
+efficacy. Ann was developed by NextIT and primarily
+
+and consistent quality of service, 24-hour service for customers
+
+intended to act as a welcome guide on Aetna’s website,
+
+as well as reduced costs. Beyond business-to-customer applica-
+
+engaging customers and answering login and registra-
+
+tions, chatbots are increasingly being implemented in the insur-
+
+tion questions. Today, Ann helps customers find a
+
+ance industry for internal usage to automate processes in HR,
+
+doctor, estimate the cost of services, answer questions
+
+IT, and operations, or to assist knowledge workers in accessing
+
+about claims, ID cards and more. She answers around
+
+expertise in real-time.
+
+20,000 questions daily and can provide responses in
+
+27
+
+The case study of Aetna (Exhibit 2) gives detailed insights into
+how a chatbot can be set up and trained in order to deliver such
+efficacy gains.
+
+2:
+
+AETNA
+
+written or spoken form, although questions can only
+be asked via text. Aetna has installed a member of
+staff who can check Ann’s answers and enrich them
+whenever necessary. If Ann does not know the correct answer, she directs the customer to a dedicated
+
+Figure 13: Selected case studies of AI-enabled
+customer self-service solutions
+
+customer service agent. The bot has started off with
+achieving high quality responses only 35% of the time
+but has quickly improved to 80% within a year. Ann
+
+EXTERNAL
+
+CUSTOMER-FACING
+
+has enabled customers to resolve issues directly via
+
+APPLICATIONS
+
+the website, without having to call an agent and wait-
+
+Axa
+
+ing in line during specific hours.
+
+have introduced a chatbot on their Health App “Xtra”, which
+advises users on fitness and nutrition tracks, and answers
+questions regarding health goals.
+
+Manulife
+
+UNDERLYING
+
+have introduced a biometrics authorization application that is
+able to identify users based on their unique voice profile.
+
+PNB MetLife
+have introduced a medical chatbot on Facebook Messenger
+that informs users of cancer and heart disease risks and
+
+USE
+
+CASE:
+
+“Answer customer questions based on company
+data (user profiles, product info, doctor database)
+and customer data (text-based customer question
+sets) in order to provide timely, personal, and helpful
+customer service.”
+
+simplifies medical information on these. It can also calculate a
+user’s health quotient by asking the customer questions.
+A review of the current AI landscape reveals that the majority
+
+INTERNAL
+
+CUSTOMER-FACING
+
+APPLICATIONS
+
+Versicherungskammer Bayern
+leverage AI in order to increase the effectiveness of
+their customer service by letting Watson sort and classify
+customer emails.
+
+Anthem
+use IBM Watson to assist doctors with creation of
+treatment plans.
+
+of prominent use cases realized by traditional insurers today,
+are focused on achieving efficacy gains and that these efforts
+are already yielding tangible benefits.
+To keep up with the industry, insurers must continually strive
+to implement and improve their AI efficacy endeavors. Applying the Use Case Formula to analyze the successful AI initiatives of their competitors enables insurers to abstract generic
+AI use cases that can be replicated and serve as a starting
+point for newcomers in the AI space.
+
+34 |
+
+6.2 The future of insurance – insurers have yet to leverage AI
+for discovery
+Large scale AI applications in the area of operations and customer discovery are still rare in the insurance industry today.
+
+Case studies of consumer-led companies leading in the application of AI outside the insurance industry serve as an indicator of what is already technologically feasible today. Analyzing
+their case studies to identify underlying AI use cases can
+serve as valuable starting point for ideation by transferring
+the identified use case into the insurance context.
+
+Leveraging AI to generate new insights in the form of previ-
+
+Operations discovery
+
+ously unknown answers or actions is simply more difficult
+
+In operations discovery, AI can unlock value through novel
+
+to realize from a technological point of view and requires a
+
+insights that lead to cost reductions. In this realm one capabil-
+
+greater amount of creativity.
+
+ity stands out as a key differentiating competitive advantage
+
+However, a few cross-industry players such as Google, as
+well as innovative InsurTech start-ups, such as Lemonade or
+Oscar, have already started invading this area to seize value.
+For example, Oscar, a health insurance and tech company,
+is using claims data to make inferences about which doctor
+performs which procedure at what frequency – enabling them
+to discover narrow specialty areas and consequently refer
+patients deliberately to the right specialist.
+
+for insurance businesses in the future: fast and cost-effective
+product innovation and design. In the era of rapidly evolving
+customer needs and rising product personalization, insurance
+businesses are struggling more than ever to keep pace with
+customer demand in a cost-efficient manner. Reductions in
+lead times and product costs will hence become even more
+crucial in the digitalized future.
+While the application of AI in this realm is still mostly un-
+
+Oscar and other new market entrants are changing the
+rules of the game with customer-centric design, exceptional
+engagement, and cost-effective operations. Although revolutionary in the insurance industry, their business models are
+
+tapped in the insurance industry, the case study of Stanley
+Black & Decker (Exhibit 3) serves as an illustrative benchmark
+for leading edge insurance companies who may begin to
+leverage generative AI solutions for product design.
+
+often inspired by consumer business innovations. As a result,
+insurers who want to lead in their industry beyond the current status, must turn to consumer businesses as a source of
+inspiration.
+
+JEFF
+
+KOWALSKI
+
+|
+
+CTO
+
+AT
+
+AUTODESK
+
+Generative design is a departure
+from the way that we have traditionally done design, but these technologies are not a threat, they’re more
+like superpowers.
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 35
+
+The case study of Stanley Black & Decker demonstrates that
+AI technology is ready to unlock opportunities for shortened
+product creation lead times as well as costs and thereby to
+gain significant bottom and top-line line effects. Although the
+
+EXHIBIT 3: STANLEY
+BLACK & DECKER
+Early in 2017, Stanley Black & Decker, a company
+producing tools for industry and household purposes,
+released a statement that they have been working
+on opportunities to leverage AI in product design to
+decrease time spent on development, thereby yielding
+operations discovery. An AI-powered algorithm helped
+Stanley Black & Decker’s employees to redesign a tool
+for electricians for fixing electrical and telephone lines.
+
+tools manufacturing industry has little in common with the
+insurance industry, the application of the Use Case Formula
+can help to transfer Stanley Black & Decker’s successful AI endeavor into the insurance context. Similarly to Stanley Black
+& Decker, insurers can datafy their product development
+process in order to automate product design. With access to
+diverse data sources as well as a set of pre-defined product
+requirements, AI can design the optimal product for any
+target group or even individual customer – at no incremental
+cost.
+
+Previous tools had been almost 7 kg, which made
+them too heavy for workers. The company used an AI
+enhanced generative design software from Autodesk,
+which designs new products via mimicking nature’s
+evolutionary approach. The algorithm explores all possible product combinations, which can be thousands
+or millions of design choices to find the best one,
+matching a set of user requirements such as light
+weight. The AI learns throughout the process which
+combinations work best and eventually comes up with
+the most effective and efficient design. The human
+designer can then adapt the choice if needed. Generative design may even go beyond human capabilities of
+design creation and therefore not only increase speed
+and reduce the cost of product development but may
+also have a positive impact on product quality and
+desirability.
+
+UNDERLYING
+
+USE
+
+CASE:
+
+“Create new products based on company data (previous product components, product requirements,
+employee feedback data) in order to deliver innovative products to the market faster and at lower cost.“
+
+Potential insurance use case:
+“Design new insurance policies based on company data (e.g.,
+previous policies, customer feedback, claims data), public data
+(e.g., forums, Google search data, demographics statistics)
+and customer data (e.g., smart home, wearables, phone usage) in order to deliver more diverse and tailored insurance
+products to the market faster and at lower cost.“
+
+36 |
+
+Customer discovery
+
+While customer discovery applications of AI are still rare
+
+Within the realm of customer discovery, AI can deliver value
+
+in the insurance industry, the case study of Under Armour
+
+by unlocking revenues through previously unknown insights.
+
+(Exhibit 4) illustrates not only the technological feasibility of
+
+This may be the most game-changing area for insurers to lev-
+
+such applications, but also serves as a benchmark for insur-
+
+erage AI in the future: The rise of self-driving cars, the sharing
+
+ance companies who aim to progress to sustainable business
+
+economy, social brokering, and comparison platforms are just
+
+models.
+
+some of the threats to their traditional profit models insurers
+are facing. It is therefore undisputed that insurers will have to
+identify and unlock new revenue streams and AI may be the
+needed enabler for redefining the business.
+
+SUNDAR
+
+PICHAI
+
+|
+
+CEO
+
+AT
+
+GOOGLE
+
+We’ve been building these incredible capabilities, be it search, the knowledge graph, our understanding of natural language, image recognition, voice recognition, translation. Particularly
+over the last three years, we have felt that with
+Machine Learning and Artificial Intelligence,
+we can do these things better than ever before.
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 37
+
+Under Armour’s case study powerfully demonstrates how
+AI can open up opportunities for completely new, profitable
+business models centered on data and user interactions –
+even for a business with its origin in the sports fashion manu-
+
+EXHIBIT
+
+4:
+
+UNDER
+
+ARMOUR
+
+In a transition from its traditional fashion manufacturing business model towards a data-driven
+business model, Under Armour has partnered with
+IBM to develop “UA Record” - a cognitive coach
+that serves as a personal health consultant, fitness
+trainer and assistant by providing users with timely,
+evidence-based advice regarding nutrition, activity
+and sleep. Under Armour has developed a range of
+wearable devices, including a fitness tracker, heart
+rate monitor chest strap, and smart scales that
+gather user behavior and health data. The coaching
+is based on a comparative model, clustering users
+based on criteria such as age, gender, and activity
+
+facturing industry. Applying the Use Case Formula to the case
+study of Under Armour, the underlying use case can be used
+to transfer this data-driven business model into the context of
+insurance. Like Under Armour, insurers can leverage diverse
+data pools to help customers reduce health risks. However,
+insurers can go one step further by leveraging AI to prevent yet unknown risks in all areas of life: Health, transport,
+household, finances and more. Insurers will then no longer be
+confined to reimbursing materialized risk but instead prevent
+loss events from occurring in the first place. To become an
+effective and trusted assistant in preventing personal loss
+events for the customer, the insurer needs to build a much
+closer relationship – for which the use of AI for meaningful
+analysis of big data will be the enabler.
+
+level in order to provide relevant recommendations
+for users. The model will, over time, be able to tap
+into additional data pools to derive novel connections between e.g., weather and training behavior.
+UA Record not only serves to strengthen customer
+relationships and build emotional connections but is
+also able to collect relevant data from customers to
+cater to needs more efficiently in the future.
+
+Potential insurance use case:
+“Suggest risk prevention measures based on company
+internal data (e.g., customer profiles, claims files), public data
+(e.g., demographic statistics, geographical statistics, financial
+data), customer data (e.g., location tracking, wearables data,
+pictures) and third party data (e.g., Facebook, Instagram) in
+order to increase customer safety.”
+
+A review of applications of AI in insurance reveals that little
+
+UNDERLYING
+
+USE
+
+CASE:
+
+“Recommend sport activities and sleep behavior
+based on company internal data (customer profile, product usage data), customer data (nutrition
+info) and public data (weather) in order to increase
+customer health and determine future needs more
+effectively.”
+
+tangible and meaningful impact is yet created with generative
+solutions in the realm of operations or customer discovery.
+However, selected case studies from consumer-led companies serve to demonstrate that the technological feasibility is
+already given today. To innovate and lead in their industry,
+insurers can turn to state of the art examples in other industries as a source of inspiration – the Use Case Formula can
+help in this endeavor by distilling the most relevant use case
+characteristics to ideate analog insurance use cases.
+
+38 |
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 39
+
+7.
+Act now
+Change is here. It is evident that AI has already begun to create a tangible impact in
+insurance. Looking beyond the insurance industry, however, offers a glimpse into the real
+magnitude of the AI-enabled disruption still to come. AI technology holds the potential to
+fundamentally redefine the industry on all levels – challenging traditional cost structures,
+enabling novel relationships with end-customers and much more.
+For those who are yet to embark on their journey towards an artificially intelligent future,
+the time to act is now. For leaders looking to steer their organizational ships into the
+auspicious waters of AI, the following three principles provide guidance:
+1. Data is the key: Before getting started with any AI use case, it is crucial to determine
+the type, quantity, and quality of data at hand. This will provide you with an initial
+idea for feasible and relevant use cases to pursue. But don’t throw in the towel if your
+business doesn’t have access to the data required to follow through with the use cases
+you envisioned. Consider accessing public data sources or partnering with a business
+that has the data you are looking for. Alternatively, you can develop a strategy to start
+gathering valuable data, e.g., by “datafying” previously analog processes or developing
+a consumer-facing digital product that serves as a “vehicle” to gather user data.
+2. Start small: There is no need to go overboard and start selecting the most complex
+use cases in an attempt to gain as much value as possible. By starting small you can
+release an application faster and then build on it over time. AI applications can be
+iteratively extended to scale, so companies can expand their capabilities and capture
+increasing value over time.
+3. Don’t be afraid of failure: AI projects can be particularly challenging in that they need
+to tackle the social stigmatization of the technology, require interdisciplinary collaboration and bear high cost and time investments. In order to succeed, it is crucial to accept
+failure as an integral part of innovation that contributes to organizational learning.
+Only by adopting a “fail fast, fail early” mindset, can time and cost investments be kept
+in check.
+
+What steam power has been to industrial manufacturing, Artificial Intelligence will be to insurance. Ask
+yourself this question: What would have happened
+to your manufacturing business after 1800 if you had
+never used steam? True innovators are those who
+look into the future and act before it arrives!
+
+40 |
+
+Our team
+
+Nikolay Kolev
+
+Jost Geimer
+
+Marc Stiller
+
+Partner, Deloitte Digital
+
+Senior Manager, Deloitte Digital
+
+Senior Consultant, Deloitte Digital
+
+nkolev@deloitte.de
+
+jgeimer@deloitte.de
+
+mstiller@deloitte.de
+
++49 89 29036 7896
+
++49 89 29036 7672
+
++49 89 29036 7609
+
+Esther Daweke
+
+Luisa Butzmann
+
+Consultant, Deloitte Digital
+
+Business Analyst, Deloitte Digital
+
+edaweke@deloitte.de
+
+lbutzmann@deloitte.de
+
++49 89 29036 7875
+
++49 89 29036 6993
+
+Contributors
+Sascha Bauer
+
+Fabrice Wegner
+
+Thomas Viehmann
+
+Senior Manager,
+
+Manager,
+
+Senior Manager,
+
+Big Data and Machine Learning expert
+
+Product Development and InsurTech expert
+
+Machine Learning expert
+
+sasbauer@deloitte.de
+
+fwegner@deloitte.de
+
+tviehmann@deloitte.de
+
+Deloitte Insurance Tech Community
+InsTechGermany@deloitte.de
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 41
+
+Subject Matter Experts
+
+Dr. Christian Schareck
+
+Nicolai Andersen
+
+Dr. Kurt Mitzner
+
+Partner, Industry Leader Insurance
+
+Partner, Head of Innovation EMEA
+
+Partner, Strategy Insurance Sector
+
+cschareck@deloitte.de
+
+nicandersen@deloitte.de
+
+kmitzner@deloitte.de
+
+Jens Parthe
+
+Dr. Björn Bringmann
+
+Partner, Strategy Financial Services
+
+Director, Head of Data Science
+
+jparthe@deloitte.de
+
+bbringmann@deloitte.de
+
+42 |
+
+Sources
+18. Tim Urban, Wait but Why (2015): The AI Revolution: The Road to
+Superintelligence; URL: https://waitbutwhy.com/2015/01/artificialintelligence-revolution-1.html
+
+1.
+
+CB Insights (2017): The State of Artificial Intelligence; URL: https://
+www.cbinsights.com/research/report/artificial-intelligence-trends/
+
+2.
+
+CB Insights (2017): The State of Artificial Intelligence; URL: https://
+www.cbinsights.com/research/report/artificial-intelligence-trends/
+
+3.
+
+IDC (2017): Worldwide Semiannual Cognitive/Artificial Intelligence
+Systems Spending Guide
+
+4.
+
+DeepMind (2016): DeepMind AI Reduces Google Data Centre
+Cooling Bill by 40%; URL: https://deepmind.com/blog/deepmind-aireduces-google-data-centre-cooling-bill-40/
+
+5.
+
+U.S. Department of Transportation (2016): ODI RESUME ; URL:
+https://static.nhtsa.gov/odi/inv/2016/INCLA-PE16007-7876.PDF
+
+21. Yaniv Taigman, Ming Yang, Marc’Aurelio Ranzato, Lior Wolf (2014):
+DeepFace: Closing the Gap to Human-Level Performance in Face
+Verification
+
+6.
+
+eMarketer (2017): Alexa, Say What?! Voice-Enabled Speaker Usage
+to Grow Nearly 130% This Year; URL: https://www.emarketer.com/
+Article/Alexa-Say-What-Voice-Enabled-Speaker-Usage-Grow-Nearly130-This-Year/1015812?ecid=NL1001
+
+22. Capital One (2016): Bank on Alexa with Capital One’s Expanding
+Skill for Managing Your Money; URL: https://www.capitalone.com/
+onefocus/bank-alexa/
+
+7.
+
+Gartner (2016): Gartner Predicts 2017
+
+8.
+
+O’Reilly (2017): The New Artificial Intelligence Market
+
+9.
+
+IBM Institute for Business Value (2016): Understanding customers
+and risk
+
+10. IBM Institute for Business Value (2016): Understanding customers
+and risk
+11. IBM Institute for Business Value (2016): Understanding customers
+and risk
+12. IBM (2017): 10 Key Marketing Trends for 2017
+13. Deloitte UK (2015): Insurance disrupted
+14. Deloitte (2017): EMEA Insurance data analytics study
+15. Wired (2016): Google’s AI wins fifth and final game against Go genius
+Lee Sedol; URL: https://www.wired.com/2016/03/googles-ai-winsfifth-final-game-go-genius-lee-sedol/
+16. Tim Urban, Wait but Why (2015): The AI Revolution: The Road to
+Superintelligence; URL: https://waitbutwhy.com/2015/01/artificialintelligence-revolution-1.html
+17. Wired (2016): Google’s AI wins fifth and final game against Go genius
+Lee Sedol; URL: https://www.wired.com/2016/03/googles-ai-winsfifth-final-game-go-genius-lee-sedol/
+
+19. Google (2012): Using large-scale brain simulations for machine
+learning and A.I.; URL: https://www.blog.google/topics/machinelearning/using-large-scale-brain-simulations-for/
+20. Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell, Cornell
+University (2017): Curiosity-driven Exploration by Self-supervised
+Prediction
+
+23. Forrester, TechRadar (2017): AI Technologies Q1
+24. Forbes (2011): Google’s “Infrigenovation” Secrets; URL: https://www.
+forbes.com/sites/scottcleland/2011/10/03/googles-infringenovationsecrets/
+25. IBM (2016): The biggest data challenges that you might not even
+know you have; URL: https://www.ibm.com/blogs/watson/2016/05/
+biggest-data-challenges-might-not-even-know/
+26. Techcrunch (2016): Facebook chose to fight fake news with AI,
+not just user reports; URL: https://techcrunch.com/2016/11/14/
+facebook-fake-news/
+27. O’Reilly (2017): The new data-driven Artificial Intelligence Market
+28. Gartner (2017): Four Use Cases for Chatbots in the Enterprise…Now
+
+From mystery to mastery: Unlocking the business value of Artificial Intelligence in the insurance industry | 43
+
+This communication contains general information only not
+suitable for addressing the particular circumstances of any
+individual case and is not intended to be used as a basis for
+commercial decisions or decisions of any other kind. None of
+Deloitte Digital GmbH or Deloitte Touche Tohmatsu Limited, its
+member firms, or their related entities (collectively, the “Deloitte
+network”) is, by means of this communication, rendering
+professional advice or services. No entity in the Deloitte
+network shall be responsible for any loss whatsoever sustained
+by any person who relies on this communication.
+Deloitte refers to one or more of Deloitte Touche Tohmatsu
+Limited, a UK private company limited by guarantee (“DTTL”), its
+network of member firms, and their related entities. DTTL and
+each of its member firms are legally separate and independent
+entities. DTTL (also referred to as “Deloitte Global”) does not
+provide services to clients. Please see www.deloitte.com/de/
+UeberUns for a more detailed description of DTTL and its
+member firms.
+Deloitte provides audit, risk advisory, tax, financial advisory
+and consulting services to public and private clients spanning
+multiple industries; legal advisory services in Germany are
+provided by Deloitte Legal. With a globally connected network
+of member firms in more than 150 countries, Deloitte brings
+world-class capabilities and high-quality service to clients,
+delivering the insights they need to address their most
+complex business challenges. Deloitte’s approximately 263,900
+professionals are committed to making an impact that matters.
+Issue 11/2017
+
+
