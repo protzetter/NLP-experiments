@@ -15,7 +15,13 @@ A more complete description can be found under https://chatbotslife.com/natural-
 
 https://github.com/protzetter/NLP-experiments/blob/main/insurance.ipynb
 
-Similar to the previous experimebt we can use Spacy to interpret a customer claim.
+Similar to the previous experiment we can use Spacy to interpret a customer claim.
+
+## Account opening
+
+https://github.com/protzetter/NLP-experiments/blob/main/banking%20advisor.ipynb
+
+Similar to the previous experiment we can use Spacy to interpret a customer wanting to open an account in a bank
 
 
 # NLP-experiments
