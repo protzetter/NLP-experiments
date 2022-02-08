@@ -1,16 +1,26 @@
 
 ![Screenshot](iStock-1127341750.jpg)
 
-# NLP-experiments
-A few notebooks with various text mining and natural language processing experiments, just for fun.
+# Spacy Experiments
+A few notebooks with various experiments using Spacy to detect user intents, just for fun.
 
 ## Mail order
 
 https://github.com/protzetter/NLP-experiments/blob/main/ordermail.ipynb
 
-
 Using spacy we can detect the intent of a customer using the entity ruler and the syntactic parser. The example reads the file ordermail.txt abd tries to detect the intent of the customer and the object he is trying to order
 A more complete description can be found under https://chatbotslife.com/natural-language-processing-smarter-conversations-using-spacy-c725e810695?sk=9e569dc89a80ed381601c241e815a190
+
+## Insurance claim
+
+https://github.com/protzetter/NLP-experiments/blob/main/insurance.ipynb
+
+Similar to the previous experimebt we can use Spacy to interpret a customer claim.
+
+
+# NLP-experiments
+A few notebooks with various text mining and natural language processing experiments, just for fun.
+
 
 ## Document mining Part 1
 
